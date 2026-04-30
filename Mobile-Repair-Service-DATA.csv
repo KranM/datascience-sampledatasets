@@ -1,0 +1,1001 @@
+ticket_id,customer_first_name,customer_last_name,customer_email,customer_phone,device_brand,device_model,issue_category,intake_date,finish_date,repair_status,technician_name,parts_cost,labor_cost,payment_method,warranty_provided
+1,Lorilyn,Lofty,llofty0@yelp.com,464-521-2749,Celkon,Celkon C11,Software Issue,2026-01-05,2026-01-10,Diagnosing,Lorilyn Lofty,4037,1072,Credit Card,true
+2,Tessy,Blei,tblei1@dot.gov,568-407-7819,Wiko,Wiko Lenny3 Max,Maintenance,2025-07-17,2025-07-29,Repairing,Tessy Blei,16213,657,Credit Card,false
+3,Osbourne,O'Connolly,ooconnolly2@privacy.gov.au,663-438-3223,Siemens,Siemens CL55,Diagnostic,2025-08-23,2025-08-28,Repairing,Osbourne O'Connolly,8895,715,GCash,false
+4,Graig,Gutch,ggutch3@nymag.com,283-905-4312,Lava,Lava Iris 350,Software Issue,2025-05-19,2025-05-28,Waiting on Parts,,,1319,Cash,true
+5,Katha,Buttner,kbuttner4@npr.org,159-707-9881,Huawei,Huawei Mulan,Diagnostic,2025-09-14,2025-09-21,Received,Katha Buttner,16277,2639,Credit Card,false
+6,Guenevere,Bowdrey,gbowdrey5@businessinsider.com,199-553-1664,Huawei,Huawei P20 lite,Software Issue,2026-01-05,2026-01-14,Waiting on Parts,,12078,1186,,false
+7,Jessi,Trinder,jtrinder6@webnode.com,905-977-3641,Xiaomi,Xiaomi Redmi Note 4 (MediaTek),Diagnostic,2026-01-06,2026-01-18,Unrepairable,Jessi Trinder,,500,,false
+8,Dylan,Cornwell,dcornwell7@homestead.com,984-749-4023,Celkon,Celkon C770,Software Issue,2026-02-21,2026-02-24,Waiting on Parts,Dylan Cornwell,,576,Debit Card,false
+9,Selene,Clace,sclace8@fastcompany.com,192-914-7793,NEC,NEC N109,Troubleshooting,2025-12-15,2025-12-16,Diagnosing,Selene Clace,17147,2213,Cash,false
+10,Florance,Cartmill,fcartmill9@arstechnica.com,719-318-3807,Yezz,Yezz Zenior YZ888,Maintenance,2026-02-03,2026-02-10,Completed,Florance Cartmill,12202,2743,GCash,true
+11,Opalina,Jeannesson,ojeannessona@oaic.gov.au,700-193-7066,Plum,Plum Optimax 11,Diagnostic,2026-02-09,2026-02-22,Repairing,Opalina Jeannesson,6103,1040,,true
+12,Rollin,Wherry,rwherryb@ifeng.com,785-225-9027,alcatel,alcatel OT-C700A,Troubleshooting,2025-10-30,2025-11-06,Diagnosing,Rollin Wherry,6685,2203,Debit Card,true
+13,Randal,O'Conor,roconorc@technorati.com,386-932-3995,WND,WND Wind DUO 2300,Diagnostic,2026-03-18,2026-03-19,Ready for Pickup,Randal O'Conor,15753,1817,Maya,true
+14,Roseanne,Piddlesden,rpiddlesdend@samsung.com,696-289-7888,Huawei,Huawei Watch Fit,Environmental Damage,2025-09-03,2025-09-16,Ready for Pickup,Roseanne Piddlesden,14175,2461,,true
+15,Calhoun,Taye,ctayee@theatlantic.com,147-445-2708,Benefon,Benefon TWIG Discovery Pro,Software Issue,2026-03-18,2026-03-29,Ready for Pickup,Calhoun Taye,11339,1252,Cash,true
+16,Idalia,Coomer,icoomerf@phpbb.com,866-551-4576,Motorola,Motorola C115,Software Issue,2026-02-17,2026-02-27,Repairing,Idalia Coomer,3665,2990,Maya,true
+17,Barret,Skidmore,bskidmoreg@hatena.ne.jp,495-908-6529,Honor,Honor 8S 2020,Troubleshooting,2025-12-08,2025-12-09,Waiting on Parts,,5705,2315,Debit Card,true
+18,Raphaela,Gostling,rgostlingh@timesonline.co.uk,577-868-9936,Lava,Lava Z61,Maintenance,2025-08-23,2025-09-03,Diagnosing,,,2371,Debit Card,false
+19,Walsh,Bartolomeotti,wbartolomeottii@sohu.com,542-430-2267,Motorola,Motorola MOTO XT882,Troubleshooting,2025-12-30,2026-01-04,Received,Walsh Bartolomeotti,12834,1233,Debit Card,false
+20,Tedda,Bewlie,tbewliej@issuu.com,663-818-9629,Philips,Philips 191,Hardware Failure,2026-01-06,2026-01-17,Diagnosing,Tedda Bewlie,,2721,GCash,false
+21,Abran,Scrimshire,ascrimshirek@wired.com,421-344-4545,Celkon,Celkon C44,Diagnostic,2025-07-21,2025-07-23,Completed,Abran Scrimshire,4079,2321,,false
+22,Juliana,Cleminson,jcleminsonl@ask.com,935-150-0596,Huawei,Huawei G6600 Passport,Environmental Damage,2025-11-02,2025-11-03,Waiting on Parts,Juliana Cleminson,4905,2915,Credit Card,false
+23,Chrissy,Rudsdell,crudsdellm@yellowbook.com,602-147-4186,Nokia,Nokia 6060,Environmental Damage,2025-05-10,2025-05-12,Completed,Chrissy Rudsdell,1965,540,Debit Card,false
+24,Tessa,Lumbley,tlumbleyn@i2i.jp,616-274-4680,ZTE,ZTE Blade II V880+,Troubleshooting,2026-01-29,2026-02-01,Repairing,Tessa Lumbley,9752,987,,false
+25,Babb,Matisse,bmatisseo@123-reg.co.uk,495-695-3086,Palm,Palm Centro,Maintenance,2026-04-29,2026-05-05,Unrepairable,Babb Matisse,,500,,true
+26,Meryl,Belch,mbelchp@freewebs.com,109-499-7228,Samsung,Samsung B500,Environmental Damage,2025-08-16,2025-08-24,Diagnosing,Meryl Belch,9435,1309,Debit Card,false
+27,Yetty,Sandyfirth,ysandyfirthq@ucla.edu,572-471-0680,LG,LG KT520,Environmental Damage,2026-03-25,2026-04-07,Repairing,Yetty Sandyfirth,714,569,Debit Card,true
+28,Appolonia,Dickey,adickeyr@networkadvertising.org,190-233-9532,Realme,Realme C3,Maintenance,2026-03-20,2026-04-03,Repairing,Appolonia Dickey,12223,1510,,true
+29,Tammy,Trowill,ttrowills@about.com,536-783-5137,Philips,Philips Ozeo,Diagnostic,2026-03-02,2026-03-06,Diagnosing,Tammy Trowill,17743,2216,Cash,true
+30,Donalt,Dedham,ddedhamt@twitter.com,523-496-4975,LG,LG A100,Software Issue,2025-07-20,2025-07-30,Diagnosing,Donalt Dedham,,1124,PayPal,false
+31,Lida,Vitall,lvitallu@auda.org.au,472-600-9423,Honor,Honor Play4 Pro,Diagnostic,2025-11-04,2025-11-06,Repairing,Lida Vitall,,2565,,true
+32,Sukey,Gyves,sgyvesv@toplist.cz,359-535-4682,Samsung,Samsung Droid Charge I510,Hardware Failure,2025-08-01,2025-08-10,Unrepairable,Sukey Gyves,,500,,false
+33,Kimberlyn,Boucher,kboucherw@csmonitor.com,628-293-8432,Samsung,Samsung Galaxy S II LTE i727R,Troubleshooting,2026-01-17,2026-01-18,Repairing,Kimberlyn Boucher,11361,1197,,true
+34,Baron,Seligson,bseligsonx@sourceforge.net,797-487-0398,Realme,Realme 5i,Maintenance,2025-05-07,2025-05-17,Diagnosing,Baron Seligson,1697,1674,Credit Card,false
+35,Bronny,McFayden,bmcfaydeny@ameblo.jp,534-487-6691,Coolpad,Coolpad Cool 2,Software Issue,2026-01-23,2026-01-28,Diagnosing,Bronny McFayden,,2953,Maya,true
+36,Corrina,Halloran,challoranz@bigcartel.com,249-172-5439,i-mate,i-mate SPJAS,Diagnostic,2025-06-30,2025-07-02,Repairing,Corrina Halloran,9109,1116,Cash,false
+37,Rikki,Pavey,rpavey10@yellowbook.com,402-438-9260,Lava,Lava Iris Atom,Environmental Damage,2025-07-03,2025-07-13,Unrepairable,Rikki Pavey,,500,,false
+38,Randy,Copestick,rcopestick11@google.com.au,607-596-3684,Nokia,Nokia 5235 Comes With Music,Troubleshooting,2025-12-27,2026-01-02,Repairing,Randy Copestick,16977,1952,PayPal,false
+39,Wenonah,Symington,wsymington12@walmart.com,989-545-4835,Chea,Chea 198,Troubleshooting,2025-05-20,2025-05-26,Ready for Pickup,,18885,2274,PayPal,false
+40,Nathan,O'Fearguise,nofearguise13@slideshare.net,333-420-6806,alcatel,alcatel 1x,Troubleshooting,2026-03-06,2026-03-09,Diagnosing,Nathan O'Fearguise,3999,736,PayPal,true
+41,Liuka,Tennant,ltennant14@cocolog-nifty.com,363-985-4647,Motorola,Motorola W270,Software Issue,2025-08-14,2025-08-27,Completed,Liuka Tennant,9338,1440,GCash,false
+42,Glory,Sygrove,gsygrove15@archive.org,659-466-0612,Fairphone,Fairphone 3+,Diagnostic,2026-04-18,2026-04-24,Repairing,Glory Sygrove,12362,1952,Maya,false
+43,Alanson,Donoghue,adonoghue16@bizjournals.com,513-789-1442,Motorola,Motorola DROID X ME811,Troubleshooting,2025-05-11,2025-05-13,Ready for Pickup,Alanson Donoghue,4540,534,,true
+44,Augustine,Challicombe,achallicombe17@ox.ac.uk,985-672-6209,Acer,Acer Liquid Gallant Duo,Software Issue,2025-11-05,2025-11-08,Received,Augustine Challicombe,10300,1172,PayPal,false
+45,Wallie,Elce,welce18@mozilla.com,918-773-4209,Xiaomi,Xiaomi Mi A2 (Mi 6X),Diagnostic,2026-01-30,2026-02-08,Ready for Pickup,Wallie Elce,19595,2667,PayPal,false
+46,Darice,Dulany,ddulany19@sakura.ne.jp,550-119-3976,Infinix,Infinix Zero 8,Software Issue,2026-03-13,2026-03-26,Waiting on Parts,Darice Dulany,11899,1444,GCash,true
+47,Graehme,Jevons,gjevons1a@w3.org,867-343-2992,Motorola,Motorola Moto Z Play,Maintenance,2025-08-21,2025-08-31,Unrepairable,Graehme Jevons,,500,,false
+48,Kettie,Robshaw,krobshaw1b@feedburner.com,950-980-5428,O2,O2 X4,Diagnostic,2025-09-14,2025-09-25,Diagnosing,Kettie Robshaw,2180,859,PayPal,true
+49,Everard,Oloshin,eoloshin1c@globo.com,337-868-8407,Motorola,Motorola StarTAC Rainbow,Hardware Failure,2026-01-19,2026-02-02,Repairing,Everard Oloshin,11829,1151,Cash,true
+50,Cyndia,Rhodes,crhodes1d@springer.com,269-796-3757,Siemens,Siemens M35i,Troubleshooting,2025-10-21,2025-10-27,Received,Cyndia Rhodes,11278,2846,Cash,true
+51,Goldie,Minchinton,gminchinton1e@illinois.edu,434-383-4165,NEC,NEC e101,Maintenance,2025-10-29,2025-11-08,Diagnosing,Goldie Minchinton,6088,1059,,true
+52,Efrem,Roo,eroo1f@canalblog.com,905-433-9877,verykool,verykool s5036 Apollo,Troubleshooting,2025-06-12,2025-06-14,Waiting on Parts,Efrem Roo,16451,971,Credit Card,false
+53,Brandise,Matevosian,bmatevosian1g@boston.com,872-468-5905,Amoi,Amoi S6,Hardware Failure,2025-11-15,2025-11-27,Repairing,Brandise Matevosian,1222,951,PayPal,true
+54,Ophelie,Wayland,owayland1h@accuweather.com,550-182-2885,LG,LG KB770,Software Issue,2025-06-30,2025-07-14,Diagnosing,Ophelie Wayland,4858,1416,GCash,true
+55,Erek,Mazzei,emazzei1i@buzzfeed.com,143-462-6585,Sewon,Sewon SG-2320CD,Diagnostic,2026-03-03,2026-03-08,Unrepairable,Erek Mazzei,,500,,true
+56,Donny,Heintsch,dheintsch1j@mapquest.com,947-753-1331,Samsung,Samsung E1260B,Troubleshooting,2025-12-23,2026-01-04,Repairing,Donny Heintsch,1629,1046,GCash,true
+57,Nan,Toomey,ntoomey1k@economist.com,886-448-3837,Micromax,Micromax Canvas Unite 4,Environmental Damage,2026-01-14,2026-01-16,Received,Nan Toomey,9544,1264,Credit Card,false
+58,Law,Shovel,lshovel1l@alexa.com,400-917-2851,BLU,BLU Samba Elite,Maintenance,2025-12-22,2026-01-02,Waiting on Parts,Law Shovel,3806,902,Cash,true
+59,Pren,Antonellini,pantonellini1m@delicious.com,941-107-3691,Sony,Sony Xperia go,Hardware Failure,2025-05-03,2025-05-12,Received,Pren Antonellini,5827,2423,Maya,true
+60,Maximilianus,Imos,mimos1n@123-reg.co.uk,190-721-2513,Kyocera,Kyocera Brio,Diagnostic,2025-09-03,2025-09-10,Completed,Maximilianus Imos,18129,2363,Cash,false
+61,Read,Covell,rcovell1o@pbs.org,478-287-3869,Asus,Asus Transformer Pad TF300TG,Diagnostic,2025-05-20,2025-05-22,Ready for Pickup,Read Covell,9911,1365,Credit Card,true
+62,Jackelyn,Belding,jbelding1p@yellowbook.com,401-663-3368,Spice,Spice Mi-422 Smartflo Pace,Environmental Damage,2025-09-12,2025-09-13,Unrepairable,Jackelyn Belding,,500,,false
+63,Chris,Prebble,cprebble1q@psu.edu,383-860-4123,Infinix,Infinix Smart3 Plus,Hardware Failure,2025-07-04,2025-07-10,Received,Chris Prebble,15056,816,Credit Card,false
+64,Ester,Snoddin,esnoddin1r@mit.edu,619-758-0969,Allview,Allview V2 Viper X,Hardware Failure,2025-09-17,2025-09-22,Received,Ester Snoddin,,2304,,true
+65,Agnese,O'Sheilds,aosheilds1s@howstuffworks.com,619-839-7523,verykool,verykool RS90,Environmental Damage,2025-08-04,2025-08-11,Waiting on Parts,Agnese O'Sheilds,12622,684,GCash,false
+66,Gretal,Punter,gpunter1t@woothemes.com,625-326-4395,Panasonic,Panasonic Eluga A3,Troubleshooting,2026-04-09,2026-04-11,Ready for Pickup,Gretal Punter,,1132,Credit Card,false
+67,Brett,Lowensohn,blowensohn1u@upenn.edu,977-400-6746,LG,LG T5100,Maintenance,2025-11-13,2025-11-14,Diagnosing,Brett Lowensohn,8145,1995,PayPal,false
+68,Maryann,Do Rosario,mdo1v@ucsd.edu,688-615-1994,LG,LG GX200,Troubleshooting,2026-01-23,2026-01-24,Received,Maryann Do Rosario,5093,1366,Credit Card,true
+69,Corri,McGifford,cmcgifford1w@wikispaces.com,761-720-4043,Qtek,Qtek 1010,Troubleshooting,2026-04-05,2026-04-11,Waiting on Parts,Corri McGifford,435,2330,Debit Card,true
+70,Celestyna,Huckle,chuckle1x@time.com,992-190-2143,Nokia,Nokia Lumia 900 AT&T,Troubleshooting,2026-01-22,2026-01-29,Waiting on Parts,Celestyna Huckle,2639,1544,PayPal,true
+71,Karol,Seegar,kseegar1y@sphinn.com,447-236-6674,Samsung,Samsung X450,Diagnostic,2026-03-18,2026-03-24,Unrepairable,Karol Seegar,,500,,false
+72,Benn,Wadmore,bwadmore1z@furl.net,790-364-0204,Lenovo,Lenovo A516,Troubleshooting,2026-04-23,2026-05-06,Waiting on Parts,Benn Wadmore,10541,2432,Cash,false
+73,Walt,Fallowfield,wfallowfield20@google.ca,679-295-9280,Xiaomi,Xiaomi Redmi 2A,Environmental Damage,2025-10-08,2025-10-10,Completed,Walt Fallowfield,11172,2078,Debit Card,true
+74,Florenza,Pulbrook,fpulbrook21@youku.com,922-652-1850,Unnecto,Unnecto Drone X,Software Issue,2025-11-11,2025-11-19,Waiting on Parts,Florenza Pulbrook,10074,826,,true
+75,Pip,Keuntje,pkeuntje22@themeforest.net,722-386-9644,HTC,HTC Desire S,Maintenance,2025-09-11,2025-09-14,Received,Pip Keuntje,7194,1511,Credit Card,false
+76,Brion,Falconar,bfalconar23@mlb.com,794-561-7282,alcatel,alcatel OT-806,Hardware Failure,2026-03-31,2026-04-03,Received,Brion Falconar,9910,1273,GCash,true
+77,Gregory,Assur,gassur24@sourceforge.net,509-251-4317,Apple,Apple iPad Wi-Fi + 3G,Diagnostic,2026-01-30,2026-02-01,Received,,7775,2813,GCash,true
+78,Graeme,Sehorsch,gsehorsch25@patch.com,156-760-6942,alcatel,alcatel 1s,Diagnostic,2026-03-18,2026-03-28,Diagnosing,Graeme Sehorsch,,2515,PayPal,true
+79,Nancee,Birchall,nbirchall26@histats.com,584-900-9001,BLU,BLU Life One X,Software Issue,2026-04-18,2026-04-24,Repairing,Nancee Birchall,,2575,Credit Card,true
+80,Bobette,Keaton,bkeaton27@studiopress.com,297-220-6772,Infinix,Infinix Hot 5 Lite,Maintenance,2026-01-10,2026-01-15,Repairing,Bobette Keaton,,2105,Debit Card,true
+81,Katine,Harbach,kharbach28@rakuten.co.jp,253-330-4743,BenQ-Siemens,BenQ-Siemens EF71,Environmental Damage,2025-10-27,2025-10-28,Waiting on Parts,Katine Harbach,2458,1206,Maya,false
+82,Griswold,Rosone,grosone29@google.co.jp,474-908-5357,Nokia,Nokia 6131 NFC,Diagnostic,2025-08-16,2025-08-30,Waiting on Parts,Griswold Rosone,12257,1064,Cash,true
+83,Annalee,Bloxham,abloxham2a@pinterest.com,662-939-5090,alcatel,alcatel OT-203,Software Issue,2026-04-02,2026-04-16,Waiting on Parts,Annalee Bloxham,16281,785,PayPal,false
+84,Lorant,Ricca,lricca2b@woothemes.com,303-397-8810,Oppo,Oppo R11s Plus,Diagnostic,2026-03-04,2026-03-08,Repairing,,1475,1390,Credit Card,true
+85,Thaddus,Eldrett,teldrett2c@salon.com,982-248-3257,Acer,Acer Iconia Tab A500,Software Issue,2026-02-24,2026-03-09,Received,Thaddus Eldrett,5735,2146,Debit Card,false
+86,Milly,Heynen,mheynen2d@themeforest.net,790-609-8277,Xiaomi,Xiaomi Redmi 5,Environmental Damage,2025-11-28,2025-12-04,Unrepairable,Milly Heynen,,500,,false
+87,Daron,Jaine,djaine2e@taobao.com,505-157-4322,Samsung,Samsung Star Deluxe Duos S5292,Environmental Damage,2025-07-31,2025-08-05,Ready for Pickup,Daron Jaine,13885,2092,,false
+88,Korey,Major,kmajor2f@msn.com,995-950-2931,BlackBerry,BlackBerry 6720,Diagnostic,2025-05-29,2025-06-01,Waiting on Parts,Korey Major,9433,2979,Cash,false
+89,Penni,Train,ptrain2g@fda.gov,212-479-9758,ZTE,ZTE nubia Z11 Max,Environmental Damage,2025-08-27,2025-09-09,Received,,837,2037,GCash,true
+90,Florian,Pech,fpech2h@acquirethisname.com,889-895-2433,Lenovo,Lenovo S650,Diagnostic,2025-10-27,2025-11-04,Waiting on Parts,Florian Pech,14442,1368,PayPal,false
+91,Lotta,Emmert,lemmert2i@smugmug.com,372-464-2353,Energizer,Energizer Power Max P16K Pro,Troubleshooting,2026-02-01,2026-02-14,Repairing,Lotta Emmert,6549,2247,Cash,false
+92,Rosy,Fall,rfall2j@dailymail.co.uk,872-173-7906,LG,LG C900 Optimus 7Q ,Environmental Damage,2025-11-11,2025-11-15,Waiting on Parts,,4978,1350,PayPal,true
+93,Catherine,Kenrat,ckenrat2k@cmu.edu,857-871-7238,Honor,Honor Play 3e,Diagnostic,2025-07-09,2025-07-11,Completed,Catherine Kenrat,17274,1247,PayPal,false
+94,Fredelia,Darcy,fdarcy2l@admin.ch,313-381-4872,Motorola,Motorola StarTAC 130,Maintenance,2026-04-20,2026-05-04,Waiting on Parts,Fredelia Darcy,725,1095,,false
+95,Mirabel,Berns,mberns2m@icio.us,428-695-1930,LG,LG U880,Diagnostic,2025-12-06,2025-12-08,Repairing,Mirabel Berns,8306,2124,GCash,true
+96,Cindy,Ghirigori,cghirigori2n@webmd.com,448-602-3141,Acer,Acer Liquid Z530,Hardware Failure,2026-04-01,2026-04-02,Received,Cindy Ghirigori,16166,591,Maya,false
+97,Miran,Tummond,mtummond2o@is.gd,775-553-5924,Eten,Eten glofiish M800,Maintenance,2025-09-05,2025-09-13,Unrepairable,Miran Tummond,,500,,true
+98,Bondon,Skupinski,bskupinski2p@mtv.com,338-711-1057,Maxon,Maxon MX-6899,Maintenance,2025-07-28,2025-08-01,Ready for Pickup,Bondon Skupinski,,1620,,false
+99,Abby,Ofer,aofer2q@cbc.ca,366-766-3961,Nokia,Nokia E61,Maintenance,2026-04-13,2026-04-27,Diagnosing,Abby Ofer,,2607,Maya,false
+100,Milt,Keay,mkeay2r@paginegialle.it,750-364-7931,ZTE,ZTE N290,Maintenance,2026-03-13,2026-03-14,Ready for Pickup,Milt Keay,13217,2251,,false
+101,Gran,Thicking,gthicking2s@example.com,119-996-9345,Wiko,Wiko Lenny3,Software Issue,2026-03-22,2026-03-25,Repairing,Gran Thicking,,2481,,true
+102,Hermon,Bartle,hbartle2t@elegantthemes.com,423-719-9138,Huawei,Huawei MatePad 10.8,Maintenance,2025-10-17,2025-10-25,Diagnosing,Hermon Bartle,13697,1395,Debit Card,false
+103,Nico,Iacovazzi,niacovazzi2u@craigslist.org,130-116-2445,ZTE,ZTE Grand S Flex,Troubleshooting,2025-10-31,2025-11-02,Received,Nico Iacovazzi,17474,2093,Credit Card,true
+104,Nealon,Spray,nspray2v@51.la,860-117-7312,Apple,Apple iPad Pro 9.7 (2016),Hardware Failure,2025-08-28,2025-09-03,Ready for Pickup,Nealon Spray,15741,2077,Cash,false
+105,Kendall,McLarnon,kmclarnon2w@last.fm,840-540-1775,Nokia,Nokia 6060,Hardware Failure,2025-09-27,2025-10-01,Diagnosing,Kendall McLarnon,19093,1566,Credit Card,false
+106,Harvey,Pledge,hpledge2x@indiegogo.com,969-368-7744,Apple,Apple iPhone 8 Plus,Environmental Damage,2025-09-22,2025-09-28,Ready for Pickup,Harvey Pledge,1727,1091,Maya,false
+107,Opal,Witz,owitz2y@thetimes.co.uk,829-318-8746,Motorola,Motorola MILESTONE 2,Environmental Damage,2025-11-05,2025-11-06,Diagnosing,Opal Witz,3153,1013,Maya,true
+108,Juli,McGooch,jmcgooch2z@sitemeter.com,620-186-0452,Sendo,Sendo S360,Environmental Damage,2026-01-29,2026-02-09,Unrepairable,Juli McGooch,,500,,true
+109,Fabien,Driscoll,fdriscoll30@alibaba.com,178-590-3898,Philips,Philips 350,Environmental Damage,2026-03-17,2026-03-21,Repairing,Fabien Driscoll,14849,558,Debit Card,true
+110,Roobbie,Lorain,rlorain31@dell.com,255-402-9408,Spice,Spice Stellar 361 (Mi-361),Maintenance,2025-06-15,2025-06-20,Unrepairable,Roobbie Lorain,,500,,true
+111,Teddi,Sowrah,tsowrah32@wunderground.com,144-779-4953,Samsung,Samsung C5220,Hardware Failure,2026-04-29,2026-05-11,Received,Teddi Sowrah,16640,2657,Cash,false
+112,Shayne,Triplow,striplow33@netscape.com,377-788-1567,Lenovo,Lenovo Vibe K5 Plus,Diagnostic,2025-09-26,2025-10-03,Ready for Pickup,,12547,1709,,true
+113,Nelie,Newstead,nnewstead34@chronoengine.com,661-349-7997,NEC,NEC N900,Troubleshooting,2026-03-25,2026-03-29,Unrepairable,Nelie Newstead,,500,,false
+114,Jobye,Sheddan,jsheddan35@washingtonpost.com,485-708-3307,Celkon,Celkon C17,Environmental Damage,2025-05-15,2025-05-23,Received,Jobye Sheddan,15940,2651,GCash,true
+115,Gard,Gencke,ggencke36@chicagotribune.com,710-277-9547,Apple,Apple iPad Air (2020),Hardware Failure,2025-05-16,2025-05-26,Received,Gard Gencke,13509,2818,GCash,false
+116,Tilly,Aleveque,taleveque37@comcast.net,206-355-7875,verykool,verykool T7445,Environmental Damage,2026-01-19,2026-02-02,Waiting on Parts,Tilly Aleveque,4886,927,GCash,false
+117,Clemente,Vellender,cvellender38@statcounter.com,658-623-3736,Amoi,Amoi A310,Maintenance,2025-08-12,2025-08-22,Waiting on Parts,Clemente Vellender,13749,678,Credit Card,true
+118,Millicent,MacLise,mmaclise39@sakura.ne.jp,624-829-9038,Toshiba,Toshiba Excite 13 AT335,Software Issue,2026-03-08,2026-03-14,Repairing,Millicent MacLise,9871,2067,,true
+119,Weider,Graham,wgraham3a@moonfruit.com,477-522-3187,Vertu,Vertu Ascent,Troubleshooting,2025-10-28,2025-11-05,Unrepairable,Weider Graham,,500,,false
+120,Giulietta,Filasov,gfilasov3b@homestead.com,465-960-9173,BlackBerry,BlackBerry Passport,Maintenance,2025-07-03,2025-07-14,Ready for Pickup,,15208,2147,Cash,false
+121,Loria,McDonald,lmcdonald3c@java.com,741-906-3689,Sony,Sony CMD J70,Diagnostic,2026-01-04,2026-01-17,Repairing,Loria McDonald,15560,1751,,true
+122,Krystyna,Van Velden,kvan3d@etsy.com,872-962-5026,Nokia,Nokia 500,Maintenance,2025-08-10,2025-08-15,Ready for Pickup,Krystyna Van Velden,13832,2820,GCash,false
+123,Ernaline,Bottini,ebottini3e@mapquest.com,132-427-6607,Vodafone,Vodafone 540,Environmental Damage,2025-07-16,2025-07-21,Waiting on Parts,Ernaline Bottini,7516,2961,Maya,false
+124,Virge,de Glanville,vde3f@i2i.jp,742-501-8424,Acer,Acer Iconia One 7 B1-730,Software Issue,2025-07-17,2025-07-19,Received,Virge de Glanville,19078,1909,Maya,false
+125,Starr,Sutherington,ssutherington3g@goo.ne.jp,764-463-1535,Karbonn,Karbonn S7 Titanium,Maintenance,2026-03-30,2026-04-06,Diagnosing,,982,2285,PayPal,false
+126,Sylvan,Wickstead,swickstead3h@nifty.com,625-880-4365,vivo,vivo iQOO 3 5G,Troubleshooting,2025-09-26,2025-10-06,Ready for Pickup,Sylvan Wickstead,13881,869,Debit Card,true
+127,Benny,Killford,bkillford3i@freewebs.com,803-845-0278,Huawei,Huawei G7005,Hardware Failure,2025-09-14,2025-09-25,Diagnosing,Benny Killford,9867,1028,Maya,true
+128,Town,Tarbox,ttarbox3j@simplemachines.org,569-208-5074,vivo,vivo Y20s,Diagnostic,2025-12-17,2025-12-30,Repairing,Town Tarbox,1199,2014,Debit Card,true
+129,Rubia,Concannon,rconcannon3k@instagram.com,106-709-4073,Bird,Bird A130,Environmental Damage,2025-06-14,2025-06-24,Ready for Pickup,Rubia Concannon,,1453,Credit Card,true
+130,Sander,Windeatt,swindeatt3l@163.com,688-816-9454,Huawei,Huawei Mate 40,Software Issue,2025-08-10,2025-08-12,Completed,Sander Windeatt,11934,547,Credit Card,true
+131,Bailey,Oneile,boneile3m@stumbleupon.com,831-374-5083,Samsung,Samsung E200 ECO,Maintenance,2025-08-26,2025-09-03,Completed,Bailey Oneile,16773,1794,,true
+132,Mimi,Egarr,megarr3n@shareasale.com,225-131-9339,Motorola,Motorola Moto 360 Sport (1st gen),Software Issue,2026-02-02,2026-02-05,Waiting on Parts,Mimi Egarr,8533,954,Cash,true
+133,Jocko,Luna,jluna3o@tinyurl.com,131-868-8236,Samsung,Samsung Rex 60 C3312R,Software Issue,2025-12-09,2025-12-15,Diagnosing,Jocko Luna,9980,805,Cash,true
+134,Waylan,Aucourte,waucourte3p@who.int,164-405-8096,Panasonic,Panasonic VS7,Maintenance,2025-08-16,2025-08-26,Waiting on Parts,Waylan Aucourte,9437,756,GCash,true
+135,Retha,Woolbrook,rwoolbrook3q@blogs.com,677-541-2288,Samsung,Samsung I8200 Galaxy S III mini VE,Diagnostic,2026-02-06,2026-02-14,Completed,Retha Woolbrook,13488,2402,Cash,false
+136,Yvon,Berthome,yberthome3r@dedecms.com,902-364-0368,alcatel,alcatel OT-E159,Environmental Damage,2025-12-13,2025-12-22,Received,Yvon Berthome,6379,550,Maya,true
+137,Illa,Braidley,ibraidley3s@nhs.uk,955-330-6683,Maxwest,Maxwest Nitro Phablet 71,Software Issue,2025-09-28,2025-10-09,Completed,Illa Braidley,2750,1149,Maya,false
+138,Chadd,Favel,cfavel3t@cocolog-nifty.com,307-106-4577,Motorola,Motorola Moto E,Hardware Failure,2025-05-18,2025-05-25,Received,Chadd Favel,,856,GCash,false
+139,Joscelin,Truitt,jtruitt3u@g.co,825-116-3638,Honor,Honor Watch ES,Software Issue,2025-08-27,2025-09-10,Repairing,Joscelin Truitt,6885,2828,Credit Card,false
+140,Sonja,Jemison,sjemison3v@hostgator.com,303-575-4030,NIU,NIU Andy 5EI,Software Issue,2025-09-21,2025-09-28,Completed,Sonja Jemison,,2170,Cash,false
+141,Carla,Gateman,cgateman3w@google.de,976-975-8596,Vodafone,Vodafone 716,Troubleshooting,2025-09-16,2025-09-20,Completed,Carla Gateman,10497,1785,PayPal,false
+142,Granger,McAlpine,gmcalpine3x@tamu.edu,319-403-4627,Sharp,Sharp 902,Hardware Failure,2026-03-06,2026-03-20,Diagnosing,Granger McAlpine,5016,597,,false
+143,Richmond,Jagson,rjagson3y@hud.gov,375-971-1765,Nokia,Nokia E50,Diagnostic,2026-01-09,2026-01-17,Diagnosing,Richmond Jagson,16391,1773,PayPal,true
+144,Immanuel,Archdeckne,iarchdeckne3z@arizona.edu,262-353-6404,Lenovo,Lenovo A789,Maintenance,2026-03-22,2026-04-04,Waiting on Parts,Immanuel Archdeckne,12212,2789,Debit Card,true
+145,Enos,Methingam,emethingam40@4shared.com,114-820-1369,Samsung,Samsung T819,Troubleshooting,2025-12-07,2025-12-13,Waiting on Parts,Enos Methingam,19990,2151,Credit Card,true
+146,Codi,Auty,cauty41@addthis.com,597-648-4340,verykool,verykool i129,Maintenance,2025-09-17,2025-09-27,Ready for Pickup,Codi Auty,18184,1907,Debit Card,false
+147,Nickolas,Hentzer,nhentzer42@slashdot.org,363-602-3619,Samsung,Samsung Galaxy S5 Active,Environmental Damage,2025-04-30,2025-05-09,Unrepairable,Nickolas Hentzer,,500,,true
+148,Peder,Menichelli,pmenichelli43@cocolog-nifty.com,866-519-9618,LG,LG U890,Software Issue,2025-06-26,2025-07-06,Repairing,Peder Menichelli,701,863,,false
+149,Terza,Miche,tmiche44@ebay.com,577-385-6960,ZTE,ZTE Blade A910,Maintenance,2025-05-19,2025-05-28,Completed,Terza Miche,15801,1663,Credit Card,false
+150,Damita,Michelet,dmichelet45@oaic.gov.au,828-402-6917,Micromax,Micromax Bolt D303,Hardware Failure,2025-05-15,2025-05-16,Received,Damita Michelet,14451,1258,Debit Card,false
+151,Dorian,Liggett,dliggett46@ftc.gov,312-239-9712,verykool,verykool s5526 Alpha,Environmental Damage,2025-06-10,2025-06-23,Completed,Dorian Liggett,4793,2839,Maya,true
+152,Bryce,Archambault,barchambault47@uiuc.edu,744-565-0306,Lenovo,Lenovo A830,Maintenance,2025-11-24,2025-12-08,Diagnosing,Bryce Archambault,13121,713,Credit Card,true
+153,Bettye,Jowers,bjowers48@umich.edu,137-380-0041,Maxon,Maxon MX-C90,Diagnostic,2026-01-01,2026-01-06,Repairing,Bettye Jowers,11749,2901,Debit Card,false
+154,Margarette,Sweynson,msweynson49@goo.ne.jp,589-335-5284,verykool,verykool i610,Maintenance,2025-12-04,2025-12-08,Unrepairable,Margarette Sweynson,,500,,true
+155,Buck,Benjamin,bbenjamin4a@pagesperso-orange.fr,159-164-5176,Motorola,Motorola V191,Troubleshooting,2025-07-19,2025-07-21,Repairing,Buck Benjamin,1614,2576,,true
+156,Marlena,Sawdy,msawdy4b@independent.co.uk,960-922-8634,Micromax,Micromax A105 Canvas Entice,Maintenance,2025-11-25,2025-11-28,Received,Marlena Sawdy,2685,2732,Cash,false
+157,Rosemarie,Eskriet,reskriet4c@purevolume.com,813-144-6593,LG,LG KP215,Troubleshooting,2025-12-02,2025-12-06,Diagnosing,,19944,1057,,true
+158,Berri,Millions,bmillions4d@berkeley.edu,635-817-0307,Nokia,Nokia 6220,Hardware Failure,2025-08-16,2025-08-29,Received,,10284,1043,,true
+159,Bernard,Rodnight,brodnight4e@fastcompany.com,631-919-1594,Samsung,Samsung I9103 Galaxy R,Troubleshooting,2025-12-29,2026-01-06,Received,Bernard Rodnight,14203,2145,PayPal,true
+160,Yale,O'Gleasane,yogleasane4f@geocities.com,393-867-7650,vivo,vivo Xplay7,Hardware Failure,2026-04-22,2026-04-25,Diagnosing,Yale O'Gleasane,11506,686,Maya,false
+161,Stanislaw,Jorg,sjorg4g@facebook.com,805-892-2494,Nokia,Nokia 1101,Diagnostic,2025-12-29,2026-01-12,Received,Stanislaw Jorg,14241,2480,Debit Card,false
+162,Lian,Challender,lchallender4h@1und1.de,793-230-4231,Amazon,Amazon Fire HD 8 Plus (2020),Diagnostic,2026-01-05,2026-01-08,Unrepairable,Lian Challender,,500,,true
+163,Christabel,Kisbee,ckisbee4i@prnewswire.com,914-987-5414,Maxwest,Maxwest Vice,Software Issue,2025-11-26,2025-11-30,Ready for Pickup,Christabel Kisbee,19194,2474,,false
+164,Rafael,Newcombe,rnewcombe4j@sfgate.com,393-330-7606,Samsung,Samsung Galaxy Note20 Ultra,Hardware Failure,2025-05-03,2025-05-12,Completed,Rafael Newcombe,12121,1532,Credit Card,false
+165,Filberte,Pinniger,fpinniger4k@dropbox.com,691-587-1227,Samsung,Samsung C260,Diagnostic,2026-03-31,2026-04-03,Ready for Pickup,,3835,851,Maya,true
+166,Penn,Huikerby,phuikerby4l@harvard.edu,889-929-3091,Samsung,Samsung Galaxy Nexus LTE L700,Environmental Damage,2026-03-15,2026-03-17,Ready for Pickup,Penn Huikerby,13110,2519,PayPal,false
+167,Drucy,Stuttard,dstuttard4m@discovery.com,789-517-6188,Huawei,Huawei Y6s (2019),Software Issue,2025-05-30,2025-06-04,Received,Drucy Stuttard,1887,671,Cash,true
+168,Jeff,Nequest,jnequest4n@thetimes.co.uk,525-719-0096,Sony,Sony Xperia E3 Dual,Environmental Damage,2025-07-09,2025-07-15,Received,Jeff Nequest,14131,2710,GCash,true
+169,Morey,Drust,mdrust4o@so-net.ne.jp,919-791-4277,Realme,Realme 6i,Diagnostic,2026-02-14,2026-02-21,Received,Morey Drust,18100,1970,PayPal,false
+170,Alasdair,Phillcox,aphillcox4p@amazon.de,556-940-6616,Samsung,Samsung R860 Caliber,Troubleshooting,2025-06-07,2025-06-11,Diagnosing,Alasdair Phillcox,5017,760,Maya,false
+171,Lucien,Poleye,lpoleye4q@ebay.co.uk,682-972-7304,Nokia,Nokia 106 (2018),Environmental Damage,2026-03-23,2026-04-02,Repairing,Lucien Poleye,12996,1283,PayPal,false
+172,Gaynor,Oxtarby,goxtarby4r@answers.com,651-163-4160,Sony,Sony Xperia E4 Dual,Hardware Failure,2025-08-27,2025-08-29,Repairing,Gaynor Oxtarby,6998,963,Debit Card,true
+173,Ira,Malecky,imalecky4s@csmonitor.com,282-671-9913,Wiko,Wiko Pulp Fab 4G,Troubleshooting,2025-11-11,2025-11-17,Ready for Pickup,,709,2575,,true
+174,Philipa,Fogel,pfogel4t@imgur.com,353-420-5899,Samsung,Samsung Galaxy Reverb M950,Software Issue,2025-05-10,2025-05-24,Completed,Philipa Fogel,19297,2645,GCash,false
+175,Gale,Ciciura,gciciura4u@loc.gov,475-996-5685,alcatel,alcatel One Touch Tab 7,Environmental Damage,2026-01-23,2026-01-25,Waiting on Parts,Gale Ciciura,9134,1781,Credit Card,true
+176,Aurthur,Muat,amuat4v@cmu.edu,622-992-0508,Pantech,Pantech Marauder,Software Issue,2025-06-09,2025-06-17,Received,Aurthur Muat,4383,2739,GCash,false
+177,Adrea,Dosedale,adosedale4w@odnoklassniki.ru,451-709-3331,Motorola,Motorola One Fusion+,Software Issue,2025-07-09,2025-07-14,Repairing,Adrea Dosedale,16217,1895,Cash,true
+178,Elwyn,Djurevic,edjurevic4x@arizona.edu,832-839-8834,Huawei,Huawei Enjoy 20 Pro,Maintenance,2025-09-02,2025-09-11,Unrepairable,Elwyn Djurevic,,500,,true
+179,Esme,Avey,eavey4y@dropbox.com,624-937-6310,Motorola,Motorola MPx200,Environmental Damage,2025-07-15,2025-07-17,Completed,Esme Avey,,723,Maya,true
+180,Agustin,Kitter,akitter4z@japanpost.jp,269-558-3476,YU,YU Yureka Plus,Software Issue,2025-09-17,2025-09-23,Received,Agustin Kitter,14617,2355,Credit Card,true
+181,Gaelan,Oxborrow,goxborrow50@mlb.com,793-912-0271,alcatel,alcatel Pop Up,Software Issue,2025-06-21,2025-06-30,Diagnosing,Gaelan Oxborrow,16666,2128,Credit Card,false
+182,Mata,Amys,mamys51@wp.com,611-611-1210,Asus,Asus Zenfone 4 Max ZC554KL,Environmental Damage,2025-09-20,2025-09-30,Unrepairable,Mata Amys,,500,,false
+183,Doy,Willets,dwillets52@booking.com,713-552-7117,LG,LG KG270,Environmental Damage,2025-08-20,2025-08-24,Completed,Doy Willets,4726,1967,,false
+184,Jonie,Bretherick,jbretherick53@exblog.jp,400-602-7896,Lenovo,Lenovo K5 Note,Environmental Damage,2025-11-16,2025-11-19,Ready for Pickup,Jonie Bretherick,,1373,Maya,true
+185,Doro,Garriock,dgarriock54@google.ca,811-917-3620,Samsung,Samsung Galaxy Tab A 8.0 & S Pen (2015),Hardware Failure,2026-03-10,2026-03-24,Completed,Doro Garriock,2704,2182,Credit Card,false
+186,Redford,Burburough,rburburough55@thetimes.co.uk,390-197-1932,BLU,BLU G90,Hardware Failure,2025-09-18,2025-09-22,Received,Redford Burburough,16321,2603,Maya,true
+187,Morlee,Faux,mfaux56@comsenz.com,433-618-4699,Philips,Philips T939,Hardware Failure,2025-05-28,2025-06-03,Ready for Pickup,,2944,706,Cash,false
+188,Davie,Challinor,dchallinor57@hibu.com,413-583-0097,Samsung,Samsung P7500 Galaxy Tab 10.1 3G,Software Issue,2026-01-08,2026-01-17,Repairing,Davie Challinor,6193,723,GCash,true
+189,Obadias,Hunnable,ohunnable58@eventbrite.com,596-965-7949,TCL,TCL 10 TabMid,Diagnostic,2025-07-06,2025-07-13,Diagnosing,Obadias Hunnable,12927,1057,Maya,true
+190,Alfonse,Magwood,amagwood59@woothemes.com,890-989-9448,LG,LG KU990 Viewty,Environmental Damage,2025-07-02,2025-07-11,Diagnosing,Alfonse Magwood,9040,2128,Maya,false
+191,Valentine,Benninger,vbenninger5a@cargocollective.com,862-210-9618,Micromax,Micromax A120 Canvas 2 Colors,Software Issue,2025-06-26,2025-07-06,Received,Valentine Benninger,11253,959,,false
+192,Yance,Lapre,ylapre5b@gnu.org,484-299-2786,Nokia,Nokia C1-02,Troubleshooting,2025-09-16,2025-09-17,Waiting on Parts,Yance Lapre,15689,2020,,false
+193,Liuka,Scrowston,lscrowston5c@discuz.net,809-644-5220,vivo,vivo Y51a,Diagnostic,2025-12-13,2025-12-19,Received,Liuka Scrowston,18328,711,Maya,false
+194,Chelsie,Goodbarr,cgoodbarr5d@amazon.co.uk,166-677-0606,LG,LG Vu Plus,Hardware Failure,2025-12-06,2025-12-08,Ready for Pickup,Chelsie Goodbarr,1259,2363,,false
+195,Alisun,Pittock,apittock5e@alexa.com,775-546-8866,Celkon,Celkon C999,Environmental Damage,2025-09-17,2025-09-22,Completed,Alisun Pittock,17390,534,GCash,true
+196,Teodora,Fleming,tfleming5f@craigslist.org,991-240-3145,Orange,Orange Reyo,Hardware Failure,2026-04-05,2026-04-14,Received,Teodora Fleming,10937,2908,PayPal,true
+197,Janka,Nitto,jnitto5g@japanpost.jp,338-541-9364,Gigabyte,Gigabyte GSmart i,Maintenance,2025-10-21,2025-10-24,Ready for Pickup,Janka Nitto,11275,2449,Credit Card,true
+198,Gilbertina,Rapson,grapson5h@illinois.edu,953-110-4802,Gionee,Gionee F103 Pro,Troubleshooting,2025-05-06,2025-05-10,Repairing,Gilbertina Rapson,12722,2842,Credit Card,false
+199,Tucky,Rounsefell,trounsefell5i@a8.net,337-626-5654,Micromax,Micromax A119 Canvas XL,Troubleshooting,2026-04-23,2026-05-03,Completed,,,2950,,false
+200,Justino,Wyllcock,jwyllcock5j@state.tx.us,171-897-4552,Celkon,Celkon AR40,Troubleshooting,2026-04-27,2026-05-02,Diagnosing,,5601,1440,Credit Card,true
+201,Marius,Aharoni,maharoni5k@tuttocitta.it,730-645-8385,Samsung,Samsung Galaxy Tab S7+,Diagnostic,2025-07-02,2025-07-09,Waiting on Parts,Marius Aharoni,2644,1476,,false
+202,Tuckie,Pickover,tpickover5l@moonfruit.com,761-287-3835,Energizer,Energizer Power Max P18K Pop,Diagnostic,2025-06-06,2025-06-11,Received,Tuckie Pickover,2000,1486,Credit Card,true
+203,Madlen,Piecha,mpiecha5m@uiuc.edu,816-703-3264,vivo,vivo X7,Maintenance,2025-09-17,2025-09-30,Unrepairable,Madlen Piecha,,500,,true
+204,Leoline,Lamble,llamble5n@amazonaws.com,448-184-8945,HTC,HTC One XC,Software Issue,2025-12-26,2026-01-06,Repairing,Leoline Lamble,9113,2310,Debit Card,true
+205,Meredithe,Fist,mfist5o@deliciousdays.com,364-899-4607,Sony,Sony Ericsson K800,Troubleshooting,2025-06-07,2025-06-14,Ready for Pickup,,12150,1973,Maya,true
+206,Paloma,Rosso,prosso5p@blinklist.com,163-373-5865,BLU,BLU G9,Hardware Failure,2026-03-23,2026-03-28,Received,,8169,1636,Maya,false
+207,Eilis,Daveren,edaveren5q@github.com,719-579-5207,Celkon,Celkon C67+,Maintenance,2025-07-18,2025-08-01,Repairing,Eilis Daveren,4217,2152,Maya,false
+208,Betti,Swabey,bswabey5r@freewebs.com,664-355-5323,Sony,Sony Xperia Pro,Software Issue,2025-05-28,2025-05-31,Unrepairable,Betti Swabey,,500,,false
+209,Charis,Emmanueli,cemmanueli5s@wired.com,810-691-9866,Huawei,Huawei Ascend W1,Environmental Damage,2025-11-30,2025-12-06,Diagnosing,Charis Emmanueli,2448,1288,PayPal,false
+210,Candi,Myall,cmyall5t@stumbleupon.com,518-569-0788,Samsung,Samsung S501i,Diagnostic,2026-01-09,2026-01-19,Received,Candi Myall,16072,2467,Cash,false
+211,Alf,Duggen,aduggen5u@baidu.com,405-597-0626,Asus,Asus Transformer Pad Infinity 700 LTE,Troubleshooting,2026-01-03,2026-01-08,Waiting on Parts,Alf Duggen,,2358,Maya,false
+212,Louella,McKibben,lmckibben5v@istockphoto.com,708-264-8469,HTC,HTC Windows Phone 8X CDMA,Diagnostic,2025-12-14,2025-12-21,Completed,Louella McKibben,7477,2042,Cash,true
+213,Artemas,Gelderd,agelderd5w@vinaora.com,781-746-9107,LG,LG A350,Troubleshooting,2025-05-27,2025-06-10,Ready for Pickup,Artemas Gelderd,13308,810,Debit Card,true
+214,Alwyn,Ashington,aashington5x@adobe.com,120-380-2242,Sony,Sony Ericsson W610,Maintenance,2025-07-27,2025-08-04,Diagnosing,Alwyn Ashington,13901,802,,false
+215,Dulce,Parres,dparres5y@reverbnation.com,477-651-6681,Celkon,Celkon A1,Environmental Damage,2025-09-19,2025-09-30,Unrepairable,Dulce Parres,,500,,false
+216,Hinda,Bussen,hbussen5z@naver.com,315-653-9014,Samsung,Samsung F330,Diagnostic,2026-02-02,2026-02-11,Completed,Hinda Bussen,11269,2441,Maya,false
+217,Garnet,Saywood,gsaywood60@psu.edu,984-400-1068,Sony,Sony Ericsson Z1010,Software Issue,2025-08-01,2025-08-05,Waiting on Parts,Garnet Saywood,15406,2704,PayPal,true
+218,Madalyn,Probart,mprobart61@mysql.com,630-392-4320,Siemens,Siemens M50,Hardware Failure,2026-03-27,2026-04-04,Received,Madalyn Probart,,1667,Credit Card,true
+219,Vernon,Bostock,vbostock62@mtv.com,757-235-6475,Sony,Sony Xperia M2 Aqua,Software Issue,2025-05-10,2025-05-19,Waiting on Parts,Vernon Bostock,4572,754,,false
+220,Clywd,Soares,csoares63@bravesites.com,494-125-9009,Plum,Plum Flipper (2018),Maintenance,2026-01-18,2026-01-29,Ready for Pickup,,17946,2474,Debit Card,false
+221,Denice,Conahy,dconahy64@timesonline.co.uk,618-470-4105,O2,O2 XDA Guide,Troubleshooting,2025-09-12,2025-09-14,Ready for Pickup,Denice Conahy,4539,2366,GCash,false
+222,Germain,McQuade,gmcquade65@mac.com,397-549-1016,Honor,Honor 5c,Hardware Failure,2025-12-06,2025-12-15,Received,Germain McQuade,12083,1155,,true
+223,Cami,Trenaman,ctrenaman66@google.com.au,946-592-8477,Apple,Apple Watch Edition Series 5,Environmental Damage,2026-03-21,2026-03-28,Repairing,Cami Trenaman,18772,1960,GCash,false
+224,Ham,Jertz,hjertz67@blog.com,866-421-2258,Fairphone,Fairphone 3+,Environmental Damage,2026-03-10,2026-03-22,Completed,Ham Jertz,6757,2058,,true
+225,Major,Rielly,mrielly68@hostgator.com,366-832-4185,Samsung,Samsung Galaxy Xcover Pro,Diagnostic,2026-02-05,2026-02-17,Diagnosing,Major Rielly,11467,1558,Debit Card,false
+226,Karry,Pont,kpont69@techcrunch.com,655-133-4159,Sagem,Sagem my700X,Environmental Damage,2025-09-27,2025-10-11,Unrepairable,Karry Pont,,500,,false
+227,Cassie,MacTerrelly,cmacterrelly6a@state.tx.us,749-337-5403,Lenovo,Lenovo S560,Diagnostic,2025-12-25,2025-12-30,Ready for Pickup,Cassie MacTerrelly,7026,2467,PayPal,false
+228,Salvador,Coey,scoey6b@nyu.edu,346-367-8301,alcatel,alcatel OT-E259,Diagnostic,2025-09-01,2025-09-05,Ready for Pickup,Salvador Coey,6255,726,PayPal,false
+229,Chandal,Curl,ccurl6c@nasa.gov,201-205-7873,LG,LG BL20 New Chocolate,Maintenance,2025-12-28,2026-01-08,Unrepairable,Chandal Curl,,500,,false
+230,Ingaborg,Hallett,ihallett6d@oracle.com,121-791-2159,Celkon,Celkon C619,Software Issue,2025-08-10,2025-08-15,Diagnosing,Ingaborg Hallett,,1840,Maya,false
+231,Meier,Yeardley,myeardley6e@time.com,639-814-9776,Unnecto,Unnecto Drone XL,Environmental Damage,2026-02-09,2026-02-19,Ready for Pickup,Meier Yeardley,5148,2095,Credit Card,false
+232,Timmie,McAtamney,tmcatamney6f@sogou.com,882-529-9464,Huawei,Huawei MediaPad T3 7.0,Environmental Damage,2026-04-10,2026-04-14,Diagnosing,Timmie McAtamney,14107,2423,,false
+233,Sarge,Woodland,swoodland6g@istockphoto.com,710-822-8885,NIU,NIU Z10,Environmental Damage,2025-07-11,2025-07-20,Repairing,Sarge Woodland,18378,2620,Cash,true
+234,Linet,Coppo,lcoppo6h@storify.com,910-841-0803,Lava,Lava Iris Atom X,Troubleshooting,2025-05-10,2025-05-19,Repairing,Linet Coppo,,879,,true
+235,Edgar,Drejer,edrejer6i@examiner.com,642-881-4851,verykool,verykool s401,Hardware Failure,2025-08-14,2025-08-15,Diagnosing,Edgar Drejer,12680,2106,Debit Card,true
+236,Aldin,McAndie,amcandie6j@odnoklassniki.ru,191-520-0239,Micromax,Micromax Dual 5,Hardware Failure,2025-07-28,2025-08-01,Waiting on Parts,Aldin McAndie,5404,2268,Debit Card,true
+237,Willie,Mapp,wmapp6k@netlog.com,819-651-7917,Samsung,Samsung Galaxy A10e,Hardware Failure,2026-01-29,2026-02-12,Diagnosing,Willie Mapp,15280,1834,Credit Card,false
+238,Dieter,Cassel,dcassel6l@cam.ac.uk,671-783-5377,vivo,vivo Y5s,Maintenance,2026-01-13,2026-01-27,Unrepairable,Dieter Cassel,,500,,true
+239,Sarine,Duckit,sduckit6m@globo.com,154-748-1067,Archos,Archos 50 Helium 4G,Hardware Failure,2025-08-15,2025-08-16,Diagnosing,Sarine Duckit,5621,2364,Credit Card,true
+240,Caressa,Maw,cmaw6n@printfriendly.com,638-436-0054,Nokia,Nokia Asha 303,Hardware Failure,2026-03-08,2026-03-21,Waiting on Parts,Caressa Maw,18401,2210,Debit Card,true
+241,Marlon,Hardbattle,mhardbattle6o@prweb.com,598-445-6812,Samsung,Samsung Galaxy Tab Pro 8.4 3G/LTE,Troubleshooting,2025-05-01,2025-05-10,Completed,Marlon Hardbattle,2405,532,Credit Card,false
+242,Pearce,Elmhurst,pelmhurst6p@earthlink.net,894-256-8434,Samsung,Samsung I6210,Software Issue,2025-10-02,2025-10-07,Diagnosing,Pearce Elmhurst,14703,1947,PayPal,false
+243,Duncan,Jirus,djirus6q@ocn.ne.jp,301-932-8730,ZTE,ZTE Salute F350,Hardware Failure,2026-04-05,2026-04-11,Received,Duncan Jirus,,2922,,false
+244,Marcile,Garr,mgarr6r@theguardian.com,145-488-4014,Siemens,Siemens A70,Environmental Damage,2025-09-28,2025-10-01,Ready for Pickup,Marcile Garr,,932,,false
+245,Shurlock,Felix,sfelix6s@howstuffworks.com,207-595-9788,i-mobile,i-mobile 320,Troubleshooting,2026-03-22,2026-03-31,Completed,Shurlock Felix,5177,709,Maya,true
+246,Rebecca,Baine,rbaine6t@blogs.com,341-818-6254,Celkon,Celkon A99+,Hardware Failure,2025-11-19,2025-11-26,Received,Rebecca Baine,10225,1188,Cash,true
+247,Franni,Cudworth,fcudworth6u@homestead.com,270-534-5757,Motorola,Motorola MOTOKEY Mini EX109,Maintenance,2025-09-07,2025-09-11,Waiting on Parts,Franni Cudworth,6877,2780,Credit Card,true
+248,Gwenore,Eccles,geccles6v@dyndns.org,973-737-1227,Google,Google Pixel 2,Software Issue,2026-04-04,2026-04-14,Repairing,Gwenore Eccles,,2983,Maya,false
+249,Alleyn,Creber,acreber6w@vimeo.com,410-367-4648,Cat,Cat B30,Software Issue,2025-05-16,2025-05-27,Waiting on Parts,Alleyn Creber,,1649,,true
+250,Dwayne,Krauss,dkrauss6x@businessinsider.com,294-404-1127,Archos,Archos Diamond,Software Issue,2025-09-09,2025-09-21,Ready for Pickup,Dwayne Krauss,526,1105,,false
+251,Phineas,Sterman,psterman6y@wisc.edu,365-692-1656,LG,LG KG300,Troubleshooting,2026-03-11,2026-03-20,Waiting on Parts,,3944,973,,true
+252,Mignonne,Vowdon,mvowdon6z@weibo.com,599-160-0250,QMobile,QMobile Noir A8i,Environmental Damage,2025-05-26,2025-06-07,Diagnosing,Mignonne Vowdon,4712,1452,Maya,true
+253,Darb,Jurick,djurick70@wp.com,706-174-8979,LG,LG KM500,Troubleshooting,2026-04-28,2026-05-12,Completed,Darb Jurick,10087,1782,Maya,false
+254,Scarface,Macewan,smacewan71@arstechnica.com,231-981-6872,Huawei,Huawei P9,Troubleshooting,2025-12-11,2025-12-22,Unrepairable,Scarface Macewan,,500,,false
+255,Pamella,Duprey,pduprey72@1688.com,861-702-7212,Oppo,Oppo Neo 5s,Diagnostic,2026-04-05,2026-04-07,Repairing,Pamella Duprey,1715,893,Debit Card,false
+256,Tammy,Imison,timison73@imgur.com,926-509-9642,verykool,verykool s351,Environmental Damage,2025-11-16,2025-11-17,Diagnosing,Tammy Imison,18689,2106,GCash,true
+257,Alma,Lawrenceson,alawrenceson74@vk.com,863-796-4554,alcatel,alcatel Idol 2,Software Issue,2025-11-13,2025-11-17,Ready for Pickup,Alma Lawrenceson,8925,2839,GCash,true
+258,Terencio,Manueau,tmanueau75@ycombinator.com,907-998-0441,vivo,vivo Y69,Maintenance,2025-05-17,2025-05-30,Repairing,Terencio Manueau,11733,581,GCash,true
+259,Eben,Penton,epenton76@wunderground.com,230-181-2211,Eten,Eten glofiish X500+,Troubleshooting,2026-03-02,2026-03-03,Diagnosing,Eben Penton,10268,1472,Cash,true
+260,Randie,Buston,rbuston77@360.cn,706-679-2874,Samsung,Samsung Ch@t 322,Environmental Damage,2025-07-27,2025-08-07,Repairing,Randie Buston,17550,879,,true
+261,Kerrin,Edgin,kedgin78@who.int,393-581-5927,Kyocera,Kyocera TG 200,Hardware Failure,2025-11-18,2025-11-30,Unrepairable,Kerrin Edgin,,500,,true
+262,Kalie,Coleborn,kcoleborn79@who.int,967-436-1657,Samsung,Samsung Galaxy S6 edge+ (USA),Software Issue,2026-02-25,2026-03-03,Ready for Pickup,Kalie Coleborn,13479,2563,Debit Card,false
+263,Jessie,Damiata,jdamiata7a@sbwire.com,151-546-5227,Celkon,Celkon A90,Hardware Failure,2025-07-23,2025-07-30,Received,Jessie Damiata,3929,1400,GCash,false
+264,Steffen,Geaney,sgeaney7b@ask.com,279-841-1971,Samsung,Samsung Focus,Environmental Damage,2025-06-06,2025-06-17,Repairing,Steffen Geaney,5327,2877,,true
+265,Falito,Lamberts,flamberts7c@bluehost.com,352-335-9800,Allview,Allview P5 Quad,Maintenance,2025-07-17,2025-07-22,Completed,,10125,1577,Debit Card,true
+266,Ninnetta,Tedman,ntedman7d@irs.gov,381-397-0097,Sony,Sony Ericsson Hazel,Environmental Damage,2025-12-22,2025-12-26,Completed,,18416,1828,Maya,false
+267,Anderson,Richemond,arichemond7e@biglobe.ne.jp,141-734-9871,Allview,Allview V3 Viper,Diagnostic,2025-12-21,2025-12-22,Completed,Anderson Richemond,2803,2334,Cash,false
+268,Florian,Chatten,fchatten7f@ycombinator.com,212-719-7162,HTC,HTC One XC,Environmental Damage,2025-06-10,2025-06-16,Received,Florian Chatten,17984,2727,Credit Card,false
+269,Robinia,Smithyman,rsmithyman7g@desdev.cn,184-582-5062,Qtek,Qtek 9090,Environmental Damage,2025-08-23,2025-08-28,Ready for Pickup,Robinia Smithyman,3688,1891,Debit Card,true
+270,Hiram,Tathacott,htathacott7h@example.com,811-363-6202,Vodafone,Vodafone Tab Prime 6,Troubleshooting,2025-07-28,2025-07-31,Diagnosing,Hiram Tathacott,5479,2190,Debit Card,true
+271,Martin,Rushsorth,mrushsorth7i@1688.com,510-579-0463,Samsung,Samsung Xcover 271,Environmental Damage,2026-02-17,2026-02-21,Received,Martin Rushsorth,13780,2854,Maya,true
+272,Carmina,Timpany,ctimpany7j@biblegateway.com,450-361-4134,Samsung,Samsung C5510,Hardware Failure,2025-05-20,2025-05-24,Completed,Carmina Timpany,16214,2335,GCash,true
+273,Hurlee,Brosetti,hbrosetti7k@house.gov,889-842-4240,Panasonic,Panasonic Eluga Mark 2,Diagnostic,2026-02-28,2026-03-11,Unrepairable,Hurlee Brosetti,,500,,true
+274,Bron,Linnane,blinnane7l@timesonline.co.uk,685-763-1687,Nokia,Nokia N900,Software Issue,2026-03-28,2026-03-31,Waiting on Parts,Bron Linnane,,1270,Credit Card,true
+275,Cacilia,Scyner,cscyner7m@lulu.com,749-778-8438,Honor,Honor 8 Pro,Troubleshooting,2025-11-03,2025-11-10,Diagnosing,Cacilia Scyner,12319,2405,Cash,true
+276,Myriam,Rickasse,mrickasse7n@constantcontact.com,997-523-6021,Nokia,Nokia 3210,Diagnostic,2025-07-20,2025-07-29,Diagnosing,Myriam Rickasse,,1024,PayPal,true
+277,Dallon,Asbery,dasbery7o@jalbum.net,864-968-8353,Haier,Haier P7,Hardware Failure,2025-07-11,2025-07-25,Unrepairable,Dallon Asbery,,500,,false
+278,Calypso,Tomblings,ctomblings7p@craigslist.org,765-768-5353,alcatel,alcatel OT-E805,Diagnostic,2025-10-29,2025-10-30,Ready for Pickup,Calypso Tomblings,5254,2375,Cash,false
+279,Amelie,Palffrey,apalffrey7q@vinaora.com,918-899-6844,BenQ,BenQ T33,Environmental Damage,2026-02-01,2026-02-03,Diagnosing,,6023,1249,GCash,true
+280,Rey,Quig,rquig7r@delicious.com,628-314-0101,HTC,HTC Desire 310,Hardware Failure,2025-12-15,2025-12-23,Diagnosing,Rey Quig,9226,579,Maya,false
+281,Emerson,Edwicke,eedwicke7s@themeforest.net,985-300-6438,LG,LG K10 (2017),Hardware Failure,2025-05-25,2025-05-29,Repairing,Emerson Edwicke,5465,2867,Debit Card,false
+282,Dianne,Gladebeck,dgladebeck7t@jalbum.net,381-590-3191,Pantech,Pantech Vega Racer 2 IM-A830L,Maintenance,2026-04-16,2026-04-20,Ready for Pickup,,7815,1165,Cash,false
+283,Tabina,Sambells,tsambells7u@ebay.co.uk,364-609-1036,Tel.Me.,Tel.Me. T919i,Hardware Failure,2025-09-22,2025-10-06,Received,Tabina Sambells,18267,1072,Cash,false
+284,Tuck,Hove,thove7v@bbc.co.uk,632-325-7303,Qtek,Qtek 8500,Diagnostic,2026-01-30,2026-02-04,Repairing,Tuck Hove,12274,2717,Maya,true
+285,Dyann,Andrioli,dandrioli7w@nsw.gov.au,185-933-6911,Samsung,Samsung X540,Diagnostic,2025-06-29,2025-07-07,Waiting on Parts,Dyann Andrioli,9039,1026,Debit Card,true
+286,Anabal,Burbank,aburbank7x@godaddy.com,496-345-0815,Samsung,Samsung Ch@t 322 Wi-Fi,Environmental Damage,2026-02-16,2026-02-24,Diagnosing,Anabal Burbank,1780,1183,PayPal,false
+287,Pier,Tollerton,ptollerton7y@symantec.com,748-819-5227,LG,LG X3,Maintenance,2026-01-14,2026-01-23,Unrepairable,Pier Tollerton,,500,,false
+288,Odette,Murden,omurden7z@skyrock.com,212-817-1898,i-mate,i-mate JAMA,Diagnostic,2025-07-19,2025-08-01,Waiting on Parts,Odette Murden,1059,976,GCash,true
+289,Mabel,Banfield,mbanfield80@liveinternet.ru,857-154-2205,Vertu,Vertu Constellation Ayxta,Software Issue,2026-03-13,2026-03-14,Completed,Mabel Banfield,12517,2800,Debit Card,false
+290,Lucita,Malyon,lmalyon81@go.com,164-776-7481,BlackBerry,BlackBerry DTEK60,Maintenance,2025-12-30,2026-01-08,Received,Lucita Malyon,17968,817,Maya,true
+291,Gard,Spicer,gspicer82@discuz.net,501-521-3721,HTC,HTC S710,Diagnostic,2025-07-09,2025-07-14,Diagnosing,Gard Spicer,1546,2149,,true
+292,Fanechka,Buggy,fbuggy83@yolasite.com,642-307-5276,Philips,Philips Xenium 9@9k,Troubleshooting,2026-04-16,2026-04-27,Diagnosing,Fanechka Buggy,12264,2071,,false
+293,Pegeen,Boyton,pboyton84@is.gd,147-577-7077,Motorola,Motorola V186,Maintenance,2025-10-29,2025-11-05,Repairing,Pegeen Boyton,7398,2215,,false
+294,Jamima,Finlaison,jfinlaison85@dagondesign.com,444-944-6307,Huawei,Huawei T552,Maintenance,2026-03-01,2026-03-15,Waiting on Parts,Jamima Finlaison,13060,645,Credit Card,false
+295,Fran,Blackledge,fblackledge86@yandex.ru,456-723-7440,BenQ-Siemens,BenQ-Siemens CL71,Troubleshooting,2025-06-23,2025-07-05,Waiting on Parts,Fran Blackledge,3279,1952,Maya,true
+296,Walker,Cufflin,wcufflin87@nationalgeographic.com,673-696-7418,Samsung,Samsung Q100,Diagnostic,2025-11-07,2025-11-17,Ready for Pickup,Walker Cufflin,2012,2174,Credit Card,false
+297,Beryle,Daskiewicz,bdaskiewicz88@google.de,481-304-6949,alcatel,alcatel One Touch T'Pop,Diagnostic,2026-02-01,2026-02-08,Repairing,Beryle Daskiewicz,12458,793,Debit Card,true
+298,Leonerd,Antrobus,lantrobus89@nba.com,477-574-2035,Spice,Spice M-5600 FLO TV,Software Issue,2025-10-31,2025-11-14,Repairing,Leonerd Antrobus,13260,1295,,false
+299,Lissy,Eykel,leykel8a@biglobe.ne.jp,265-373-6052,Samsung,Samsung X520,Diagnostic,2025-11-12,2025-11-13,Received,Lissy Eykel,5627,2251,PayPal,true
+300,Clari,Cheatle,ccheatle8b@example.com,101-283-3381,Samsung,Samsung Galaxy J7 (2017),Diagnostic,2025-06-04,2025-06-11,Received,Clari Cheatle,,1898,Cash,false
+301,Pippa,Hume,phume8c@jigsy.com,822-430-8248,Nokia,Nokia 222 Dual SIM,Maintenance,2025-11-20,2025-12-02,Waiting on Parts,Pippa Hume,15381,2138,Maya,false
+302,Antonetta,Saturley,asaturley8d@reference.com,118-357-6567,Realme,Realme X2 Pro,Hardware Failure,2025-06-02,2025-06-11,Repairing,Antonetta Saturley,7464,2879,Maya,true
+303,Jillane,Gergolet,jgergolet8e@domainmarket.com,752-952-1184,Xiaomi,Xiaomi Redmi K30S,Maintenance,2026-03-01,2026-03-15,Unrepairable,Jillane Gergolet,,500,,false
+304,Claresta,Ferrolli,cferrolli8f@slashdot.org,401-490-2601,Panasonic,Panasonic G70,Maintenance,2026-03-12,2026-03-13,Waiting on Parts,Claresta Ferrolli,6165,2570,Maya,true
+305,Emlynn,Tarquinio,etarquinio8g@csmonitor.com,502-840-1060,O2,O2 XDA Terra,Software Issue,2026-03-05,2026-03-11,Ready for Pickup,Emlynn Tarquinio,18908,1055,Cash,true
+306,Oates,Howorth,ohoworth8h@merriam-webster.com,364-817-6399,Unnecto,Unnecto Bolt,Hardware Failure,2025-10-17,2025-10-22,Diagnosing,Oates Howorth,14835,564,GCash,true
+307,Sutherlan,Cocking,scocking8i@yellowpages.com,658-209-0757,Sony,Sony Ericsson Live with Walkman,Hardware Failure,2026-01-31,2026-02-10,Waiting on Parts,Sutherlan Cocking,15065,1042,Debit Card,false
+308,Saul,Jorg,sjorg8j@sphinn.com,754-581-8878,Nokia,Nokia E60,Maintenance,2025-08-31,2025-09-13,Completed,Saul Jorg,14682,2748,,true
+309,Evie,Kayne,ekayne8k@comsenz.com,827-467-4311,Nokia,Nokia 6301,Troubleshooting,2025-11-20,2025-11-30,Completed,,14507,2709,Credit Card,true
+310,Viviana,Vickerstaff,vvickerstaff8l@independent.co.uk,489-963-7383,alcatel,alcatel OT-S320,Maintenance,2026-04-21,2026-04-29,Repairing,Viviana Vickerstaff,18646,1797,,true
+311,Cariotta,Crollman,ccrollman8m@newyorker.com,697-952-4553,Gigabyte,Gigabyte g-re (o),Software Issue,2025-07-01,2025-07-09,Diagnosing,Cariotta Crollman,1728,1598,Maya,true
+312,Otha,Engall,oengall8n@un.org,576-717-6279,Sewon,Sewon SRS-3300,Maintenance,2025-09-20,2025-10-04,Diagnosing,Otha Engall,3479,1152,,false
+313,Eb,Myhan,emyhan8o@myspace.com,811-635-0890,BQ,BQ Aquaris U2 Lite,Software Issue,2025-08-22,2025-08-24,Diagnosing,Eb Myhan,13373,2009,Credit Card,true
+314,Sharyl,McVittie,smcvittie8p@businessweek.com,926-901-6125,Wiko,Wiko Tommy,Software Issue,2025-05-03,2025-05-06,Received,Sharyl McVittie,2058,788,GCash,true
+315,Micki,Bondar,mbondar8q@ted.com,499-713-6099,Motorola,Motorola C230,Hardware Failure,2025-05-16,2025-05-21,Repairing,,15246,2234,Maya,true
+316,Randie,Adelman,radelman8r@umich.edu,405-477-5902,Samsung,Samsung Galaxy J3 (2017),Software Issue,2025-06-29,2025-07-09,Diagnosing,Randie Adelman,2776,1373,Credit Card,true
+317,Ursola,Arend,uarend8s@who.int,781-434-9042,Allview,Allview P6 Pro,Software Issue,2025-05-26,2025-06-07,Waiting on Parts,Ursola Arend,,559,Maya,true
+318,Pammy,Rummer,prummer8t@bigcartel.com,869-128-0981,Nokia,Nokia 301,Maintenance,2025-08-11,2025-08-21,Repairing,,222,1022,,true
+319,Herby,Ranscombe,hranscombe8u@discovery.com,759-946-9664,OnePlus,OnePlus One,Hardware Failure,2025-10-26,2025-11-08,Completed,Herby Ranscombe,11610,1440,Debit Card,false
+320,Waylon,Eastcott,weastcott8v@admin.ch,564-678-9202,QMobile,QMobile Noir X35,Diagnostic,2026-03-20,2026-03-30,Diagnosing,Waylon Eastcott,14611,505,GCash,false
+321,Bobbi,Coltart,bcoltart8w@ucla.edu,271-783-0567,QMobile,QMobile Linq X70,Software Issue,2026-03-17,2026-03-26,Waiting on Parts,Bobbi Coltart,5009,2421,PayPal,true
+322,Frankie,Grindrod,fgrindrod8x@yandex.ru,838-715-7823,Yezz,Yezz Andy 4E LTE,Troubleshooting,2026-01-11,2026-01-23,Waiting on Parts,,7753,2354,Debit Card,false
+323,Jillayne,Gilhooly,jgilhooly8y@jugem.jp,648-215-6803,Gionee,Gionee Elife E7 Mini,Hardware Failure,2025-05-05,2025-05-18,Diagnosing,Jillayne Gilhooly,,1363,Debit Card,true
+324,Bert,Ten Broek,bten8z@wunderground.com,461-815-3471,Oppo,Oppo A5s (AX5s),Diagnostic,2026-03-08,2026-03-16,Received,Bert Ten Broek,10842,1898,Debit Card,false
+325,Mohandas,Jagger,mjagger90@google.de,717-459-8412,vivo,vivo V17 Pro,Software Issue,2025-07-20,2025-07-30,Waiting on Parts,Mohandas Jagger,18849,1093,Cash,true
+326,Otto,Dronsfield,odronsfield91@nasa.gov,881-358-0138,Wiko,Wiko Birdy,Environmental Damage,2025-07-13,2025-07-23,Completed,Otto Dronsfield,18664,529,Debit Card,false
+327,Shea,Ronchetti,sronchetti92@w3.org,284-759-5049,Infinix,Infinix Zero 4,Troubleshooting,2025-07-24,2025-07-29,Diagnosing,Shea Ronchetti,6815,1854,GCash,false
+328,Clair,O'Corrigane,cocorrigane93@webmd.com,608-244-1886,Gigabyte,Gigabyte Snoopy,Maintenance,2025-10-05,2025-10-15,Diagnosing,Clair O'Corrigane,11426,2517,PayPal,true
+329,Gherardo,Doret,gdoret94@bloglovin.com,193-498-1607,Huawei,Huawei MediaPad M6 10.8,Hardware Failure,2026-04-14,2026-04-20,Ready for Pickup,Gherardo Doret,,1964,Maya,true
+330,Anthia,Dallman,adallman95@patch.com,801-495-9763,Realme,Realme X,Diagnostic,2025-05-02,2025-05-07,Ready for Pickup,Anthia Dallman,13529,2354,Credit Card,false
+331,Chastity,Thornber,cthornber96@slate.com,483-851-1200,Plum,Plum Might Plus II,Troubleshooting,2026-04-28,2026-05-10,Repairing,Chastity Thornber,11987,863,Maya,true
+332,Windy,Huller,whuller97@cocolog-nifty.com,423-262-4954,QMobile,QMobile Noir Z14,Maintenance,2025-06-02,2025-06-11,Completed,Windy Huller,7745,2038,GCash,false
+333,Der,McLanachan,dmclanachan98@fastcompany.com,652-960-4931,Motorola,Motorola Moto X5,Environmental Damage,2025-05-22,2025-05-27,Completed,Der McLanachan,8051,2397,Debit Card,false
+334,Guglielma,Pepper,gpepper99@gov.uk,695-595-2867,OnePlus,OnePlus 5,Environmental Damage,2025-05-08,2025-05-19,Received,Guglielma Pepper,16746,727,,false
+335,Joachim,Mulvenna,jmulvenna9a@hugedomains.com,241-452-5747,QMobile,QMobile Noir A15 3D,Troubleshooting,2025-07-24,2025-07-25,Unrepairable,Joachim Mulvenna,,500,,true
+336,Frederico,Costi,fcosti9b@w3.org,487-166-9161,Casio,Casio G'zOne CA-201L,Maintenance,2025-06-17,2025-06-25,Waiting on Parts,Frederico Costi,10707,972,Maya,true
+337,Lucy,Pleass,lpleass9c@un.org,837-628-0562,Celkon,Celkon C357,Software Issue,2025-10-01,2025-10-12,Repairing,Lucy Pleass,14869,2530,Debit Card,false
+338,Dalis,Jeens,djeens9d@prnewswire.com,821-618-4935,vivo,vivo X9s Plus,Diagnostic,2025-07-16,2025-07-21,Received,Dalis Jeens,13284,1289,Cash,false
+339,Pierette,Antonoczyk,pantonoczyk9e@geocities.jp,438-416-0360,Realme,Realme 2 Pro,Troubleshooting,2025-10-02,2025-10-16,Completed,Pierette Antonoczyk,10742,2334,Credit Card,false
+340,Hall,Corselles,hcorselles9f@disqus.com,313-691-8041,Wiko,Wiko U Feel Lite,Troubleshooting,2025-05-28,2025-06-02,Unrepairable,Hall Corselles,,500,,false
+341,Cullie,Camacho,ccamacho9g@cafepress.com,487-133-1682,Motorola,Motorola Moto G (2nd gen),Troubleshooting,2025-10-08,2025-10-13,Unrepairable,Cullie Camacho,,500,,false
+342,Alyce,Sallier,asallier9h@unc.edu,986-773-2976,Motorola,Motorola Moto G5S,Hardware Failure,2025-10-04,2025-10-16,Unrepairable,Alyce Sallier,,500,,false
+343,Bryn,Kyttor,bkyttor9i@dot.gov,517-748-3775,Gionee,Gionee Ctrl V5,Software Issue,2025-06-16,2025-06-19,Repairing,Bryn Kyttor,10725,893,,false
+344,Cherlyn,Kemmis,ckemmis9j@wunderground.com,253-901-5909,Haier,Haier Z7100,Troubleshooting,2025-09-07,2025-09-15,Repairing,Cherlyn Kemmis,19377,2931,Credit Card,true
+345,Hanan,Gergus,hgergus9k@wufoo.com,533-712-8677,LG,LG L80 Dual,Maintenance,2025-07-06,2025-07-10,Diagnosing,,14310,2332,Credit Card,false
+346,Linet,Tallis,ltallis9l@photobucket.com,718-847-0892,ZTE,ZTE Grand X Max+,Environmental Damage,2025-06-21,2025-06-23,Ready for Pickup,Linet Tallis,12487,2176,Cash,true
+347,Althea,Byrde,abyrde9m@seesaa.net,796-863-3122,Pantech,Pantech PG-1900,Environmental Damage,2025-05-17,2025-05-23,Diagnosing,,16482,605,GCash,true
+348,Tedi,O'Hollegan,tohollegan9n@si.edu,298-950-3006,Acer,Acer Liquid Zest Plus,Diagnostic,2026-01-02,2026-01-15,Unrepairable,Tedi O'Hollegan,,500,,true
+349,Modestine,Osgodby,mosgodby9o@typepad.com,535-473-8332,Xiaomi,Xiaomi Mi 6c,Environmental Damage,2026-01-13,2026-01-22,Waiting on Parts,Modestine Osgodby,1273,1386,PayPal,true
+350,Ellary,Scrogges,escrogges9p@woothemes.com,819-143-7163,Nokia,Nokia Asha 230,Diagnostic,2025-05-29,2025-06-09,Ready for Pickup,Ellary Scrogges,365,1417,Cash,true
+351,Cello,Tewkesbury.,ctewkesbury9q@umich.edu,214-888-3150,Sagem,Sagem my900C,Troubleshooting,2026-01-20,2026-01-30,Waiting on Parts,Cello Tewkesbury.,,1886,PayPal,false
+352,Janela,Blazejewski,jblazejewski9r@discuz.net,796-994-5612,Vodafone,Vodafone 840,Troubleshooting,2025-11-22,2025-12-04,Repairing,Janela Blazejewski,4489,1721,PayPal,false
+353,Sol,Madgett,smadgett9s@narod.ru,102-637-9402,LG,LG L65 Dual D285,Diagnostic,2025-11-10,2025-11-21,Ready for Pickup,Sol Madgett,6356,2601,Cash,false
+354,Silvana,Maskell,smaskell9t@shinystat.com,860-435-3343,Samsung,Samsung i200,Maintenance,2025-09-09,2025-09-23,Diagnosing,Silvana Maskell,8351,2538,,false
+355,Reider,Freschi,rfreschi9u@dagondesign.com,487-996-1292,QMobile,QMobile Noir M300,Software Issue,2025-06-11,2025-06-24,Received,Reider Freschi,13301,1887,Debit Card,true
+356,Tiler,Goodhall,tgoodhall9v@washington.edu,486-478-5994,vivo,vivo Y12,Diagnostic,2025-05-06,2025-05-19,Waiting on Parts,Tiler Goodhall,19530,1524,,true
+357,Hort,Challoner,hchalloner9w@illinois.edu,300-855-6746,LG,LG L40 D160,Diagnostic,2026-01-02,2026-01-08,Completed,Hort Challoner,19577,1067,GCash,false
+358,Wallache,Degli Antoni,wdegli9x@webs.com,527-489-9843,Nokia,Nokia 103,Troubleshooting,2025-07-10,2025-07-24,Unrepairable,Wallache Degli Antoni,,500,,true
+359,Jodi,Kalinsky,jkalinsky9y@github.io,161-960-9111,Motorola,Motorola V60i,Troubleshooting,2025-07-12,2025-07-24,Diagnosing,Jodi Kalinsky,,1754,Cash,false
+360,Lusa,Morriss,lmorriss9z@timesonline.co.uk,893-243-3605,T-Mobile,T-Mobile myTouch,Software Issue,2026-02-11,2026-02-21,Ready for Pickup,,8062,1340,Maya,false
+361,Hildagard,Leadbeatter,hleadbeattera0@twitter.com,677-548-2501,Realme,Realme Q2i,Environmental Damage,2025-08-23,2025-08-25,Unrepairable,Hildagard Leadbeatter,,500,,false
+362,Pernell,Ancliff,pancliffa1@51.la,971-628-2055,Nokia,Nokia N92,Software Issue,2026-01-04,2026-01-10,Diagnosing,Pernell Ancliff,17139,1263,GCash,false
+363,Loren,Leil,lleila2@diigo.com,920-653-4966,Samsung,Samsung Galaxy S II LTE i727R,Maintenance,2025-06-07,2025-06-15,Completed,Loren Leil,19126,1602,Cash,true
+364,Bryan,Cookes,bcookesa3@google.cn,950-595-1586,Emporia,Emporia Solid Plus,Software Issue,2025-08-01,2025-08-05,Diagnosing,,13840,1429,PayPal,false
+365,Alidia,Leasor,aleasora4@cam.ac.uk,655-283-7247,Samsung,Samsung E105,Environmental Damage,2025-11-06,2025-11-17,Waiting on Parts,Alidia Leasor,10212,2118,Credit Card,true
+366,Mag,Flatman,mflatmana5@studiopress.com,784-824-7318,Sony,Sony Ericsson Xperia Neo,Software Issue,2025-12-22,2025-12-28,Received,Mag Flatman,12411,2637,,true
+367,Florence,Binford,fbinforda6@slashdot.org,158-394-3099,Motorola,Motorola d520,Software Issue,2025-06-29,2025-07-04,Diagnosing,Florence Binford,5212,2935,PayPal,true
+368,Fidelia,Biaggioni,fbiaggionia7@walmart.com,899-287-9885,Wiko,Wiko Lenny2,Hardware Failure,2025-08-08,2025-08-11,Completed,,1060,1430,Debit Card,true
+369,Radcliffe,Stanway,rstanwaya8@elegantthemes.com,860-492-4774,Palm,Palm Pre 2 CDMA,Environmental Damage,2025-06-25,2025-07-08,Unrepairable,Radcliffe Stanway,,500,,true
+370,Elspeth,Hanselmann,ehanselmanna9@youku.com,738-559-6811,Nokia,Nokia 800 Tough,Troubleshooting,2026-04-15,2026-04-19,Unrepairable,,,500,,false
+371,Cordell,Entres,centresaa@myspace.com,474-418-7193,Lava,Lava Iris 250,Hardware Failure,2025-05-20,2025-06-02,Ready for Pickup,Cordell Entres,19198,1334,PayPal,false
+372,Dick,Pryce,dpryceab@tumblr.com,553-211-8886,Celkon,Celkon A63,Hardware Failure,2025-11-14,2025-11-18,Repairing,Dick Pryce,17502,2220,Cash,true
+373,Maryjane,Riddoch,mriddochac@creativecommons.org,266-389-1295,Nokia,Nokia 108 Dual SIM,Diagnostic,2026-01-13,2026-01-25,Repairing,Maryjane Riddoch,3381,1119,Cash,true
+374,Vonnie,Austing,vaustingad@umich.edu,666-674-3536,Samsung,Samsung M8920,Hardware Failure,2025-12-24,2026-01-03,Repairing,Vonnie Austing,11052,2029,PayPal,false
+375,Clarice,Chessell,cchessellae@nyu.edu,504-573-3792,i-mobile,i-mobile TV 536,Maintenance,2025-07-05,2025-07-07,Repairing,,8721,2008,GCash,true
+376,Wynny,Skipsea,wskipseaaf@wiley.com,267-512-4121,Lenovo,Lenovo S650,Troubleshooting,2025-12-01,2025-12-11,Waiting on Parts,Wynny Skipsea,10238,2755,Maya,true
+377,Mahmoud,Hutson,mhutsonag@godaddy.com,971-309-5574,vivo,vivo iQOO 5 5G,Software Issue,2026-01-10,2026-01-14,Ready for Pickup,Mahmoud Hutson,4410,2483,,false
+378,Geordie,Tatershall,gtatershallah@cloudflare.com,367-273-9508,Gionee,Gionee S12 Lite,Environmental Damage,2025-07-08,2025-07-10,Repairing,,1728,1935,Credit Card,false
+379,Rici,Wallenger,rwallengerai@google.com,640-789-0957,alcatel,alcatel OT-C701,Hardware Failure,2025-08-01,2025-08-12,Ready for Pickup,Rici Wallenger,,2023,PayPal,true
+380,Jacki,Haxby,jhaxbyaj@etsy.com,960-655-5483,Motorola,Motorola PEBL VU20,Environmental Damage,2025-06-17,2025-06-28,Diagnosing,Jacki Haxby,12752,535,Cash,true
+381,Lorne,Nettleship,lnettleshipak@yahoo.co.jp,196-596-5022,Microsoft,Microsoft Lumia 950 XL Dual SIM,Software Issue,2026-03-16,2026-03-26,Completed,Lorne Nettleship,6975,2048,PayPal,true
+382,Paquito,Filip,pfilipal@nyu.edu,990-526-9966,Samsung,Samsung E1272,Software Issue,2025-11-17,2025-11-24,Diagnosing,Paquito Filip,15470,893,Maya,true
+383,Dee,Oury,douryam@edublogs.org,101-742-0031,alcatel,alcatel One Touch Idol Ultra,Hardware Failure,2025-12-06,2025-12-09,Repairing,Dee Oury,16268,1683,Maya,false
+384,Theo,Mawson,tmawsonan@spiegel.de,848-655-4142,alcatel,alcatel OT-668,Hardware Failure,2026-04-19,2026-05-03,Waiting on Parts,Theo Mawson,16924,2735,PayPal,false
+385,Chandler,Stickel,cstickelao@soup.io,212-484-4616,Philips,Philips S880,Environmental Damage,2025-08-09,2025-08-20,Waiting on Parts,Chandler Stickel,13735,2527,Debit Card,true
+386,Alfredo,Dollen,adollenap@mediafire.com,879-969-3543,Lenovo,Lenovo S580,Troubleshooting,2025-11-08,2025-11-10,Completed,Alfredo Dollen,19576,930,,true
+387,Pat,Nesbeth,pnesbethaq@ustream.tv,586-209-2678,Nokia,Nokia 6800,Software Issue,2026-02-20,2026-02-25,Waiting on Parts,Pat Nesbeth,12362,1040,PayPal,true
+388,Boris,Rock,brockar@usgs.gov,407-429-3531,Samsung,Samsung Rex 90 S5292,Environmental Damage,2025-12-26,2025-12-31,Waiting on Parts,Boris Rock,,825,Debit Card,false
+389,Juliette,Rizzetti,jrizzettias@nyu.edu,589-699-8250,LG,LG G7070,Software Issue,2025-06-03,2025-06-12,Received,Juliette Rizzetti,15513,2183,Credit Card,false
+390,Bobby,Sparry,bsparryat@tmall.com,615-403-3810,LG,LG X style,Diagnostic,2025-07-24,2025-08-04,Waiting on Parts,,14362,2207,,false
+391,Sheri,Brisset,sbrissetau@netvibes.com,172-628-1305,Asus,Asus Zenfone 4 A450CG (2014),Troubleshooting,2025-08-13,2025-08-22,Unrepairable,Sheri Brisset,,500,,false
+392,Dalt,Ternott,dternottav@patch.com,585-477-0928,Wiko,Wiko Tommy2 Plus,Environmental Damage,2026-04-26,2026-05-10,Completed,Dalt Ternott,13867,2999,Debit Card,true
+393,Phylis,Ible,pibleaw@springer.com,932-673-4361,vivo,vivo X50 5G,Software Issue,2025-07-13,2025-07-16,Waiting on Parts,Phylis Ible,6369,1938,Credit Card,false
+394,Ardath,Downer,adownerax@multiply.com,439-711-9851,BlackBerry,BlackBerry Curve 8520,Troubleshooting,2025-07-23,2025-07-29,Completed,,5630,1516,Maya,true
+395,Clare,Beat,cbeatay@arizona.edu,531-341-8231,VK,VK Mobile VK3100,Environmental Damage,2025-05-28,2025-05-30,Completed,Clare Beat,10732,1588,Credit Card,true
+396,Berni,Covill,bcovillaz@tumblr.com,918-807-6714,Samsung,Samsung C520,Diagnostic,2025-08-30,2025-09-08,Diagnosing,Berni Covill,13492,881,Credit Card,true
+397,Heinrick,Vardon,hvardonb0@merriam-webster.com,618-336-0548,LG,LG G Pad X 8.0,Maintenance,2026-04-08,2026-04-22,Ready for Pickup,Heinrick Vardon,6565,597,Credit Card,false
+398,Taddeo,Berling,tberlingb1@ucoz.com,166-188-4106,Allview,Allview V1 Viper i4G,Maintenance,2026-01-30,2026-02-06,Diagnosing,Taddeo Berling,6841,1509,Maya,false
+399,Chandal,Bail,cbailb2@independent.co.uk,494-905-2677,XOLO,XOLO LT900,Hardware Failure,2026-03-17,2026-03-20,Waiting on Parts,Chandal Bail,16993,2260,Cash,true
+400,Brantley,Wilbraham,bwilbrahamb3@biglobe.ne.jp,385-849-4893,Micromax,Micromax Funbook Infinity P275,Troubleshooting,2026-02-24,2026-02-28,Waiting on Parts,Brantley Wilbraham,3269,1874,Maya,false
+401,Troy,Belverstone,tbelverstoneb4@altervista.org,663-603-2565,Gionee,Gionee W909,Diagnostic,2025-07-10,2025-07-11,Diagnosing,Troy Belverstone,13520,1075,Debit Card,true
+402,Yoshi,Tarr,ytarrb5@slashdot.org,834-781-1206,alcatel,alcatel OT-292,Troubleshooting,2025-10-19,2025-10-26,Ready for Pickup,Yoshi Tarr,18289,1416,,false
+403,Lorraine,Mole,lmoleb6@mtv.com,117-511-1644,Samsung,Samsung SCH-W699,Diagnostic,2025-09-27,2025-10-11,Ready for Pickup,Lorraine Mole,6316,1444,Cash,true
+404,Buckie,Izkovitz,bizkovitzb7@usnews.com,317-950-8717,Emporia,Emporia Talk Comfort,Diagnostic,2026-01-08,2026-01-15,Waiting on Parts,Buckie Izkovitz,13221,741,Credit Card,true
+405,Wandis,Neicho,wneichob8@yellowpages.com,644-506-3859,Motorola,Motorola Accompli 009,Hardware Failure,2025-05-14,2025-05-20,Waiting on Parts,Wandis Neicho,,1414,GCash,false
+406,Juditha,Verbruggen,jverbruggenb9@apple.com,587-700-4023,Samsung,Samsung Gear S2,Environmental Damage,2025-05-01,2025-05-10,Unrepairable,Juditha Verbruggen,,500,,false
+407,Dunstan,Ladewig,dladewigba@jugem.jp,709-774-5960,alcatel,alcatel 1v (2019),Troubleshooting,2025-07-03,2025-07-08,Received,Dunstan Ladewig,1031,2400,Credit Card,false
+408,Perice,Ridpath,pridpathbb@netvibes.com,166-464-6380,Allview,Allview Viva C701,Diagnostic,2025-08-25,2025-09-01,Diagnosing,,13358,1215,GCash,true
+409,Sharl,Sawell,ssawellbc@jimdo.com,921-512-1084,Lava,Lava Iris 504q+,Troubleshooting,2025-08-25,2025-08-28,Unrepairable,Sharl Sawell,,500,,false
+410,Ericha,Forstall,eforstallbd@archive.org,232-754-4570,Honor,Honor View,Software Issue,2025-09-05,2025-09-17,Diagnosing,Ericha Forstall,1655,2649,PayPal,true
+411,Constanta,Bissill,cbissillbe@domainmarket.com,938-961-9049,Samsung,Samsung M600,Hardware Failure,2025-11-05,2025-11-14,Completed,Constanta Bissill,3955,1568,,false
+412,Jayson,Bentame,jbentamebf@furl.net,190-848-6879,Panasonic,Panasonic P66,Diagnostic,2025-05-16,2025-05-24,Unrepairable,Jayson Bentame,,500,,false
+413,Vinnie,Gallanders,vgallandersbg@harvard.edu,101-258-0272,Allview,Allview AX4 Nano Plus,Troubleshooting,2026-04-19,2026-04-21,Waiting on Parts,Vinnie Gallanders,19108,2016,PayPal,true
+414,Jedd,Shelp,jshelpbh@dailymail.co.uk,905-976-9190,LG,LG Nitro HD,Maintenance,2026-04-13,2026-04-16,Diagnosing,Jedd Shelp,7430,1326,Maya,false
+415,Francene,Caw,fcawbi@amazon.de,964-495-5378,Huawei,Huawei MediaPad M2 10.0,Environmental Damage,2025-07-25,2025-08-02,Waiting on Parts,,4029,731,PayPal,false
+416,Joceline,Domb,jdombbj@yellowbook.com,123-528-0872,Huawei,Huawei nova 8 SE,Environmental Damage,2025-09-11,2025-09-18,Completed,Joceline Domb,1131,2815,GCash,true
+417,Constantina,Baden,cbadenbk@elpais.com,762-422-2943,Celkon,Celkon Campus Nova A352E,Software Issue,2025-11-15,2025-11-21,Repairing,Constantina Baden,2674,1449,Cash,true
+418,Coop,Probat,cprobatbl@skype.com,708-355-0903,Energizer,Energizer Energy E11,Troubleshooting,2026-03-15,2026-03-21,Completed,Coop Probat,5571,2747,,true
+419,Glyn,Dewire,gdewirebm@twitter.com,534-257-4791,Panasonic,Panasonic A200,Hardware Failure,2025-10-04,2025-10-13,Ready for Pickup,Glyn Dewire,1982,1784,Debit Card,false
+420,Wilmette,Dorkin,wdorkinbn@bravesites.com,525-456-1633,i-mobile,i-mobile Hitz 232CG,Diagnostic,2025-11-28,2025-12-08,Unrepairable,Wilmette Dorkin,,500,,false
+421,Ralph,Esposi,resposibo@census.gov,885-429-0374,Micromax,Micromax X410,Maintenance,2025-09-05,2025-09-08,Ready for Pickup,Ralph Esposi,18122,2009,,false
+422,Andrej,Deeney,adeeneybp@youtube.com,478-916-8745,Micromax,Micromax A114R Canvas Beat,Software Issue,2025-09-23,2025-09-26,Completed,Andrej Deeney,14849,2444,Debit Card,false
+423,Johanna,Firks,jfirksbq@example.com,710-782-7196,Ericsson,Ericsson T29s,Environmental Damage,2025-09-23,2025-09-25,Repairing,Johanna Firks,17289,1473,,false
+424,Lianne,Ateggart,lateggartbr@mozilla.org,162-764-1930,Haier,Haier M2000,Troubleshooting,2025-05-28,2025-06-06,Completed,Lianne Ateggart,16274,2712,PayPal,false
+425,Effie,Cankett,ecankettbs@bbc.co.uk,470-418-0962,Sony,Sony Ericsson T68i,Troubleshooting,2025-10-15,2025-10-23,Waiting on Parts,Effie Cankett,2702,1565,,false
+426,Sydney,Binion,sbinionbt@cocolog-nifty.com,321-961-7198,alcatel,alcatel Pop D1,Software Issue,2025-06-22,2025-07-05,Completed,Sydney Binion,18126,2543,PayPal,false
+427,Marc,Ketch,mketchbu@sourceforge.net,917-422-6163,Oppo,Oppo R7 Plus,Hardware Failure,2025-11-04,2025-11-08,Repairing,Marc Ketch,10233,2362,Cash,true
+428,Reg,Bretelle,rbretellebv@marriott.com,712-650-5857,verykool,verykool s5015 Spark II,Maintenance,2026-04-10,2026-04-21,Waiting on Parts,Reg Bretelle,1063,2746,PayPal,false
+429,Romona,Sanchiz,rsanchizbw@sphinn.com,812-764-1561,Samsung,Samsung B110,Hardware Failure,2026-04-21,2026-04-24,Completed,Romona Sanchiz,8665,2847,Maya,true
+430,Kati,Caspell,kcaspellbx@cornell.edu,489-209-5220,Acer,Acer Iconia Tab A701,Maintenance,2025-06-17,2025-06-25,Diagnosing,Kati Caspell,16888,599,PayPal,true
+431,Kurt,Philps,kphilpsby@dailymotion.com,694-753-9017,Nokia,Nokia 9300i,Diagnostic,2025-11-11,2025-11-21,Received,Kurt Philps,2457,2466,Debit Card,false
+432,Mandy,Desouza,mdesouzabz@washingtonpost.com,614-268-2334,vivo,vivo Y31 (2015),Software Issue,2025-08-07,2025-08-21,Ready for Pickup,Mandy Desouza,9050,2865,Credit Card,false
+433,Muriel,Birdsey,mbirdseyc0@google.com.au,674-346-1345,Samsung,Samsung Galaxy Tab A 8.0 (2018),Environmental Damage,2025-09-17,2025-09-20,Unrepairable,Muriel Birdsey,,500,,true
+434,Diann,Bodker,dbodkerc1@businesswire.com,831-317-5823,Huawei,Huawei Mate 20 X,Troubleshooting,2026-04-02,2026-04-11,Waiting on Parts,Diann Bodker,15261,1346,,false
+435,Jannel,Birkmyr,jbirkmyrc2@amazonaws.com,996-348-3796,Motorola,Motorola FIRE XT,Diagnostic,2025-06-12,2025-06-15,Waiting on Parts,Jannel Birkmyr,746,2840,Maya,true
+436,Anallese,Jochen,ajochenc3@is.gd,239-759-4223,alcatel,alcatel 2001,Diagnostic,2025-05-31,2025-06-03,Diagnosing,Anallese Jochen,16813,1100,PayPal,false
+437,Kyla,Chipperfield,kchipperfieldc4@mapquest.com,824-600-1181,alcatel,alcatel HC 800,Environmental Damage,2026-04-05,2026-04-14,Received,Kyla Chipperfield,4119,2680,Maya,false
+438,Kaspar,Shackelton,kshackeltonc5@apache.org,580-233-5078,Sony,Sony Ericsson J120,Environmental Damage,2025-05-29,2025-06-04,Repairing,Kaspar Shackelton,3597,1862,GCash,false
+439,Bobby,Shemwell,bshemwellc6@meetup.com,515-524-5219,Honor,Honor Pad 5 10.1,Diagnostic,2026-01-13,2026-01-19,Completed,Bobby Shemwell,4882,793,Debit Card,false
+440,Schuyler,Lumox,slumoxc7@ucoz.com,448-970-1218,Samsung,Samsung Galaxy Note10 5G,Software Issue,2025-05-03,2025-05-04,Unrepairable,Schuyler Lumox,,500,,true
+441,Eldridge,Marcum,emarcumc8@marketwatch.com,208-189-4743,Maxon,Maxon MX-C60,Troubleshooting,2026-02-15,2026-02-20,Ready for Pickup,Eldridge Marcum,3816,2559,Cash,true
+442,Karoly,Kitchingman,kkitchingmanc9@oracle.com,754-277-1370,Motorola,Motorola ROKR E8,Troubleshooting,2025-12-25,2026-01-04,Diagnosing,Karoly Kitchingman,13614,608,Cash,false
+443,Alair,Hatherleigh,ahatherleighca@dedecms.com,589-428-4130,BlackBerry,BlackBerry 8800,Troubleshooting,2025-10-04,2025-10-15,Diagnosing,Alair Hatherleigh,4834,2311,Maya,false
+444,Marlo,Windridge,mwindridgecb@storify.com,529-403-3146,Philips,Philips 530,Troubleshooting,2025-06-12,2025-06-24,Completed,Marlo Windridge,18824,1214,Credit Card,false
+445,Merrielle,Boother,mboothercc@mac.com,279-927-9524,Celkon,Celkon A402,Software Issue,2026-01-30,2026-02-13,Waiting on Parts,Merrielle Boother,15130,651,Maya,false
+446,Fabio,MacGeffen,fmacgeffencd@nydailynews.com,965-362-4994,Lenovo,Lenovo A269i,Troubleshooting,2026-01-02,2026-01-14,Received,,16293,1601,Cash,true
+447,Eustacia,Davio,edavioce@shutterfly.com,837-399-8541,Huawei,Huawei Y9a,Software Issue,2025-10-27,2025-10-28,Ready for Pickup,Eustacia Davio,8229,1969,GCash,true
+448,Jonis,Cockerham,jcockerhamcf@facebook.com,739-496-2552,alcatel,alcatel OT-255,Troubleshooting,2026-01-04,2026-01-16,Ready for Pickup,Jonis Cockerham,10553,1860,,true
+449,Madelene,Chataignier,mchataigniercg@bigcartel.com,132-465-1970,BLU,BLU Tattoo,Hardware Failure,2026-01-15,2026-01-21,Diagnosing,Madelene Chataignier,7453,1207,Maya,true
+450,Broddie,Linnard,blinnardch@parallels.com,186-505-2459,LG,LG F2400,Troubleshooting,2026-01-19,2026-01-30,Diagnosing,Broddie Linnard,18781,1645,Debit Card,false
+451,John,Dearth,jdearthci@google.pl,129-129-3637,Plum,Plum Dazzle,Maintenance,2026-04-08,2026-04-11,Ready for Pickup,,11281,2286,,false
+452,Sharl,Dionis,sdioniscj@instagram.com,558-999-2958,verykool,verykool SL4500 Fusion,Troubleshooting,2026-02-24,2026-02-27,Unrepairable,,,500,,true
+453,Manda,Le Brun,mleck@wired.com,184-608-3656,Micromax,Micromax X560,Software Issue,2025-06-12,2025-06-17,Diagnosing,Manda Le Brun,,2856,Maya,false
+454,Elga,Fould,efouldcl@sitemeter.com,437-416-0689,Samsung,Samsung E1125,Hardware Failure,2025-10-19,2025-11-01,Unrepairable,Elga Fould,,500,,true
+455,Culley,Stonbridge,cstonbridgecm@google.nl,553-333-6491,Samsung,Samsung E2210B,Environmental Damage,2025-07-18,2025-07-19,Repairing,Culley Stonbridge,18260,1455,Maya,true
+456,Tracie,Enstone,tenstonecn@hubpages.com,131-858-4341,Sony,Sony Ericsson Jalou D&G edition,Troubleshooting,2025-05-20,2025-05-28,Diagnosing,Tracie Enstone,11016,511,Debit Card,true
+457,Forester,Opfer,fopferco@cam.ac.uk,935-576-6004,Gionee,Gionee S6s,Environmental Damage,2025-10-07,2025-10-11,Unrepairable,Forester Opfer,,500,,false
+458,Keelia,Keston,kkestoncp@va.gov,343-447-9194,QMobile,QMobile Noir Z9,Software Issue,2026-04-07,2026-04-19,Ready for Pickup,,1110,2847,,true
+459,Mona,Trimble,mtrimblecq@multiply.com,441-683-1462,LG,LG G350,Environmental Damage,2025-05-05,2025-05-09,Unrepairable,Mona Trimble,,500,,true
+460,Linet,Shearstone,lshearstonecr@deliciousdays.com,820-291-0666,XOLO,XOLO Q500s IPS,Environmental Damage,2026-02-21,2026-03-01,Received,,8199,1247,Maya,false
+461,Rossie,Fedoronko,rfedoronkocs@dmoz.org,779-510-5905,Samsung,Samsung i770 Saga,Diagnostic,2025-09-09,2025-09-16,Received,Rossie Fedoronko,9387,2569,,false
+462,Grazia,Bohler,gbohlerct@virginia.edu,770-597-1997,XOLO,XOLO Q700 Club,Hardware Failure,2025-08-25,2025-09-03,Diagnosing,Grazia Bohler,16742,2380,Credit Card,true
+463,Barbee,Dyet,bdyetcu@discuz.net,438-169-6271,Philips,Philips 892,Diagnostic,2025-06-11,2025-06-16,Received,Barbee Dyet,3218,2210,Maya,true
+464,Winnah,Hockell,whockellcv@illinois.edu,208-420-8891,Motorola,Motorola Motosmart Me XT303,Environmental Damage,2026-01-21,2026-01-31,Waiting on Parts,Winnah Hockell,,1601,,true
+465,Harriette,Fogg,hfoggcw@plala.or.jp,208-997-4580,LG,LG G3100,Diagnostic,2025-09-09,2025-09-17,Ready for Pickup,Harriette Fogg,16467,1717,Maya,false
+466,Renault,Boddymead,rboddymeadcx@etsy.com,434-786-0469,Eten,Eten glofiish M750,Hardware Failure,2025-06-15,2025-06-23,Completed,Renault Boddymead,1554,2683,Maya,true
+467,Giovanni,Izard,gizardcy@hp.com,952-900-2344,Lenovo,Lenovo K12 (China),Maintenance,2025-09-08,2025-09-13,Unrepairable,Giovanni Izard,,500,,false
+468,Lenee,Mesnard,lmesnardcz@tuttocitta.it,738-815-0682,Sagem,Sagem my421x,Maintenance,2025-09-23,2025-10-05,Unrepairable,Lenee Mesnard,,500,,false
+469,Granthem,Fluin,gfluind0@prlog.org,749-794-2583,ZTE,ZTE Blade X1 5G,Troubleshooting,2025-11-14,2025-11-28,Ready for Pickup,Granthem Fluin,17435,2286,GCash,false
+470,Ernie,Sogg,esoggd1@webmd.com,433-666-0416,Amoi,Amoi 2561,Environmental Damage,2026-01-24,2026-02-03,Received,Ernie Sogg,14250,2053,Maya,false
+471,Bernete,Eberts,bebertsd2@dropbox.com,850-683-6957,Celkon,Celkon C99,Environmental Damage,2025-08-17,2025-08-29,Received,Bernete Eberts,18701,2907,Credit Card,true
+472,Raynell,Smedmoor,rsmedmoord3@springer.com,746-926-5036,O2,O2 XDA Nova,Hardware Failure,2026-01-17,2026-01-18,Completed,Raynell Smedmoor,6666,813,Maya,true
+473,Ninon,Stockbridge,nstockbridged4@harvard.edu,394-959-2849,Micromax,Micromax A60,Software Issue,2025-11-16,2025-11-26,Repairing,Ninon Stockbridge,7169,1067,,false
+474,Omar,Petrie,opetried5@free.fr,278-870-2727,Lava,Lava X38,Maintenance,2025-11-23,2025-11-28,Received,Omar Petrie,11531,568,Cash,true
+475,Debor,de Lloyd,dded6@quantcast.com,670-963-0695,Samsung,Samsung E1210,Diagnostic,2025-11-25,2025-12-02,Unrepairable,Debor de Lloyd,,500,,true
+476,Rebecka,Teasdale,rteasdaled7@ftc.gov,129-119-9624,Philips,Philips Xenium X513,Diagnostic,2025-09-23,2025-09-26,Diagnosing,Rebecka Teasdale,17527,2155,Maya,true
+477,Juliet,Champken,jchampkend8@marketwatch.com,204-445-6299,Samsung,Samsung Guru E1081T,Hardware Failure,2025-11-12,2025-11-26,Diagnosing,Juliet Champken,4963,2829,Maya,false
+478,Mendel,Satford,msatfordd9@netvibes.com,501-783-8628,Prestigio,Prestigio MultiPad 4 Quantum 9.7 Colombia,Maintenance,2026-03-20,2026-03-28,Waiting on Parts,Mendel Satford,8770,2302,Maya,true
+479,Regine,Roz,rrozda@ox.ac.uk,758-995-6426,Mitsubishi,Mitsubishi Trium Galaxy,Maintenance,2025-09-19,2025-09-30,Diagnosing,,16593,1234,Credit Card,true
+480,Rhys,Corinton,rcorintondb@etsy.com,894-154-6489,Celkon,Celkon C7 Jumbo,Hardware Failure,2026-03-14,2026-03-26,Diagnosing,Rhys Corinton,6329,1312,Maya,false
+481,Mariellen,Dumbar,mdumbardc@wikipedia.org,291-650-9656,Tecno,Tecno Camon 11,Maintenance,2025-10-01,2025-10-12,Unrepairable,Mariellen Dumbar,,500,,false
+482,Barnaby,Orniz,bornizdd@sun.com,401-782-1667,LG,LG K10,Software Issue,2025-11-07,2025-11-10,Waiting on Parts,Barnaby Orniz,11384,2606,Maya,false
+483,Vassily,Dosdill,vdosdillde@umn.edu,179-819-6642,vivo,vivo Y53i,Software Issue,2025-07-28,2025-08-07,Completed,Vassily Dosdill,,1238,GCash,false
+484,Berkie,Sebastian,bsebastiandf@github.com,175-147-2103,Nokia,Nokia 103,Software Issue,2026-04-14,2026-04-19,Repairing,Berkie Sebastian,3508,1085,Maya,true
+485,Sandie,Killoran,skillorandg@nba.com,124-166-2379,Maxon,Maxon MX-6814,Software Issue,2026-03-10,2026-03-16,Diagnosing,Sandie Killoran,18654,863,,false
+486,Karlotte,Spillett,kspillettdh@pinterest.com,620-193-2953,LG,LG GS190,Software Issue,2025-07-07,2025-07-14,Unrepairable,Karlotte Spillett,,500,,true
+487,Tammy,MacNamee,tmacnameedi@instagram.com,819-850-5285,Samsung,Samsung Galaxy S6 edge+,Maintenance,2025-08-12,2025-08-20,Unrepairable,Tammy MacNamee,,500,,true
+488,Irvine,Paddington,ipaddingtondj@360.cn,315-119-2723,Samsung,Samsung Galaxy A51 5G UW,Software Issue,2025-05-24,2025-05-30,Completed,Irvine Paddington,1852,2711,,true
+489,Woodman,Harrowing,wharrowingdk@google.pl,775-937-8218,QMobile,QMobile Noir A950,Diagnostic,2025-05-27,2025-06-04,Diagnosing,Woodman Harrowing,6944,2849,Maya,false
+490,Swen,Lamden,slamdendl@bluehost.com,765-371-8888,Ulefone,Ulefone Armor 6S,Maintenance,2026-01-25,2026-02-07,Repairing,Swen Lamden,7786,1125,,true
+491,Gretna,Justis,gjustisdm@cargocollective.com,588-698-0378,Philips,Philips Xenium 9@9g,Troubleshooting,2025-12-25,2026-01-05,Diagnosing,Gretna Justis,9977,1581,,false
+492,Jonell,Ruperto,jrupertodn@amazonaws.com,446-115-9493,HTC,HTC One XL,Troubleshooting,2025-06-19,2025-06-30,Ready for Pickup,Jonell Ruperto,,1803,GCash,false
+493,Rockwell,Rycraft,rrycraftdo@creativecommons.org,480-782-3174,Allview,Allview Allwatch V,Hardware Failure,2025-05-07,2025-05-15,Completed,Rockwell Rycraft,3307,1512,,true
+494,Reina,Bonallack,rbonallackdp@shutterfly.com,570-824-2360,Nokia,Nokia E72,Maintenance,2026-02-28,2026-03-10,Waiting on Parts,Reina Bonallack,13549,2425,Maya,false
+495,Krisha,Lightwood,klightwooddq@nsw.gov.au,118-876-5315,Amazon,Amazon Fire 7 (2017),Hardware Failure,2026-04-13,2026-04-20,Diagnosing,Krisha Lightwood,14524,2322,PayPal,false
+496,Gigi,Lambole,glamboledr@sohu.com,729-599-6747,Philips,Philips X526,Diagnostic,2025-06-21,2025-06-30,Ready for Pickup,Gigi Lambole,655,1843,Debit Card,false
+497,Eugenie,Pleass,epleassds@artisteer.com,808-167-3081,Motorola,Motorola DROID 2 Global,Hardware Failure,2025-08-01,2025-08-03,Diagnosing,Eugenie Pleass,6853,1151,Maya,true
+498,Rowena,Harriman,rharrimandt@printfriendly.com,438-420-2387,BlackBerry,BlackBerry Curve 3G 9300,Diagnostic,2025-06-03,2025-06-14,Diagnosing,,13069,1303,Maya,false
+499,Arty,Brunstan,abrunstandu@photobucket.com,306-837-4892,Xiaomi,Xiaomi Redmi 2A,Diagnostic,2025-11-21,2025-12-05,Ready for Pickup,Arty Brunstan,6724,2517,Credit Card,false
+500,Roseline,Nicklin,rnicklindv@archive.org,915-119-3883,Infinix,Infinix Note 7 Lite,Diagnostic,2026-04-23,2026-05-04,Unrepairable,,,500,,true
+501,Marabel,Richemont,mrichemontdw@dot.gov,445-251-6565,Huawei,Huawei Ascend Y221,Environmental Damage,2026-03-04,2026-03-14,Diagnosing,Marabel Richemont,12181,1812,,false
+502,Chelsie,O' Neligan,codx@latimes.com,821-438-2436,LG,LG KS10,Troubleshooting,2026-03-26,2026-04-02,Unrepairable,Chelsie O' Neligan,,500,,true
+503,Korney,Iston,kistondy@skyrock.com,429-908-8705,Apple,Apple iPad 2 Wi-Fi + 3G,Diagnostic,2025-09-02,2025-09-05,Waiting on Parts,Korney Iston,13596,699,,false
+504,Kitty,Pointin,kpointindz@ted.com,190-651-8170,Spice,Spice QT-65,Hardware Failure,2026-02-19,2026-03-02,Completed,Kitty Pointin,11519,2518,Debit Card,true
+505,Nicola,Sciacovelli,nsciacovellie0@yellowbook.com,716-740-2958,Samsung,Samsung V100,Software Issue,2025-12-20,2025-12-26,Completed,Nicola Sciacovelli,2500,2434,Maya,false
+506,Elsworth,Mc Grath,emce1@hexun.com,172-347-7401,Tecno,Tecno Pop 1 Lite,Environmental Damage,2025-12-09,2025-12-23,Ready for Pickup,Elsworth Mc Grath,14641,848,Maya,true
+507,Deloria,Gregori,dgregorie2@is.gd,283-282-8234,vivo,vivo V1 Max,Environmental Damage,2025-07-14,2025-07-27,Repairing,Deloria Gregori,13134,2071,,false
+508,Fayth,De Pietri,fdee3@blog.com,157-901-2376,Celkon,Celkon A359,Hardware Failure,2025-10-12,2025-10-20,Repairing,Fayth De Pietri,3327,2355,Maya,true
+509,Regan,Emeline,remelinee4@guardian.co.uk,290-869-5758,ZTE,ZTE Axon Lux,Software Issue,2026-03-30,2026-04-11,Completed,Regan Emeline,14278,543,Maya,true
+510,Carlita,Recher,crechere5@time.com,523-636-0738,Apple,Apple iPad Pro 10.5 (2017),Diagnostic,2025-12-02,2025-12-09,Diagnosing,Carlita Recher,5484,710,Cash,false
+511,Dorothy,Boyack,dboyacke6@people.com.cn,765-928-6255,BLU,BLU Dash G,Software Issue,2026-04-12,2026-04-21,Received,Dorothy Boyack,13400,2983,Cash,true
+512,Karlee,Ellerey,kellereye7@bloglovin.com,981-805-4802,Motorola,Motorola T725,Diagnostic,2025-05-02,2025-05-05,Completed,Karlee Ellerey,14663,2699,GCash,false
+513,Carolann,Bartlomiejczyk,cbartlomiejczyke8@gnu.org,706-364-4710,Energizer,Energizer Energy E220,Hardware Failure,2025-05-05,2025-05-16,Ready for Pickup,Carolann Bartlomiejczyk,10049,2097,Maya,true
+514,Chicky,Kibard,ckibarde9@xing.com,730-133-0848,BlackBerry,BlackBerry KEY2,Hardware Failure,2025-10-02,2025-10-11,Received,Chicky Kibard,3320,1088,GCash,false
+515,Nichole,Dootson,ndootsonea@google.cn,452-452-5510,Samsung,Samsung S400i,Environmental Damage,2025-10-08,2025-10-16,Completed,Nichole Dootson,16094,2053,GCash,false
+516,Wrennie,Dankersley,wdankersleyeb@amazonaws.com,508-821-3501,Lava,Lava A59,Diagnostic,2025-11-08,2025-11-21,Diagnosing,,4268,1940,,true
+517,Jared,Miroy,jmiroyec@exblog.jp,917-627-6967,LG,LG Velvet 5G,Hardware Failure,2025-12-01,2025-12-05,Unrepairable,,,500,,true
+518,Nadya,Putten,nputtened@xing.com,464-938-5148,Nokia,Nokia C5 Endi,Hardware Failure,2025-05-15,2025-05-20,Diagnosing,Nadya Putten,10109,730,GCash,false
+519,Ruby,Ors,rorsee@dot.gov,468-392-2335,Emporia,Emporia Glam,Software Issue,2025-12-05,2025-12-18,Received,Ruby Ors,2077,981,,true
+520,Jaye,Vannuccini,jvannuccinief@bloomberg.com,919-368-7455,Samsung,Samsung Galaxy Express 2,Maintenance,2025-11-15,2025-11-21,Waiting on Parts,Jaye Vannuccini,709,627,Cash,true
+521,Saundra,Richemond,srichemondeg@reference.com,948-380-1373,Kyocera,Kyocera E4600,Diagnostic,2025-11-07,2025-11-15,Received,Saundra Richemond,17042,766,PayPal,false
+522,Christabella,Greeveson,cgreevesoneh@de.vu,826-785-2221,Celkon,Celkon A10,Troubleshooting,2025-10-06,2025-10-13,Waiting on Parts,Christabella Greeveson,13963,1082,Cash,true
+523,Perla,Boig,pboigei@sciencedirect.com,603-634-5110,alcatel,alcatel One Touch Scribe HD-LTE,Troubleshooting,2025-06-12,2025-06-17,Repairing,Perla Boig,15766,740,,true
+524,Miof mela,Alliston,mmelaej@upenn.edu,213-302-3073,Dell,Dell Venue 7 8 GB,Troubleshooting,2026-02-17,2026-02-23,Repairing,Miof mela Alliston,17828,2668,Credit Card,false
+525,Clementine,Fortin,cfortinek@facebook.com,609-925-0887,Nokia,Nokia E62,Troubleshooting,2025-06-24,2025-07-03,Repairing,Clementine Fortin,2269,1271,PayPal,false
+526,Pegeen,Kinny,pkinnyel@yelp.com,171-607-1708,verykool,verykool i650,Troubleshooting,2026-03-19,2026-03-20,Unrepairable,Pegeen Kinny,,500,,false
+527,Aldridge,Borlease,aborleaseem@scientificamerican.com,127-184-5417,Motorola,Motorola WX306,Troubleshooting,2025-12-13,2025-12-21,Waiting on Parts,Aldridge Borlease,9688,1003,Credit Card,true
+528,Marketa,Scolli,mscollien@ebay.com,700-502-4503,Spice,Spice M-4262,Diagnostic,2025-11-08,2025-11-14,Ready for Pickup,Marketa Scolli,7238,2680,Cash,true
+529,Jayme,Adamson,jadamsoneo@icq.com,230-436-7495,Philips,Philips 659,Software Issue,2026-04-21,2026-04-23,Ready for Pickup,Jayme Adamson,1227,982,PayPal,true
+530,Rodney,Merchant,rmerchantep@plala.or.jp,846-468-5659,Bird,Bird D706,Maintenance,2025-07-03,2025-07-16,Repairing,Rodney Merchant,,1764,Debit Card,true
+531,Linnie,Richter,lrichtereq@nps.gov,396-968-0388,verykool,verykool i129,Environmental Damage,2026-03-10,2026-03-12,Completed,Linnie Richter,6085,1740,Credit Card,true
+532,Simonette,Dhennin,sdhenniner@sun.com,315-104-7795,QMobile,QMobile Noir LT700 Pro,Diagnostic,2026-01-11,2026-01-12,Diagnosing,Simonette Dhennin,13078,2204,Credit Card,true
+533,Dredi,Tidcombe,dtidcombees@ftc.gov,695-381-7510,HTC,HTC Desire HD,Troubleshooting,2025-08-31,2025-09-11,Repairing,Dredi Tidcombe,16504,1987,Cash,false
+534,Kizzie,Zohrer,kzohreret@unblog.fr,600-337-2661,Icemobile,Icemobile Hurricane II,Diagnostic,2025-06-02,2025-06-12,Received,Kizzie Zohrer,19336,1436,,false
+535,Roderic,Giovanazzi,rgiovanazzieu@vk.com,410-391-9098,Allview,Allview Viva H7 LTE,Software Issue,2025-10-04,2025-10-05,Repairing,Roderic Giovanazzi,14179,1461,PayPal,true
+536,Candra,Galbreth,cgalbrethev@instagram.com,817-653-7771,Motorola,Motorola V1000,Hardware Failure,2026-03-16,2026-03-18,Diagnosing,,2357,1816,Debit Card,true
+537,Dulcine,Norvel,dnorvelew@sbwire.com,632-310-7381,Nokia,Nokia 6600 slide,Troubleshooting,2026-04-23,2026-04-24,Waiting on Parts,Dulcine Norvel,1687,1635,,false
+538,Moria,Cator,mcatorex@feedburner.com,545-844-7991,T-Mobile,T-Mobile Vairy Touch,Maintenance,2026-04-22,2026-04-27,Unrepairable,,,500,,true
+539,Eirena,Clowley,eclowleyey@msu.edu,423-242-9601,Motorola,Motorola MT917,Maintenance,2025-10-29,2025-10-31,Diagnosing,Eirena Clowley,8406,2193,Cash,true
+540,Teodoro,Richardsson,trichardssonez@whitehouse.gov,365-644-7365,Bosch,Bosch World 718,Diagnostic,2025-07-05,2025-07-16,Repairing,Teodoro Richardsson,4104,1045,GCash,false
+541,Jay,Lomen,jlomenf0@narod.ru,449-278-5641,Gigabyte,Gigabyte GSmart T4,Troubleshooting,2026-03-02,2026-03-11,Completed,Jay Lomen,11716,757,Maya,true
+542,Denney,Hulburd,dhulburdf1@fda.gov,573-681-0055,Spice,Spice M-6868N FLO ME,Maintenance,2026-02-21,2026-02-26,Received,Denney Hulburd,7821,1387,,true
+543,Waneta,Ivie,wivief2@timesonline.co.uk,422-388-0557,Samsung,Samsung ZV30,Troubleshooting,2026-03-19,2026-03-29,Received,Waneta Ivie,5473,1208,PayPal,true
+544,Gerhardine,Siaspinski,gsiaspinskif3@hhs.gov,631-531-0234,Xiaomi,Xiaomi Mi 11 Lite,Diagnostic,2025-12-16,2025-12-26,Unrepairable,Gerhardine Siaspinski,,500,,true
+545,Randi,O'Hagerty,rohagertyf4@livejournal.com,644-493-3817,Samsung,Samsung E1080T,Hardware Failure,2026-01-20,2026-02-02,Completed,Randi O'Hagerty,14745,1082,Cash,false
+546,Susann,Trainor,strainorf5@xrea.com,379-703-1306,Maxon,Maxon MX-7940,Software Issue,2025-12-22,2025-12-30,Waiting on Parts,Susann Trainor,7027,2856,Debit Card,true
+547,Vere,Gitsham,vgitshamf6@yahoo.co.jp,327-373-4958,BenQ-Siemens,BenQ-Siemens SF71,Maintenance,2025-06-08,2025-06-21,Completed,Vere Gitsham,5014,2902,GCash,true
+548,Bonni,Wildey,bwildeyf7@godaddy.com,446-801-1462,Samsung,Samsung Galaxy J7 Pro,Environmental Damage,2026-03-24,2026-04-07,Unrepairable,Bonni Wildey,,500,,false
+549,Lavinia,Beebis,lbeebisf8@newsvine.com,755-787-3539,Samsung,Samsung i300,Diagnostic,2025-12-17,2025-12-30,Diagnosing,Lavinia Beebis,1472,912,Credit Card,false
+550,Brooks,Allery,balleryf9@archive.org,164-466-9524,Philips,Philips S616,Software Issue,2025-09-19,2025-10-02,Ready for Pickup,Brooks Allery,10700,878,PayPal,false
+551,Silvester,Dace,sdacefa@php.net,472-343-6681,Gigabyte,Gigabyte GSmart Essence 4,Troubleshooting,2025-10-29,2025-11-07,Received,Silvester Dace,2261,542,Debit Card,false
+552,Wilburt,Bridgewater,wbridgewaterfb@technorati.com,925-317-5665,verykool,verykool s5530 Maverick II,Environmental Damage,2025-08-08,2025-08-14,Diagnosing,Wilburt Bridgewater,15700,2215,Cash,true
+553,Godard,Bearne,gbearnefc@nbcnews.com,804-356-7927,Micromax,Micromax X560,Environmental Damage,2026-03-08,2026-03-19,Completed,Godard Bearne,1920,2056,,true
+554,Gabbi,Colbron,gcolbronfd@blogs.com,753-163-0146,Sony,Sony Xperia H8541,Software Issue,2025-12-06,2025-12-18,Completed,Gabbi Colbron,1813,2658,Maya,true
+555,Marwin,Dobel,mdobelfe@unc.edu,214-789-6313,Lenovo,Lenovo Yoga Tablet 2 10.1,Environmental Damage,2026-03-17,2026-03-25,Unrepairable,Marwin Dobel,,500,,true
+556,Sofia,Mityashin,smityashinff@arizona.edu,556-226-9771,Allview,Allview A10 Plus,Hardware Failure,2025-06-02,2025-06-10,Unrepairable,Sofia Mityashin,,500,,true
+557,Gail,Lucio,gluciofg@hao123.com,483-203-9652,Motorola,Motorola C123,Environmental Damage,2025-09-09,2025-09-20,Received,Gail Lucio,14826,928,Credit Card,true
+558,Leonidas,Limpricht,llimprichtfh@harvard.edu,135-387-5786,Lava,Lava A76,Maintenance,2025-07-14,2025-07-15,Completed,,11756,2767,Cash,false
+559,Burl,Hackwell,bhackwellfi@blogger.com,851-143-9483,Sony,Sony Xperia C,Maintenance,2026-01-27,2026-02-09,Ready for Pickup,Burl Hackwell,924,2733,Cash,false
+560,Stanislaus,Bohlsen,sbohlsenfj@surveymonkey.com,439-467-9683,Samsung,Samsung SCH-B100,Maintenance,2025-10-04,2025-10-09,Received,Stanislaus Bohlsen,,1754,GCash,false
+561,Lind,Shadrack,lshadrackfk@amazon.co.jp,535-934-0944,NEC,NEC N343i,Hardware Failure,2025-12-28,2026-01-10,Unrepairable,Lind Shadrack,,500,,false
+562,Brannon,Slocombe,bslocombefl@va.gov,914-438-5071,Wiko,Wiko Rainbow,Troubleshooting,2025-10-27,2025-11-10,Completed,Brannon Slocombe,10801,1245,Cash,false
+563,Maxie,Matthewes,mmatthewesfm@noaa.gov,259-149-0844,Asus,Asus Pegasus 2 Plus,Hardware Failure,2025-09-12,2025-09-18,Waiting on Parts,Maxie Matthewes,1281,2106,,true
+564,Terrell,Shwenn,tshwennfn@wikispaces.com,980-480-3429,HP,HP iPAQ hw6915,Troubleshooting,2025-07-24,2025-07-29,Waiting on Parts,Terrell Shwenn,9456,2685,PayPal,false
+565,Justine,Degan,jdeganfo@ibm.com,634-407-6592,Motorola,Motorola Moto G9 (India),Software Issue,2025-08-28,2025-09-03,Received,Justine Degan,,2513,Debit Card,false
+566,Christyna,Jeyness,cjeynessfp@patch.com,868-496-8812,Nokia,Nokia Lumia 635,Maintenance,2025-04-30,2025-05-08,Diagnosing,Christyna Jeyness,14322,1803,Cash,false
+567,Franz,Jirsa,fjirsafq@networkadvertising.org,396-785-4187,alcatel,alcatel Pixi 3 (7) LTE,Environmental Damage,2025-07-08,2025-07-20,Received,Franz Jirsa,5090,1354,PayPal,false
+568,Winnie,Feldhammer,wfeldhammerfr@rakuten.co.jp,996-200-3228,BLU,BLU Speed,Environmental Damage,2025-05-30,2025-06-05,Received,Winnie Feldhammer,533,2172,,true
+569,Jo-anne,Allsupp,jallsuppfs@gravatar.com,498-477-4196,Infinix,Infinix Hot 5,Diagnostic,2026-02-13,2026-02-24,Repairing,Jo-anne Allsupp,15844,2920,Cash,true
+570,Rozamond,Morl,rmorlft@google.ca,677-528-5246,BLU,BLU Kick,Software Issue,2026-01-05,2026-01-19,Diagnosing,Rozamond Morl,8961,2231,PayPal,true
+571,Jocelyn,Beck,jbeckfu@jimdo.com,378-625-7424,Sony,Sony Xperia XZs,Diagnostic,2025-05-09,2025-05-14,Waiting on Parts,Jocelyn Beck,10202,942,PayPal,true
+572,Natalina,Antonetti,nantonettifv@parallels.com,571-573-9251,OnePlus,OnePlus 8 Pro,Software Issue,2025-11-09,2025-11-14,Completed,,19476,2998,Credit Card,false
+573,Dorthy,Buttle,dbuttlefw@is.gd,274-521-6438,Apple,Apple iPhone XS,Troubleshooting,2025-06-24,2025-07-08,Unrepairable,Dorthy Buttle,,500,,false
+574,Beryl,Hake,bhakefx@upenn.edu,301-859-3110,Samsung,Samsung E700,Troubleshooting,2026-04-02,2026-04-08,Diagnosing,Beryl Hake,2035,2948,Cash,true
+575,Paulie,Derwin,pderwinfy@marriott.com,393-467-1748,Samsung,Samsung S3500,Troubleshooting,2025-08-12,2025-08-26,Repairing,Paulie Derwin,4379,1573,Credit Card,false
+576,Cal,Arckoll,carckollfz@tumblr.com,436-674-1497,Celkon,Celkon C5050,Diagnostic,2025-06-09,2025-06-23,Ready for Pickup,Cal Arckoll,10755,1771,PayPal,true
+577,Farrah,Polin,fpoling0@fc2.com,711-418-9066,alcatel,alcatel OT-222,Software Issue,2026-04-24,2026-04-27,Completed,Farrah Polin,3159,1307,,true
+578,Phylis,Withrington,pwithringtong1@msu.edu,966-962-7819,HP,HP iPAQ 514,Hardware Failure,2025-12-26,2026-01-02,Waiting on Parts,Phylis Withrington,16583,1322,Maya,false
+579,Jocelin,Lagne,jlagneg2@angelfire.com,826-282-4193,Maxwest,Maxwest Orbit X50,Software Issue,2025-08-01,2025-08-12,Diagnosing,Jocelin Lagne,14464,1661,,true
+580,Curry,Benwell,cbenwellg3@scribd.com,619-887-4179,Samsung,Samsung Galaxy Note 10.1 N8000,Software Issue,2025-05-12,2025-05-26,Unrepairable,Curry Benwell,,500,,true
+581,Crawford,Destouche,cdestoucheg4@typepad.com,158-890-3118,vivo,vivo Y91 (Mediatek),Hardware Failure,2025-05-11,2025-05-19,Waiting on Parts,Crawford Destouche,,558,Maya,false
+582,Purcell,Wisden,pwisdeng5@moonfruit.com,785-336-6565,Google,Google Pixel 5,Hardware Failure,2026-01-22,2026-01-30,Unrepairable,Purcell Wisden,,500,,true
+583,Lira,Woloschinski,lwoloschinskig6@fotki.com,416-241-2465,Sony,Sony Ericsson K500,Diagnostic,2026-02-10,2026-02-17,Ready for Pickup,Lira Woloschinski,12363,1439,GCash,true
+584,Vivyanne,Tomsu,vtomsug7@princeton.edu,684-510-9387,LG,LG C1100,Hardware Failure,2025-08-29,2025-09-04,Diagnosing,Vivyanne Tomsu,369,2113,GCash,true
+585,Leesa,MacRannell,lmacrannellg8@vistaprint.com,821-953-2960,Innostream,Innostream INNO 36,Maintenance,2025-05-07,2025-05-16,Ready for Pickup,Leesa MacRannell,12883,1349,,true
+586,Linn,Liveley,lliveleyg9@google.ru,886-664-6258,QMobile,QMobile Noir X800,Troubleshooting,2026-01-26,2026-02-02,Waiting on Parts,Linn Liveley,16927,1719,,true
+587,Aleece,Derill,aderillga@cloudflare.com,457-339-2949,Samsung,Samsung Galaxy Tab Pro 8.4 3G/LTE,Environmental Damage,2025-11-02,2025-11-07,Repairing,Aleece Derill,17687,1217,Cash,false
+588,Art,Quarton,aquartongb@blogtalkradio.com,948-576-2094,BLU,BLU Pure XR,Maintenance,2025-09-30,2025-10-09,Waiting on Parts,,4422,545,Debit Card,true
+589,Essie,Hincks,ehincksgc@imageshack.us,471-190-0169,Siemens,Siemens Xelibri 5,Software Issue,2025-11-14,2025-11-23,Repairing,,12127,2975,Cash,true
+590,Ilise,Beakes,ibeakesgd@bandcamp.com,726-681-8366,Huawei,Huawei nova plus,Software Issue,2026-03-19,2026-03-27,Received,Ilise Beakes,8117,1276,Maya,false
+591,Ruperta,Donaghy,rdonaghyge@google.de,926-310-4757,Vodafone,Vodafone 547,Maintenance,2026-03-20,2026-03-23,Ready for Pickup,Ruperta Donaghy,8643,1305,GCash,false
+592,Justus,Paladini,jpaladinigf@paypal.com,714-622-8123,Huawei,Huawei MatePad Pro 10.8 (2019),Environmental Damage,2025-10-22,2025-11-05,Waiting on Parts,Justus Paladini,7084,587,Credit Card,false
+593,Florenza,Killoran,fkillorangg@printfriendly.com,129-895-3184,Huawei,Huawei Ascend Y330,Troubleshooting,2026-04-24,2026-05-02,Ready for Pickup,Florenza Killoran,,1960,PayPal,false
+594,Alida,Burkett,aburkettgh@comcast.net,586-816-9411,Oppo,Oppo N1,Hardware Failure,2025-07-11,2025-07-14,Repairing,,11694,2313,Maya,false
+595,Johnnie,Rusk,jruskgi@seattletimes.com,502-786-1111,Asus,Asus Zenfone V V520KL,Maintenance,2025-08-26,2025-09-02,Waiting on Parts,Johnnie Rusk,3961,584,Debit Card,false
+596,Jaclyn,Simonitto,jsimonittogj@marketwatch.com,684-330-6148,LG,LG Tribute,Software Issue,2025-10-07,2025-10-11,Received,Jaclyn Simonitto,2140,1881,,true
+597,Leoline,Battman,lbattmangk@ftc.gov,792-670-1070,Lenovo,Lenovo A850+,Maintenance,2026-01-24,2026-01-31,Diagnosing,,10902,1809,Debit Card,false
+598,Berkly,Ondricek,bondricekgl@sogou.com,536-110-0188,Samsung,Samsung Galaxy A6s,Hardware Failure,2025-06-14,2025-06-21,Received,Berkly Ondricek,7912,2356,Debit Card,true
+599,Berty,Pfeffle,bpfefflegm@reverbnation.com,984-990-6146,Motorola,Motorola Moto G8 Power,Hardware Failure,2026-01-02,2026-01-08,Completed,Berty Pfeffle,10890,1850,,false
+600,Hunter,Robel,hrobelgn@uiuc.edu,387-420-4773,Palm,Palm Treo 500v,Troubleshooting,2025-09-13,2025-09-27,Repairing,Hunter Robel,16062,2309,GCash,true
+601,Sebastien,Treneer,streneergo@woothemes.com,715-588-6412,Emporia,Emporia Eco,Troubleshooting,2026-04-12,2026-04-16,Ready for Pickup,Sebastien Treneer,9417,2857,,false
+602,Gillie,Trevaskis,gtrevaskisgp@cnn.com,478-797-2710,BLU,BLU G50 Mega,Maintenance,2026-01-23,2026-02-01,Ready for Pickup,Gillie Trevaskis,1923,2079,,false
+603,Gizela,Beteriss,gbeterissgq@posterous.com,454-637-9877,Yezz,Yezz Andy 4.5EL LTE,Diagnostic,2026-04-03,2026-04-10,Ready for Pickup,Gizela Beteriss,16724,2551,,false
+604,Quinton,Castiglioni,qcastiglionigr@ocn.ne.jp,474-329-2488,Honor,Honor Pad 5 10.1,Maintenance,2025-08-29,2025-09-03,Completed,Quinton Castiglioni,12680,1460,Credit Card,true
+605,Harrison,Clendinning,hclendinninggs@harvard.edu,555-136-4347,Xiaomi,Xiaomi Mi A2 (Mi 6X),Maintenance,2025-09-06,2025-09-17,Diagnosing,,10918,1905,GCash,false
+606,Natividad,Pakeman,npakemangt@photobucket.com,623-697-1299,Wiko,Wiko Selfy 4G,Environmental Damage,2025-12-26,2026-01-08,Repairing,Natividad Pakeman,8669,1824,Debit Card,true
+607,Auberta,Guiraud,aguiraudgu@samsung.com,399-567-3431,Spice,Spice Stellar 600 (Mi-600),Diagnostic,2026-04-17,2026-04-20,Diagnosing,Auberta Guiraud,3325,904,,true
+608,Carena,Strood,cstroodgv@intel.com,614-345-9167,Gigabyte,Gigabyte GSmart Alto A2,Software Issue,2025-11-15,2025-11-16,Unrepairable,,,500,,false
+609,Barry,Bercevelo,bbercevelogw@cbc.ca,955-327-5798,Gionee,Gionee Pioneer P4S,Hardware Failure,2025-10-11,2025-10-24,Completed,Barry Bercevelo,15082,1572,Maya,true
+610,Jo ann,Baise,jbaisegx@shareasale.com,691-337-1708,Karbonn,Karbonn K52 Groovster,Diagnostic,2025-05-25,2025-06-01,Received,,5269,1984,Maya,true
+611,Dur,Rhodef,drhodefgy@webmd.com,749-681-5923,HTC,HTC U11,Software Issue,2025-09-05,2025-09-16,Ready for Pickup,Dur Rhodef,10832,2777,Cash,false
+612,Brena,Kayne,bkaynegz@123-reg.co.uk,750-853-8398,HTC,HTC Desire 12,Software Issue,2025-09-08,2025-09-15,Completed,,10070,2903,GCash,false
+613,Rahal,Rodway,rrodwayh0@latimes.com,388-499-2884,Apple,Apple iPad 10.2 (2020),Environmental Damage,2025-11-08,2025-11-19,Ready for Pickup,Rahal Rodway,8765,2495,PayPal,false
+614,Shamus,Woollons,swoollonsh1@free.fr,502-445-1737,Samsung,Samsung F400,Maintenance,2026-03-24,2026-03-27,Waiting on Parts,Shamus Woollons,13971,581,PayPal,true
+615,Wrennie,Joll,wjollh2@blogger.com,707-539-0863,VK,VK Mobile VK530,Diagnostic,2026-04-14,2026-04-23,Diagnosing,Wrennie Joll,9359,1971,,true
+616,Wood,Grimston,wgrimstonh3@t-online.de,454-791-5655,Lenovo,Lenovo IdeaPad A1,Software Issue,2025-06-15,2025-06-26,Unrepairable,Wood Grimston,,500,,false
+617,Florentia,Downham,fdownhamh4@ft.com,392-337-2512,Nokia,Nokia 6350,Maintenance,2025-11-30,2025-12-07,Diagnosing,Florentia Downham,5501,2705,PayPal,true
+618,Alejandra,Gearing,agearingh5@telegraph.co.uk,833-291-6498,Meizu,Meizu M1,Environmental Damage,2025-12-18,2025-12-29,Ready for Pickup,Alejandra Gearing,888,1814,,true
+619,Willy,Guiton,wguitonh6@cdbaby.com,145-184-8084,BQ,BQ Aquaris X2 Pro,Software Issue,2026-01-13,2026-01-27,Diagnosing,Willy Guiton,17143,2050,,false
+620,Starlene,Gooble,sgoobleh7@cnbc.com,688-981-4677,Realme,Realme 6S,Software Issue,2025-10-14,2025-10-22,Diagnosing,Starlene Gooble,13674,1972,GCash,false
+621,Vilma,Kembrey,vkembreyh8@bluehost.com,802-971-0232,Honor,Honor X10 5G,Software Issue,2025-11-28,2025-12-12,Diagnosing,,8473,2941,Credit Card,true
+622,Zachary,Kopelman,zkopelmanh9@behance.net,747-856-5090,BLU,BLU Studio J5,Troubleshooting,2026-04-13,2026-04-19,Completed,Zachary Kopelman,,2582,,true
+623,Sonnie,Alejo,salejoha@icq.com,484-561-7983,LG,LG Optimus Vu II F200,Environmental Damage,2026-02-11,2026-02-17,Repairing,Sonnie Alejo,19842,506,Cash,false
+624,Flem,Pareman,fparemanhb@altervista.org,992-540-6761,alcatel,alcatel OT-E201,Hardware Failure,2026-03-15,2026-03-29,Unrepairable,Flem Pareman,,500,,true
+625,Norry,Libbe,nlibbehc@qq.com,744-697-9267,Samsung,Samsung R260 Chrono,Software Issue,2025-07-09,2025-07-10,Waiting on Parts,Norry Libbe,17312,974,Debit Card,true
+626,Vikki,Fleetwood,vfleetwoodhd@shutterfly.com,958-849-1271,Spice,Spice Mi-506 Stellar Mettle Icon,Environmental Damage,2025-07-20,2025-07-28,Ready for Pickup,Vikki Fleetwood,12531,2020,GCash,true
+627,Burton,Ligoe,bligoehe@vk.com,550-247-0398,Lava,Lava X50 Plus,Troubleshooting,2025-10-12,2025-10-24,Completed,,5227,967,Credit Card,false
+628,Devland,Orteaux,dorteauxhf@meetup.com,533-345-6745,HTC,HTC Flyer,Hardware Failure,2025-07-26,2025-07-29,Received,Devland Orteaux,14372,2163,GCash,true
+629,Norbert,Olliver,nolliverhg@ucoz.com,821-388-9365,Sony,Sony Xperia SP,Diagnostic,2025-05-05,2025-05-11,Repairing,,19727,1084,,true
+630,Nadean,Sansome,nsansomehh@ftc.gov,435-886-6846,Xiaomi,Xiaomi Redmi K20 Pro,Hardware Failure,2025-11-01,2025-11-03,Ready for Pickup,Nadean Sansome,19702,1255,,false
+631,Haskel,Bragg,hbragghi@go.com,639-710-6553,LG,LG G Pad 8.3 LTE,Environmental Damage,2025-08-31,2025-09-02,Received,Haskel Bragg,15113,1648,,false
+632,Jimmie,Hunstone,jhunstonehj@shareasale.com,572-371-6380,Sony,Sony Xperia ion HSPA,Diagnostic,2025-10-31,2025-11-02,Waiting on Parts,Jimmie Hunstone,18593,2922,GCash,false
+633,Clarabelle,Thornton-Dewhirst,cthorntondewhirsthk@fotki.com,278-264-6670,Xiaomi,Xiaomi Poco X2,Diagnostic,2025-08-02,2025-08-08,Diagnosing,Clarabelle Thornton-Dewhirst,4550,2865,Debit Card,false
+634,Keefe,Dyett,kdyetthl@odnoklassniki.ru,963-996-6313,Samsung,Samsung E1050,Hardware Failure,2025-05-13,2025-05-21,Waiting on Parts,Keefe Dyett,10331,2132,PayPal,true
+635,Beckie,Shakesbye,bshakesbyehm@exblog.jp,942-880-0201,Samsung,Samsung Galaxy M01,Diagnostic,2026-01-30,2026-02-02,Unrepairable,Beckie Shakesbye,,500,,false
+636,Montague,Fowley,mfowleyhn@blogtalkradio.com,984-733-2968,Samsung,Samsung Gear S3 classic LTE,Software Issue,2026-01-26,2026-01-27,Ready for Pickup,Montague Fowley,4969,2507,GCash,true
+637,Monika,McVicar,mmcvicarho@ovh.net,245-990-5288,LG,LG KS10,Maintenance,2025-08-04,2025-08-16,Diagnosing,Monika McVicar,3723,2207,Cash,false
+638,Callie,Hacquel,chacquelhp@dell.com,761-865-6239,XOLO,XOLO Q900T,Maintenance,2025-05-01,2025-05-08,Ready for Pickup,Callie Hacquel,16656,2940,Credit Card,true
+639,Winnifred,Ransome,wransomehq@washingtonpost.com,672-164-0257,verykool,verykool i133,Diagnostic,2025-08-14,2025-08-22,Ready for Pickup,Winnifred Ransome,14475,2200,,false
+640,Alayne,Charley,acharleyhr@ning.com,591-942-0251,Motorola,Motorola PEBL U3,Software Issue,2025-12-06,2025-12-11,Unrepairable,Alayne Charley,,500,,false
+641,Darren,Nesey,dneseyhs@mediafire.com,480-329-1496,Motorola,Motorola DROID 2 Global,Hardware Failure,2025-09-03,2025-09-08,Received,Darren Nesey,,1875,Maya,false
+642,Lydia,Semechik,lsemechikht@hao123.com,410-127-1963,Huawei,Huawei U8230,Diagnostic,2025-06-07,2025-06-15,Diagnosing,,6298,1497,,true
+643,Willem,Lorenc,wlorenchu@un.org,167-129-4728,Nokia,Nokia C6,Hardware Failure,2025-05-06,2025-05-20,Diagnosing,Willem Lorenc,18813,2566,Debit Card,true
+644,Sergeant,Wolffers,swolffershv@4shared.com,888-250-7522,Motorola,Motorola Moto G 5G,Software Issue,2025-11-11,2025-11-13,Waiting on Parts,Sergeant Wolffers,17694,1440,PayPal,true
+645,Christy,Rickis,crickishw@bluehost.com,677-782-5589,Spice,Spice Stellar 526 (Mi-526),Diagnostic,2026-02-17,2026-02-21,Unrepairable,Christy Rickis,,500,,true
+646,Paco,Gould,pgouldhx@ucla.edu,526-646-0738,Allview,Allview X4 Soul Infinity S,Troubleshooting,2026-01-19,2026-01-22,Completed,Paco Gould,10932,2339,Cash,false
+647,Amandie,Benton,abentonhy@symantec.com,383-256-3813,Micromax,Micromax Canvas Pulse 4G E451,Diagnostic,2025-05-10,2025-05-15,Repairing,,938,1623,Cash,true
+648,Andrej,Denniss,adennisshz@smh.com.au,169-849-4823,Motorola,Motorola C116,Troubleshooting,2025-05-02,2025-05-03,Completed,Andrej Denniss,1508,753,PayPal,false
+649,Mohammed,Maitland,mmaitlandi0@goo.ne.jp,610-772-3222,Amoi,Amoi V810,Maintenance,2025-09-11,2025-09-19,Completed,Mohammed Maitland,3555,2950,GCash,true
+650,Cathlene,Fransoni,cfransonii1@yelp.com,482-936-5394,Yezz,Yezz Andy 3G 3.5 YZ1110,Environmental Damage,2025-09-15,2025-09-17,Completed,Cathlene Fransoni,9304,2406,Debit Card,true
+651,Tully,Ajsik,tajsiki2@weebly.com,476-944-3818,Motorola,Motorola Moto G,Maintenance,2026-01-14,2026-01-20,Unrepairable,Tully Ajsik,,500,,false
+652,Hamil,Hulle,hhullei3@wix.com,692-763-3042,Sony,Sony Ericsson T310,Diagnostic,2025-12-18,2025-12-26,Diagnosing,Hamil Hulle,14100,1423,,false
+653,Junie,Millen,jmilleni4@china.com.cn,524-272-7551,Apple,Apple Watch Edition 42mm (1st gen),Maintenance,2026-02-04,2026-02-11,Received,Junie Millen,4577,2864,,false
+654,Ulick,Leighton,uleightoni5@webs.com,796-271-1049,ZTE,ZTE Grand X4,Troubleshooting,2025-07-19,2025-07-24,Repairing,Ulick Leighton,,2018,Credit Card,false
+655,Lemar,Breche,lbrechei6@fema.gov,922-342-9953,verykool,verykool s353,Hardware Failure,2026-03-18,2026-03-24,Unrepairable,Lemar Breche,,500,,false
+656,Thekla,Yukhnev,tyukhnevi7@etsy.com,309-282-0315,Motorola,Motorola PRO,Software Issue,2026-01-08,2026-01-21,Unrepairable,Thekla Yukhnev,,500,,true
+657,Berkley,Nobes,bnobesi8@ifeng.com,887-245-7666,Allview,Allview AX4 Nano,Hardware Failure,2026-02-01,2026-02-07,Ready for Pickup,Berkley Nobes,,824,Credit Card,true
+658,Caitlin,Attwool,cattwooli9@mozilla.org,670-399-7801,Honor,Honor 6X,Diagnostic,2025-09-07,2025-09-21,Received,Caitlin Attwool,,1570,Debit Card,false
+659,Kimble,Outerbridge,kouterbridgeia@tripod.com,526-445-2776,VK,VK Mobile VK800,Hardware Failure,2025-06-25,2025-06-30,Waiting on Parts,Kimble Outerbridge,16397,769,PayPal,true
+660,Johann,McCaighey,jmccaigheyib@shop-pro.jp,324-687-8930,VK,VK Mobile VK300,Hardware Failure,2025-11-19,2025-11-30,Ready for Pickup,Johann McCaighey,470,1422,Credit Card,true
+661,Amelia,Keig,akeigic@europa.eu,942-281-0973,Motorola,Motorola Moto G 4G,Hardware Failure,2026-04-07,2026-04-21,Waiting on Parts,Amelia Keig,3396,709,Cash,true
+662,Gar,Grima,ggrimaid@bigcartel.com,527-968-1164,Unnecto,Unnecto Air 5.0,Environmental Damage,2026-03-04,2026-03-13,Received,Gar Grima,18756,1055,GCash,true
+663,Monica,Redmond,mredmondie@census.gov,545-560-4287,LG,LG G1610,Hardware Failure,2026-01-09,2026-01-12,Diagnosing,Monica Redmond,16693,2092,PayPal,false
+664,Mauricio,Tome,mtomeif@blogtalkradio.com,707-903-5301,Dell,Dell Streak 7,Environmental Damage,2025-06-27,2025-07-01,Unrepairable,Mauricio Tome,,500,,true
+665,Brunhilda,Trowsdale,btrowsdaleig@eventbrite.com,540-132-5914,Samsung,Samsung Galaxy Tab E 9.6,Troubleshooting,2025-06-14,2025-06-26,Waiting on Parts,Brunhilda Trowsdale,16035,2068,GCash,true
+666,Ashely,Giovannardi,agiovannardiih@e-recht24.de,541-909-7063,Samsung,Samsung Galaxy Tab A 10.1 (2019),Environmental Damage,2025-07-09,2025-07-14,Received,Ashely Giovannardi,1591,1294,Credit Card,true
+667,Maddy,Mc Faul,mmcfaulii@chronoengine.com,867-163-4917,Nokia,Nokia 3250,Maintenance,2026-01-17,2026-01-23,Waiting on Parts,,499,969,PayPal,false
+668,Leslie,Daly,ldalyij@sciencedaily.com,247-375-8613,Vodafone,Vodafone 543,Diagnostic,2026-01-07,2026-01-12,Waiting on Parts,Leslie Daly,3986,836,Credit Card,false
+669,Amargo,Risby,arisbyik@360.cn,926-916-5639,BLU,BLU Neo XT,Environmental Damage,2025-09-27,2025-10-05,Diagnosing,Amargo Risby,12156,2854,,false
+670,Reagan,Agius,ragiusil@cnet.com,817-974-3788,VK,VK Mobile VK2100,Diagnostic,2025-07-20,2025-07-22,Received,Reagan Agius,,1997,Credit Card,false
+671,Emmalyn,Harlin,eharlinim@blogspot.com,486-935-5980,Archos,Archos 55 Graphite,Software Issue,2025-05-01,2025-05-13,Completed,Emmalyn Harlin,12498,2048,Cash,false
+672,Grayce,Rubinek,grubinekin@umn.edu,170-283-9214,Plum,Plum Optimax 8.0,Software Issue,2025-07-22,2025-08-01,Received,,11454,1046,Credit Card,true
+673,Berenice,Davenhall,bdavenhallio@vimeo.com,666-826-9245,Nokia,Nokia 8250,Software Issue,2026-02-10,2026-02-22,Received,Berenice Davenhall,16877,1636,PayPal,false
+674,Joya,Stoves,jstovesip@slideshare.net,398-516-0286,Nokia,Nokia X2-01,Environmental Damage,2025-06-29,2025-07-07,Waiting on Parts,,4318,2563,Cash,true
+675,Tonya,Crewe,tcreweiq@imageshack.us,591-436-8132,Samsung,Samsung Galaxy Grand I9082,Environmental Damage,2025-10-09,2025-10-22,Received,Tonya Crewe,3578,1206,Maya,true
+676,Lazaro,Bensen,lbensenir@phoca.cz,522-181-4395,Samsung,Samsung M8920,Environmental Damage,2026-04-06,2026-04-12,Waiting on Parts,Lazaro Bensen,351,1352,Credit Card,false
+677,Lia,Farnill,lfarnillis@infoseek.co.jp,399-740-7003,BLU,BLU J6,Hardware Failure,2025-07-17,2025-07-24,Waiting on Parts,Lia Farnill,188,1153,Maya,false
+678,Daven,Hassur,dhassurit@gov.uk,541-723-5718,LG,LG U8200,Troubleshooting,2025-12-07,2025-12-15,Completed,Daven Hassur,6939,1098,Credit Card,true
+679,Lind,Woolham,lwoolhamiu@moonfruit.com,252-722-9393,Huawei,Huawei Y9 (2019),Troubleshooting,2025-05-02,2025-05-11,Diagnosing,Lind Woolham,7449,1179,,true
+680,Elsy,De Freitas,edeiv@webs.com,830-238-0348,alcatel,alcatel Pixi 4 (6),Troubleshooting,2025-05-12,2025-05-21,Diagnosing,Elsy De Freitas,1447,740,Cash,false
+681,Wendy,Brounsell,wbrounselliw@yolasite.com,752-213-6668,HP,HP iPAQ hw6915,Maintenance,2025-05-10,2025-05-18,Unrepairable,,,500,,true
+682,Yehudit,Peatman,ypeatmanix@hp.com,226-983-3288,Nokia,Nokia 5000,Diagnostic,2025-11-28,2025-12-12,Completed,,7798,2174,Debit Card,true
+683,Merwyn,MacGilpatrick,mmacgilpatrickiy@prlog.org,994-651-1348,LG,LG G7 ThinQ,Diagnostic,2025-12-22,2025-12-27,Diagnosing,Merwyn MacGilpatrick,15182,1976,,true
+684,Leola,Scapelhorn,lscapelhorniz@ustream.tv,998-380-2556,Sony,Sony Ericsson Z600,Troubleshooting,2025-05-23,2025-05-25,Received,Leola Scapelhorn,12187,2969,Credit Card,true
+685,Jud,Grindlay,jgrindlayj0@ovh.net,285-384-0805,Nokia,Nokia N77,Hardware Failure,2025-06-19,2025-06-21,Repairing,Jud Grindlay,9400,1808,,true
+686,Sula,Bilsland,sbilslandj1@aboutads.info,771-620-6050,Cat,Cat B15 Q,Hardware Failure,2025-06-09,2025-06-20,Received,Sula Bilsland,16536,1288,Credit Card,true
+687,Sharron,Drivers,sdriversj2@webeden.co.uk,816-939-0510,BLU,BLU Energy Diamond,Maintenance,2025-08-09,2025-08-21,Waiting on Parts,Sharron Drivers,11227,889,,true
+688,Genvieve,Nurdin,gnurdinj3@army.mil,568-391-8175,BLU,BLU Energy X Plus 2,Maintenance,2025-07-20,2025-07-27,Received,Genvieve Nurdin,11550,2345,GCash,false
+689,Catherin,Skim,cskimj4@spiegel.de,234-641-1083,Samsung,Samsung Galaxy Tab S 8.4,Diagnostic,2025-05-01,2025-05-09,Diagnosing,Catherin Skim,4751,1053,PayPal,false
+690,Vassily,Pietasch,vpietaschj5@github.com,984-169-2527,Sony,Sony Xperia Z4 Compact,Environmental Damage,2025-12-25,2025-12-30,Ready for Pickup,Vassily Pietasch,7376,2053,Credit Card,true
+691,Terrill,Oakly,toaklyj6@usatoday.com,166-344-6675,Motorola,Motorola Defy Mini XT320,Maintenance,2025-11-02,2025-11-12,Waiting on Parts,,,941,Cash,false
+692,Marge,Frain,mfrainj7@samsung.com,764-883-3938,Oppo,Oppo Neo 7,Maintenance,2025-08-27,2025-09-07,Repairing,Marge Frain,14371,1897,GCash,false
+693,Urban,Woodnutt,uwoodnuttj8@nature.com,364-792-5631,Nokia,Nokia 3128,Software Issue,2025-06-30,2025-07-07,Waiting on Parts,Urban Woodnutt,16200,1469,Maya,true
+694,Silvia,Ofener,sofenerj9@hostgator.com,891-859-2802,Nokia,Nokia 6555,Maintenance,2025-07-15,2025-07-22,Unrepairable,Silvia Ofener,,500,,false
+695,Gay,Dent,gdentja@java.com,727-625-3940,alcatel,alcatel OT-E201,Software Issue,2025-07-13,2025-07-21,Diagnosing,Gay Dent,19045,2618,,true
+696,Francesco,Newlands,fnewlandsjb@google.cn,343-853-1232,Samsung,Samsung S8600 Wave 3,Hardware Failure,2026-03-31,2026-04-11,Received,Francesco Newlands,7918,643,,false
+697,Kasey,Glanister,kglanisterjc@qq.com,330-837-6403,LG,LG Optimus Net Dual,Hardware Failure,2025-10-31,2025-11-07,Completed,Kasey Glanister,,2139,PayPal,true
+698,Rocky,Du Fray,rdufrayjd@imgur.com,556-503-1384,Sony,Sony Xperia TX,Troubleshooting,2026-01-18,2026-01-19,Received,,3506,806,Debit Card,false
+699,Zackariah,Pass,zpassje@pinterest.com,997-721-5887,Motorola,Motorola BACKFLIP,Diagnostic,2026-02-27,2026-03-09,Ready for Pickup,Zackariah Pass,10606,860,PayPal,true
+700,Orelee,Cannan,ocannanjf@indiegogo.com,435-195-8614,NIU,NIU Tek 4D2,Maintenance,2025-07-07,2025-07-14,Diagnosing,Orelee Cannan,18154,1020,Maya,true
+701,Sherlock,Pady,spadyjg@hatena.ne.jp,361-509-0585,alcatel,alcatel 1L (2021),Hardware Failure,2025-09-23,2025-10-03,Waiting on Parts,Sherlock Pady,11416,2824,Credit Card,false
+702,Cicely,Kay,ckayjh@geocities.com,254-573-7048,Chea,Chea 178,Software Issue,2026-02-17,2026-02-19,Completed,Cicely Kay,13888,627,Cash,false
+703,Christiana,Cabrer,ccabrerji@sogou.com,972-818-5919,Panasonic,Panasonic X68/X77,Maintenance,2026-01-13,2026-01-24,Ready for Pickup,Christiana Cabrer,7312,1038,Cash,true
+704,Mahmud,Dowda,mdowdajj@pagesperso-orange.fr,897-214-5420,Micromax,Micromax Canvas Selfie 2 Q340,Diagnostic,2025-08-09,2025-08-12,Completed,Mahmud Dowda,16873,2392,PayPal,false
+705,Brandyn,Wofenden,bwofendenjk@pen.io,625-100-6347,Ericsson,Ericsson GF 768,Diagnostic,2026-03-01,2026-03-05,Received,Brandyn Wofenden,18065,1576,,true
+706,Ania,Baxstare,abaxstarejl@google.it,279-670-0596,Gionee,Gionee K30 Pro,Troubleshooting,2025-12-25,2026-01-01,Unrepairable,Ania Baxstare,,500,,false
+707,Heda,Lashley,hlashleyjm@apache.org,225-560-4829,Sharp,Sharp Aquos R2,Software Issue,2026-04-19,2026-05-03,Repairing,Heda Lashley,12285,726,,true
+708,Joell,Given,jgivenjn@cbsnews.com,653-162-8719,BLU,BLU Studio G LTE,Hardware Failure,2025-05-02,2025-05-05,Waiting on Parts,Joell Given,,1038,GCash,true
+709,Scottie,Bernardet,sbernardetjo@e-recht24.de,255-579-9780,Samsung,Samsung Ativ Tab P8510,Troubleshooting,2025-05-01,2025-05-06,Received,Scottie Bernardet,1072,2916,Maya,true
+710,Davida,O'Kieran,dokieranjp@alibaba.com,883-349-3613,Meizu,Meizu M3s,Hardware Failure,2025-10-27,2025-10-31,Diagnosing,Davida O'Kieran,2100,1419,Cash,false
+711,Murdock,Cuffley,mcuffleyjq@house.gov,427-240-7239,Spice,Spice Mi-491 Stellar Virtuoso Pro,Diagnostic,2025-05-17,2025-05-24,Diagnosing,Murdock Cuffley,,1804,GCash,true
+712,Tye,Knotton,tknottonjr@nydailynews.com,453-795-9825,Wiko,Wiko View Prime,Troubleshooting,2026-02-10,2026-02-20,Ready for Pickup,,5964,2384,Cash,true
+713,Mahalia,Billam,mbillamjs@princeton.edu,414-141-4331,Maxwest,Maxwest Orbit 330G,Diagnostic,2025-11-07,2025-11-17,Ready for Pickup,Mahalia Billam,12899,1985,Cash,true
+714,Ignaz,Barde,ibardejt@ed.gov,302-556-7485,Orange,Orange Sydney,Software Issue,2025-10-27,2025-11-04,Repairing,Ignaz Barde,2194,1697,Debit Card,false
+715,Hannah,Skull,hskullju@patch.com,185-358-3398,BLU,BLU Tattoo,Environmental Damage,2025-09-29,2025-09-30,Diagnosing,Hannah Skull,17806,2840,PayPal,true
+716,Gherardo,Pitrasso,gpitrassojv@dion.ne.jp,780-926-4910,LG,LG Optimus 3D Max P720,Troubleshooting,2026-01-01,2026-01-15,Ready for Pickup,Gherardo Pitrasso,9677,1793,Maya,true
+717,Kala,Varndell,kvarndelljw@ameblo.jp,947-585-4617,Samsung,Samsung Gear Sport,Troubleshooting,2025-05-31,2025-06-10,Completed,Kala Varndell,3095,1885,PayPal,false
+718,Anica,Vearncombe,avearncombejx@ed.gov,488-723-7362,Siemens,Siemens S65,Environmental Damage,2026-03-20,2026-04-01,Completed,Anica Vearncombe,10580,2861,Cash,false
+719,Shelton,Shillington,sshillingtonjy@de.vu,394-848-8394,Lenovo,Lenovo A316i,Troubleshooting,2026-02-21,2026-03-02,Ready for Pickup,Shelton Shillington,11586,2984,Credit Card,true
+720,Ricki,Sampey,rsampeyjz@dedecms.com,598-608-2079,Maxwest,Maxwest Orbit 3000,Diagnostic,2026-01-31,2026-02-14,Completed,Ricki Sampey,8145,2716,GCash,false
+721,Meade,Ferroni,mferronik0@independent.co.uk,644-550-4495,Tecno,Tecno Camon X Pro,Troubleshooting,2025-07-08,2025-07-14,Completed,Meade Ferroni,11924,1331,Debit Card,false
+722,Orran,Bringloe,obringloek1@wp.com,168-530-2981,Samsung,Samsung Galaxy Xcover 4,Environmental Damage,2025-10-21,2025-10-27,Diagnosing,Orran Bringloe,2956,605,Maya,false
+723,Sharla,Longmuir,slongmuirk2@sourceforge.net,216-480-9629,Allview,Allview X2 Xtreme,Maintenance,2025-12-04,2025-12-18,Diagnosing,Sharla Longmuir,14599,2408,,true
+724,Pablo,Espinosa,pespinosak3@google.es,320-864-6433,Sagem,Sagem MY V-65,Software Issue,2025-12-10,2025-12-24,Repairing,Pablo Espinosa,6080,2290,,false
+725,Justus,Caw,jcawk4@netscape.com,933-407-8896,Ulefone,Ulefone Note 7,Troubleshooting,2025-09-22,2025-09-26,Repairing,Justus Caw,10122,845,Maya,false
+726,Sandy,Cowpland,scowplandk5@feedburner.com,206-899-0511,verykool,verykool i130,Troubleshooting,2025-11-30,2025-12-02,Unrepairable,Sandy Cowpland,,500,,false
+727,Aigneis,Nolda,anoldak6@oracle.com,930-741-8516,ZTE,ZTE S213,Hardware Failure,2026-01-11,2026-01-13,Completed,Aigneis Nolda,15508,1257,Cash,false
+728,Maximilianus,Bawles,mbawlesk7@mlb.com,970-963-1189,Plum,Plum Tingle,Hardware Failure,2026-04-05,2026-04-18,Unrepairable,Maximilianus Bawles,,500,,true
+729,Carma,Vogeler,cvogelerk8@macromedia.com,297-603-7444,Huawei,Huawei Enjoy 20 Pro,Hardware Failure,2026-02-18,2026-02-28,Repairing,Carma Vogeler,19065,2785,Cash,true
+730,Emmanuel,Marham,emarhamk9@pagesperso-orange.fr,993-963-8929,Micromax,Micromax Canvas Evok Power Q4260,Hardware Failure,2025-08-27,2025-09-02,Repairing,Emmanuel Marham,11180,2280,Credit Card,false
+731,Ariana,Hillett,ahillettka@sogou.com,955-948-0136,Maxwest,Maxwest Astro 4.5,Troubleshooting,2025-06-20,2025-07-03,Ready for Pickup,,10504,1507,PayPal,true
+732,Clarabelle,Sarfas,csarfaskb@hugedomains.com,633-981-6549,HTC,HTC Ozone,Diagnostic,2025-08-31,2025-09-01,Repairing,Clarabelle Sarfas,8193,2214,,true
+733,Becky,Brunskill,bbrunskillkc@posterous.com,213-881-0420,Google,Google Pixel 4,Maintenance,2025-12-05,2025-12-16,Diagnosing,Becky Brunskill,17442,1731,Cash,true
+734,Ardis,Tumpane,atumpanekd@cdc.gov,376-816-8675,Huawei,Huawei T158,Maintenance,2026-04-29,2026-05-01,Completed,Ardis Tumpane,13814,2653,Maya,true
+735,Dorthea,Harby,dharbyke@timesonline.co.uk,373-622-3409,Samsung,Samsung Galaxy A50s,Software Issue,2025-10-12,2025-10-24,Repairing,Dorthea Harby,18589,2418,Debit Card,false
+736,Hansiain,Quinton,hquintonkf@drupal.org,385-756-6607,Coolpad,Coolpad Note 3 Lite,Hardware Failure,2026-03-08,2026-03-12,Received,,9675,637,Debit Card,false
+737,Lib,Gellert,lgellertkg@hatena.ne.jp,627-741-6612,Toshiba,Toshiba Thrive 7,Maintenance,2026-01-05,2026-01-09,Repairing,Lib Gellert,,1204,Credit Card,false
+738,Ambrosi,Polland,apollandkh@epa.gov,277-827-4219,LG,LG Cookie WiFi T310i,Diagnostic,2025-12-26,2026-01-08,Waiting on Parts,Ambrosi Polland,3009,1364,Cash,false
+739,Park,Haveline,phavelineki@1und1.de,936-790-0210,Philips,Philips 639,Environmental Damage,2025-12-16,2025-12-23,Waiting on Parts,Park Haveline,,2830,Debit Card,true
+740,Warden,Hazeman,whazemankj@cisco.com,882-377-3564,Samsung,Samsung T401G,Hardware Failure,2025-05-12,2025-05-24,Repairing,Warden Hazeman,14899,2141,Cash,false
+741,Georgie,Pinkerton,gpinkertonkk@seesaa.net,271-218-7137,Celkon,Celkon A66,Troubleshooting,2026-03-17,2026-03-19,Unrepairable,Georgie Pinkerton,,500,,false
+742,Jessika,Watford,jwatfordkl@techcrunch.com,801-790-9338,Samsung,Samsung E840,Environmental Damage,2025-07-26,2025-08-03,Received,Jessika Watford,,2845,Cash,false
+743,Viv,Valentin,vvalentinkm@webeden.co.uk,950-895-3064,Samsung,Samsung D730,Diagnostic,2025-08-16,2025-08-30,Ready for Pickup,Viv Valentin,2961,2710,GCash,true
+744,Yolanthe,Truin,ytruinkn@yale.edu,846-554-1014,Nokia,Nokia 9.3 PureView,Hardware Failure,2025-09-09,2025-09-15,Waiting on Parts,Yolanthe Truin,18088,2817,Credit Card,true
+745,Saloma,McKintosh,smckintoshko@springer.com,981-721-4782,Oppo,Oppo A52,Hardware Failure,2025-10-20,2025-10-30,Unrepairable,Saloma McKintosh,,500,,false
+746,Chev,McKennan,cmckennankp@gmpg.org,295-847-7053,Panasonic,Panasonic Eluga Power,Diagnostic,2025-05-31,2025-06-14,Repairing,Chev McKennan,13217,2242,GCash,false
+747,Holden,Kemble,hkemblekq@g.co,347-520-2621,alcatel,alcatel 2000,Maintenance,2025-08-19,2025-08-22,Received,Holden Kemble,15428,1753,,true
+748,Granville,Sporgeon,gsporgeonkr@biglobe.ne.jp,759-653-8537,Motorola,Motorola Moto G Dual SIM (3rd gen),Software Issue,2026-01-16,2026-01-17,Ready for Pickup,,13633,1584,,false
+749,Maribeth,Vivash,mvivashks@amazonaws.com,342-414-3042,Sony,Sony Ericsson K550im,Diagnostic,2026-01-31,2026-02-14,Ready for Pickup,Maribeth Vivash,874,1504,,false
+750,Yolane,O' Ronan,yokt@myspace.com,401-492-6087,QMobile,QMobile Noir E2,Environmental Damage,2026-02-11,2026-02-14,Completed,Yolane O' Ronan,11391,2954,PayPal,true
+751,Jarret,Hablet,jhabletku@nps.gov,359-399-9044,BQ,BQ Aquaris X Pro,Diagnostic,2025-06-03,2025-06-10,Ready for Pickup,Jarret Hablet,2538,1034,Cash,false
+752,Lodovico,Champniss,lchampnisskv@washingtonpost.com,553-245-4941,Samsung,Samsung Propel Pro,Diagnostic,2026-04-27,2026-05-11,Received,Lodovico Champniss,7427,1242,GCash,true
+753,Rickie,Schout,rschoutkw@imageshack.us,283-305-3394,Apple,Apple iPad 2 Wi-Fi,Diagnostic,2026-02-15,2026-02-28,Unrepairable,Rickie Schout,,500,,true
+754,Haroun,Ciani,hcianikx@epa.gov,900-139-4905,Samsung,Samsung Guru Dual 26,Maintenance,2025-10-31,2025-11-09,Waiting on Parts,Haroun Ciani,15875,959,Maya,false
+755,Netta,Girsch,ngirschky@msn.com,438-163-1906,Icemobile,Icemobile Tropical 3,Maintenance,2025-08-13,2025-08-25,Diagnosing,Netta Girsch,4497,2132,,true
+756,Edmon,Audus,eauduskz@instagram.com,565-870-9930,Samsung,Samsung Z600,Troubleshooting,2025-10-18,2025-10-22,Repairing,Edmon Audus,3066,2345,Debit Card,true
+757,Westbrook,MacGinley,wmacginleyl0@yahoo.co.jp,717-876-8277,Wiko,Wiko Pulp,Environmental Damage,2025-07-16,2025-07-30,Waiting on Parts,Westbrook MacGinley,,1663,Debit Card,true
+758,Windy,McElmurray,wmcelmurrayl1@webmd.com,804-312-0645,Spice,Spice Mi-498 Dream Uno,Diagnostic,2025-12-22,2026-01-04,Completed,Windy McElmurray,4434,671,Debit Card,false
+759,Chery,Spilisy,cspilisyl2@hud.gov,630-556-8075,NEC,NEC e525,Hardware Failure,2025-08-17,2025-08-30,Diagnosing,Chery Spilisy,9046,2348,Maya,false
+760,Tansy,Mathouse,tmathousel3@ucoz.com,122-699-9606,Philips,Philips Azalis 268,Maintenance,2025-06-27,2025-07-09,Diagnosing,Tansy Mathouse,,1425,PayPal,true
+761,Rutger,McRavey,rmcraveyl4@blogtalkradio.com,776-463-1127,Xiaomi,Xiaomi Redmi 10X Pro 5G,Environmental Damage,2026-01-11,2026-01-25,Received,Rutger McRavey,11968,2583,,false
+762,Shirl,Paulley,spaulleyl5@sourceforge.net,195-572-3350,Acer,Acer Iconia Tab A3-A20,Software Issue,2025-08-17,2025-08-30,Unrepairable,Shirl Paulley,,500,,true
+763,Jori,Pettendrich,jpettendrichl6@nydailynews.com,994-592-5263,Motorola,Motorola Moto G 4G Dual SIM (2nd gen),Software Issue,2025-07-11,2025-07-16,Repairing,Jori Pettendrich,6403,1311,GCash,false
+764,Dennie,Grafton-Herbert,dgraftonherbertl7@networkadvertising.org,696-366-6817,ZTE,ZTE Blade Force,Environmental Damage,2025-05-28,2025-06-08,Diagnosing,Dennie Grafton-Herbert,15545,999,Credit Card,false
+765,Tyrone,Byway,tbywayl8@google.co.jp,267-169-2731,Samsung,Samsung J630,Software Issue,2025-10-01,2025-10-13,Received,Tyrone Byway,8133,962,Cash,false
+766,Tamma,Symes,tsymesl9@creativecommons.org,532-629-4616,QMobile,QMobile Noir X800,Software Issue,2025-09-02,2025-09-03,Waiting on Parts,Tamma Symes,,1104,Cash,true
+767,Marybeth,Tann,mtannla@devhub.com,722-504-7348,Sharp,Sharp TM100,Environmental Damage,2025-10-30,2025-11-08,Waiting on Parts,Marybeth Tann,17558,730,Maya,false
+768,Roana,Worcester,rworcesterlb@weebly.com,622-562-4099,Ulefone,Ulefone Watch Pro,Diagnostic,2025-11-20,2025-11-28,Waiting on Parts,Roana Worcester,17952,2666,PayPal,false
+769,Blair,Antoshin,bantoshinlc@smugmug.com,707-238-1659,Motorola,Motorola WX160,Diagnostic,2026-02-07,2026-02-08,Received,Blair Antoshin,,1115,PayPal,false
+770,Rutherford,Jowers,rjowersld@studiopress.com,489-993-5363,Apple,Apple iPad 3 Wi-Fi,Maintenance,2026-02-09,2026-02-11,Diagnosing,Rutherford Jowers,,1215,PayPal,false
+771,Timmie,Stodhart,tstodhartle@quantcast.com,709-702-4236,alcatel,alcatel OT-E159,Diagnostic,2025-09-01,2025-09-13,Diagnosing,Timmie Stodhart,15109,952,GCash,true
+772,Bea,Stimson,bstimsonlf@sogou.com,561-532-0249,NEC,NEC N630,Diagnostic,2026-04-28,2026-04-29,Repairing,Bea Stimson,8747,2190,PayPal,false
+773,Cullin,Strethill,cstrethilllg@multiply.com,646-564-8082,Lenovo,Lenovo S60,Software Issue,2025-11-20,2025-12-04,Repairing,Cullin Strethill,2405,2395,Maya,false
+774,Riannon,Redmond,rredmondlh@columbia.edu,919-702-8931,Sony,Sony Ericsson S700,Environmental Damage,2025-05-05,2025-05-09,Unrepairable,Riannon Redmond,,500,,false
+775,Neda,Ankers,nankersli@businessweek.com,813-359-3856,ZTE,ZTE F107,Environmental Damage,2026-03-26,2026-03-29,Diagnosing,Neda Ankers,9969,2052,Cash,false
+776,Vilhelmina,Leynagh,vleynaghlj@mozilla.com,893-672-3151,Samsung,Samsung P300,Environmental Damage,2025-10-31,2025-11-09,Waiting on Parts,Vilhelmina Leynagh,14343,1393,Cash,false
+777,Lela,Baudichon,lbaudichonlk@purevolume.com,777-482-0619,Samsung,Samsung Galaxy S5 Duos,Software Issue,2026-04-16,2026-04-24,Completed,Lela Baudichon,519,1401,,true
+778,Dorena,Hallihane,dhallihanell@jalbum.net,503-967-4909,ZTE,ZTE F912,Troubleshooting,2025-10-05,2025-10-11,Repairing,Dorena Hallihane,13190,2313,,true
+779,Tommy,Samwyse,tsamwyselm@examiner.com,502-469-8817,alcatel,alcatel One Touch T10,Diagnostic,2026-01-09,2026-01-10,Unrepairable,Tommy Samwyse,,500,,true
+780,Lane,Wynne,lwynneln@ow.ly,717-487-0049,Micromax,Micromax Canvas Tab P666,Troubleshooting,2026-02-18,2026-03-01,Repairing,Lane Wynne,7787,1478,,true
+781,Sebastiano,Jacop,sjacoplo@mayoclinic.com,971-259-4208,Archos,Archos Diamond Alpha +,Hardware Failure,2026-04-12,2026-04-14,Repairing,Sebastiano Jacop,,2463,Credit Card,false
+782,Avis,Huikerby,ahuikerbylp@nationalgeographic.com,684-120-0486,Maxon,Maxon MX-7920,Diagnostic,2026-02-27,2026-03-07,Ready for Pickup,Avis Huikerby,2703,538,Credit Card,false
+783,Dyane,Leadston,dleadstonlq@deliciousdays.com,490-443-8207,Wiko,Wiko Lenny3,Troubleshooting,2025-12-22,2025-12-30,Waiting on Parts,,12298,1569,GCash,false
+784,Jodi,Tivnan,jtivnanlr@zimbio.com,141-556-5552,Celkon,Celkon C605,Hardware Failure,2025-06-30,2025-07-13,Diagnosing,Jodi Tivnan,18235,690,Maya,true
+785,Granger,Bulcock,gbulcockls@abc.net.au,680-873-6220,Sony,Sony Ericsson Z610,Software Issue,2025-11-13,2025-11-19,Diagnosing,Granger Bulcock,14133,634,Credit Card,true
+786,Carlene,Guyonneau,cguyonneault@cdbaby.com,568-714-7745,vivo,vivo NEX S,Hardware Failure,2026-03-22,2026-04-04,Waiting on Parts,Carlene Guyonneau,5157,795,Debit Card,true
+787,Sydney,Stoppard,sstoppardlu@delicious.com,914-778-8673,Xiaomi,Xiaomi Mi 2S,Environmental Damage,2025-05-19,2025-05-25,Unrepairable,Sydney Stoppard,,500,,true
+788,Maurie,Cristofor,mcristoforlv@google.de,144-925-3729,Celkon,Celkon Campus Prime,Software Issue,2026-04-18,2026-04-28,Received,Maurie Cristofor,8876,1837,,false
+789,Abdul,Colliar,acolliarlw@webmd.com,695-603-2963,Motorola,Motorola PEBL U3,Maintenance,2025-12-08,2025-12-11,Ready for Pickup,,13116,2474,PayPal,false
+790,Karim,Jowers,kjowerslx@nps.gov,879-104-3430,Sharp,Sharp AQUOS  941SH,Troubleshooting,2025-07-27,2025-08-09,Unrepairable,Karim Jowers,,500,,false
+791,Noam,Phipard-Shears,nphipardshearsly@hostgator.com,281-309-3595,Lenovo,Lenovo A328,Software Issue,2026-02-07,2026-02-21,Diagnosing,Noam Phipard-Shears,17684,2054,PayPal,true
+792,Lorenzo,Aim,laimlz@addthis.com,992-309-5876,Allview,Allview P6 Stony,Maintenance,2026-02-26,2026-03-04,Waiting on Parts,Lorenzo Aim,15745,1286,,false
+793,Kerstin,Abercrombie,kabercrombiem0@newsvine.com,404-214-3889,vivo,vivo S1 Prime,Diagnostic,2026-02-27,2026-03-02,Ready for Pickup,,9849,2617,PayPal,false
+794,Levon,Ohanessian,lohanessianm1@cyberchimps.com,205-856-4070,Siemens,Siemens A70,Hardware Failure,2025-10-14,2025-10-28,Received,,5099,1016,PayPal,false
+795,Alisa,Vedntyev,avedntyevm2@time.com,380-673-8073,Spice,Spice Mi-410,Software Issue,2025-09-13,2025-09-22,Unrepairable,,,500,,false
+796,Marlena,Aistrop,maistropm3@deviantart.com,192-775-7217,alcatel,alcatel OT-308,Hardware Failure,2025-11-07,2025-11-21,Completed,Marlena Aistrop,13009,654,PayPal,false
+797,Marieann,Batram,mbatramm4@imgur.com,591-738-5653,Motorola,Motorola Moto Z3 Play,Troubleshooting,2025-12-28,2026-01-03,Diagnosing,Marieann Batram,,1146,Credit Card,false
+798,Hansiain,MacNab,hmacnabm5@foxnews.com,378-850-3944,LG,LG KF300,Software Issue,2025-11-10,2025-11-11,Waiting on Parts,Hansiain MacNab,4852,2141,GCash,true
+799,Norrie,Kissick,nkissickm6@buzzfeed.com,144-276-5611,Samsung,Samsung Galaxy Tab Active LTE,Hardware Failure,2025-07-31,2025-08-06,Repairing,Norrie Kissick,16531,1556,Cash,false
+800,Bibi,Routledge,broutledgem7@clickbank.net,957-619-7189,Nokia,Nokia C5-05,Hardware Failure,2025-06-28,2025-07-04,Repairing,Bibi Routledge,12555,2761,Credit Card,true
+801,Madelon,Berrycloth,mberryclothm8@github.com,265-203-9860,Lenovo,Lenovo Tab M8 (FHD),Maintenance,2025-12-13,2025-12-24,Diagnosing,Madelon Berrycloth,7955,2917,GCash,false
+802,Adele,Ronan,aronanm9@icq.com,266-457-0962,ZTE,ZTE Grand X LTE T82,Troubleshooting,2025-06-17,2025-06-23,Ready for Pickup,Adele Ronan,6652,2221,,true
+803,Adriane,Kernoghan,akernoghanma@dailymail.co.uk,293-722-8615,Nokia,Nokia 5610 XpressMusic,Environmental Damage,2025-11-19,2025-11-30,Completed,Adriane Kernoghan,3918,517,Credit Card,true
+804,Barty,Dargie,bdargiemb@omniture.com,718-799-7311,Huawei,Huawei MediaPad M5 lite,Troubleshooting,2026-03-08,2026-03-22,Unrepairable,Barty Dargie,,500,,true
+805,Esma,Mendenhall,emendenhallmc@mlb.com,249-193-0319,Allview,Allview Viva Q8,Diagnostic,2025-10-30,2025-11-07,Diagnosing,Esma Mendenhall,,655,PayPal,true
+806,Antonius,Diperaus,adiperausmd@deliciousdays.com,793-288-7856,Plum,Plum Hammer,Software Issue,2025-08-25,2025-08-31,Ready for Pickup,,5891,1366,,true
+807,Madalyn,Gittose,mgittoseme@wikimedia.org,458-258-9538,Xiaomi,Xiaomi Mi Note 3,Hardware Failure,2025-10-11,2025-10-20,Unrepairable,Madalyn Gittose,,500,,false
+808,Jeromy,Permain,jpermainmf@soundcloud.com,559-200-2928,LG,LG Axis,Hardware Failure,2025-06-09,2025-06-19,Unrepairable,Jeromy Permain,,500,,false
+809,Lynnet,Goodwill,lgoodwillmg@ucoz.ru,567-431-6839,Philips,Philips X623,Maintenance,2025-12-19,2026-01-02,Completed,Lynnet Goodwill,,1190,,true
+810,Vonni,Gerrad,vgerradmh@icio.us,430-914-5687,Motorola,Motorola VE75,Environmental Damage,2025-09-28,2025-09-29,Waiting on Parts,Vonni Gerrad,15337,881,Debit Card,false
+811,Bernelle,Rosenbarg,brosenbargmi@samsung.com,736-567-8044,Xiaomi,Xiaomi Redmi Note 9,Hardware Failure,2025-08-31,2025-09-07,Diagnosing,Bernelle Rosenbarg,,1824,Credit Card,false
+812,Torrie,Gunderson,tgundersonmj@google.com.au,818-609-4901,Honor,Honor Note 8,Maintenance,2026-04-05,2026-04-09,Unrepairable,Torrie Gunderson,,500,,false
+813,Devonne,Sushams,dsushamsmk@hibu.com,407-220-0268,Samsung,Samsung Galaxy S20+ 5G,Troubleshooting,2025-06-24,2025-06-27,Waiting on Parts,Devonne Sushams,661,643,PayPal,false
+814,Edan,Grindley,egrindleyml@bravesites.com,132-538-0776,Modu,Modu Shiny jacket,Environmental Damage,2025-07-25,2025-07-29,Received,Edan Grindley,19352,1024,Cash,true
+815,Artus,Filimore,afilimoremm@statcounter.com,501-555-6783,Spice,Spice S-7000,Software Issue,2025-07-01,2025-07-05,Diagnosing,Artus Filimore,10795,835,PayPal,true
+816,Nevsa,Thwaite,nthwaitemn@ustream.tv,159-318-4339,Vodafone,Vodafone 1231,Software Issue,2026-04-08,2026-04-19,Repairing,Nevsa Thwaite,5768,2750,Debit Card,true
+817,Raye,Grindlay,rgrindlaymo@usda.gov,339-342-5625,BlackBerry,BlackBerry Bold Touch 9930,Software Issue,2025-07-11,2025-07-19,Ready for Pickup,Raye Grindlay,16826,1437,PayPal,false
+818,Lana,Box,lboxmp@nytimes.com,381-139-9238,Celkon,Celkon Campus Buddy A404,Environmental Damage,2025-12-04,2025-12-07,Waiting on Parts,Lana Box,2282,1204,,true
+819,Uta,Roubert,uroubertmq@webeden.co.uk,197-141-1090,Motorola,Motorola Moto G Stylus (2021),Hardware Failure,2025-06-11,2025-06-17,Completed,Uta Roubert,15594,2371,PayPal,true
+820,Ketti,Raitie,kraitiemr@mediafire.com,785-188-7741,LG,LG Watch Style,Software Issue,2025-05-14,2025-05-17,Completed,Ketti Raitie,,2497,Debit Card,true
+821,Siffre,Negro,snegroms@comcast.net,776-751-5505,Motorola,Motorola V66i,Software Issue,2025-11-27,2025-12-06,Repairing,Siffre Negro,14719,1769,PayPal,false
+822,Cortie,Wane,cwanemt@amazon.de,725-699-4605,HTC,HTC One M8s,Diagnostic,2025-11-05,2025-11-13,Received,,17780,1341,GCash,true
+823,Leodora,McLeman,lmclemanmu@liveinternet.ru,606-981-4100,Wiko,Wiko View,Diagnostic,2026-02-11,2026-02-14,Unrepairable,Leodora McLeman,,500,,false
+824,Gabriell,Carine,gcarinemv@bandcamp.com,108-946-2522,Apple,Apple iPhone X,Environmental Damage,2025-12-30,2026-01-13,Completed,,15874,2736,Credit Card,false
+825,Karoly,Haggerty,khaggertymw@vk.com,960-133-0437,Wiko,Wiko Highway Signs,Hardware Failure,2026-02-14,2026-02-23,Completed,Karoly Haggerty,17043,799,Cash,true
+826,Ailey,Madgwich,amadgwichmx@illinois.edu,925-468-9013,Toshiba,Toshiba TS921,Diagnostic,2025-11-15,2025-11-26,Diagnosing,Ailey Madgwich,10187,2411,Debit Card,true
+827,Kristien,Brambley,kbrambleymy@4shared.com,399-718-9854,Motorola,Motorola Moto 360 42mm (2nd gen),Environmental Damage,2026-03-31,2026-04-14,Diagnosing,Kristien Brambley,14414,2018,Cash,false
+828,Helaina,Cowndley,hcowndleymz@unblog.fr,935-132-4301,Motorola,Motorola V191,Diagnostic,2025-11-12,2025-11-20,Completed,Helaina Cowndley,,1608,,true
+829,Abbe,Bransgrove,abransgroven0@cbslocal.com,555-709-3551,Samsung,Samsung M2710 Beat Twist,Hardware Failure,2025-12-21,2025-12-30,Diagnosing,Abbe Bransgrove,15437,2428,GCash,true
+830,Amby,Elijah,aelijahn1@biglobe.ne.jp,560-562-7762,Panasonic,Panasonic T50,Software Issue,2025-07-24,2025-08-01,Completed,Amby Elijah,,984,GCash,true
+831,Kristin,Erwin,kerwinn2@pen.io,807-778-1970,LG,LG Wine Smart,Software Issue,2025-05-21,2025-05-29,Waiting on Parts,Kristin Erwin,19828,1881,Maya,false
+832,Marga,Olenov,molenovn3@geocities.jp,332-587-6055,Micromax,Micromax A59 Bolt,Maintenance,2025-07-20,2025-07-31,Ready for Pickup,,6813,2270,GCash,true
+833,Moll,Haggath,mhaggathn4@japanpost.jp,121-242-4565,Xiaomi,Xiaomi Mi A3,Hardware Failure,2026-03-24,2026-04-05,Ready for Pickup,Moll Haggath,7476,2027,GCash,true
+834,Robert,Ferrea,rferrean5@hugedomains.com,845-483-1237,Sony,Sony Ericsson Z770,Environmental Damage,2026-02-21,2026-03-04,Unrepairable,Robert Ferrea,,500,,true
+835,Corbett,O'Heagertie,coheagertien6@addtoany.com,921-478-0277,Meizu,Meizu 15,Environmental Damage,2026-03-02,2026-03-11,Diagnosing,Corbett O'Heagertie,14785,2848,,true
+836,Brande,Rizzardo,brizzardon7@ucoz.com,853-570-3514,Motorola,Motorola A835,Diagnostic,2025-06-16,2025-06-19,Diagnosing,Brande Rizzardo,8424,1332,GCash,false
+837,Oralle,Hazell,ohazelln8@google.com.au,167-587-8374,Celkon,Celkon A118,Software Issue,2026-01-22,2026-01-23,Received,,10397,1602,Maya,true
+838,Nicko,Flode,nfloden9@bigcartel.com,487-472-8287,HP,HP 7 Plus,Environmental Damage,2026-02-17,2026-02-24,Repairing,Nicko Flode,12953,1321,,true
+839,Conny,Reoch,creochna@domainmarket.com,464-884-8853,verykool,verykool i129,Environmental Damage,2026-03-03,2026-03-14,Received,Conny Reoch,15058,1279,Debit Card,false
+840,Honey,Dugan,hdugannb@ucla.edu,743-910-5039,BLU,BLU Studio X8 HD,Diagnostic,2026-04-16,2026-04-28,Received,Honey Dugan,8990,2503,,true
+841,Fianna,Dulinty,fdulintync@mapy.cz,482-815-9537,ZTE,ZTE R228,Diagnostic,2026-02-12,2026-02-16,Received,Fianna Dulinty,9924,907,Maya,false
+842,Hebert,Shovlin,hshovlinnd@dagondesign.com,600-910-9815,Philips,Philips T539,Maintenance,2025-06-16,2025-06-17,Received,Hebert Shovlin,5390,1027,Credit Card,true
+843,Katuscha,Gettins,kgettinsne@zimbio.com,637-149-5276,Samsung,Samsung Galaxy Note10+,Diagnostic,2025-07-13,2025-07-22,Diagnosing,Katuscha Gettins,11578,1355,,false
+844,Lucy,Jeaves,ljeavesnf@forbes.com,851-698-2041,HTC,HTC Sensation XL,Maintenance,2026-03-31,2026-04-09,Repairing,Lucy Jeaves,1884,2039,Credit Card,true
+845,Jeremias,Ancell,jancellng@reference.com,470-578-9248,i-mobile,i-mobile Hitz 2206,Maintenance,2025-09-03,2025-09-08,Diagnosing,Jeremias Ancell,15394,699,,true
+846,Viviyan,Dotterill,vdotterillnh@homestead.com,114-808-5754,Wiko,Wiko Upulse,Software Issue,2026-01-06,2026-01-13,Received,Viviyan Dotterill,6678,798,Maya,false
+847,Monika,Munson,mmunsonni@youtu.be,456-169-8388,Samsung,Samsung E215,Troubleshooting,2025-06-03,2025-06-07,Unrepairable,Monika Munson,,500,,false
+848,Garrek,Blei,gbleinj@earthlink.net,157-580-5861,QMobile,QMobile E990 Sirocco Edition,Maintenance,2026-02-20,2026-02-22,Completed,Garrek Blei,15077,1901,GCash,false
+849,Brad,Greenlies,bgreenliesnk@columbia.edu,797-956-6447,Sony,Sony Ericsson Yendo,Hardware Failure,2025-12-04,2025-12-16,Waiting on Parts,Brad Greenlies,18110,1755,Debit Card,true
+850,Bank,Toma,btomanl@toplist.cz,497-946-6575,Gionee,Gionee S10,Maintenance,2026-02-03,2026-02-08,Received,Bank Toma,8549,2665,GCash,false
+851,Barnett,Isherwood,bisherwoodnm@a8.net,492-410-0304,Samsung,Samsung Z105,Hardware Failure,2026-02-24,2026-03-02,Ready for Pickup,Barnett Isherwood,1215,1500,PayPal,true
+852,Gustavus,Cutteridge,gcutteridgenn@cnbc.com,371-219-0230,Micromax,Micromax A67 Bolt,Software Issue,2025-09-20,2025-09-27,Completed,Gustavus Cutteridge,14637,1158,Cash,false
+853,Katleen,Kasher,kkasherno@slashdot.org,133-644-9023,LG,LG KM380,Software Issue,2025-07-25,2025-08-03,Diagnosing,Katleen Kasher,10051,2092,Debit Card,true
+854,Wallis,Darton,wdartonnp@blogspot.com,533-299-1739,BLU,BLU J2,Software Issue,2025-11-24,2025-12-06,Diagnosing,,18034,2139,Credit Card,true
+855,Dukie,Marlow,dmarlownq@photobucket.com,115-429-1169,LG,LG U880,Hardware Failure,2025-06-10,2025-06-23,Unrepairable,Dukie Marlow,,500,,false
+856,Evy,Briant,ebriantnr@bbc.co.uk,392-877-3586,Huawei,Huawei G6608,Troubleshooting,2025-09-28,2025-09-29,Ready for Pickup,Evy Briant,19437,1178,Debit Card,true
+857,Reube,Borsnall,rborsnallns@lulu.com,227-628-3784,Nokia,Nokia 6650 fold,Troubleshooting,2026-03-29,2026-04-05,Repairing,,,2915,PayPal,true
+858,Rina,Alps,ralpsnt@google.nl,212-993-8813,Samsung,Samsung M7500 Emporio Armani,Maintenance,2026-03-03,2026-03-14,Repairing,Rina Alps,6880,2200,Cash,true
+859,Celene,Murrill,cmurrillnu@lycos.com,549-984-9224,Siemens,Siemens ME75,Diagnostic,2025-09-13,2025-09-19,Diagnosing,Celene Murrill,9630,1600,,false
+860,Jarret,Wickwarth,jwickwarthnv@typepad.com,877-412-8635,Samsung,Samsung Galaxy Note10 Lite,Software Issue,2025-11-13,2025-11-14,Unrepairable,Jarret Wickwarth,,500,,true
+861,Roxy,Ingarfill,ringarfillnw@is.gd,610-176-8220,Samsung,Samsung A637,Environmental Damage,2025-06-02,2025-06-08,Repairing,Roxy Ingarfill,8999,1575,PayPal,false
+862,Dall,Foord,dfoordnx@addthis.com,184-884-1885,LG,LG G Flex2,Hardware Failure,2025-11-17,2025-12-01,Received,Dall Foord,3407,2191,,true
+863,Arlan,Plewes,aplewesny@ucoz.ru,412-645-7303,Nokia,Nokia 7373,Environmental Damage,2025-07-30,2025-08-07,Repairing,Arlan Plewes,,2737,Maya,false
+864,Deane,Ducham,dduchamnz@surveymonkey.com,316-457-4409,Panasonic,Panasonic GD90,Hardware Failure,2026-02-15,2026-02-22,Completed,,134,1816,Credit Card,false
+865,Francine,Khan,fkhano0@senate.gov,276-272-7821,Samsung,Samsung S720i,Environmental Damage,2025-10-27,2025-11-03,Received,Francine Khan,3886,1829,Debit Card,true
+866,Gaultiero,Messier,gmessiero1@umn.edu,404-130-5106,Nokia,Nokia X2 Dual SIM,Environmental Damage,2025-07-01,2025-07-07,Completed,Gaultiero Messier,6429,2208,,true
+867,Mac,Ruzicka,mruzickao2@e-recht24.de,791-618-2538,Apple,Apple iPhone SE,Environmental Damage,2025-07-24,2025-08-06,Repairing,,5396,2509,Maya,true
+868,Saba,Fechnie,sfechnieo3@dot.gov,905-924-1546,Nokia,Nokia E50,Environmental Damage,2025-09-19,2025-09-22,Ready for Pickup,Saba Fechnie,3269,1124,PayPal,false
+869,Dareen,Pedracci,dpedraccio4@skyrock.com,435-201-3364,Samsung,Samsung :) Smiley,Hardware Failure,2025-11-04,2025-11-09,Ready for Pickup,Dareen Pedracci,18733,1865,PayPal,true
+870,Louella,Catmull,lcatmullo5@utexas.edu,796-749-9015,LG,LG GS190,Hardware Failure,2026-04-12,2026-04-25,Received,Louella Catmull,3503,2977,PayPal,true
+871,Molly,O'Logan,mologano6@booking.com,329-492-1648,Gionee,Gionee Pioneer P2,Maintenance,2025-07-15,2025-07-27,Received,Molly O'Logan,18394,826,Maya,false
+872,Britney,Potapczuk,bpotapczuko7@360.cn,731-436-0367,Micromax,Micromax Q3,Hardware Failure,2026-04-29,2026-05-10,Diagnosing,Britney Potapczuk,144,1778,GCash,true
+873,Matthieu,Haile,mhaileo8@goo.ne.jp,294-201-4067,verykool,verykool S815,Environmental Damage,2025-08-27,2025-09-04,Waiting on Parts,Matthieu Haile,4710,1963,,false
+874,Mabel,Hinchshaw,mhinchshawo9@deviantart.com,978-584-3961,Motorola,Motorola Moto G Dual SIM (2nd gen),Software Issue,2025-05-03,2025-05-06,Diagnosing,Mabel Hinchshaw,271,2653,PayPal,false
+875,Florella,Wakelam,fwakelamoa@go.com,554-862-6982,Samsung,Samsung S7330,Troubleshooting,2025-05-18,2025-05-19,Completed,Florella Wakelam,327,1003,Debit Card,true
+876,Corry,Sporgeon,csporgeonob@java.com,733-541-4347,Samsung,Samsung Galaxy Grand 2,Maintenance,2025-11-13,2025-11-25,Waiting on Parts,Corry Sporgeon,9776,937,Cash,false
+877,Claybourne,Hatfield,chatfieldoc@google.fr,938-171-7782,LG,LG GX300,Maintenance,2025-05-18,2025-05-31,Repairing,,8903,1405,Cash,false
+878,Skippy,Skaid,sskaidod@discuz.net,920-984-7251,Asus,Asus Z801,Troubleshooting,2025-11-18,2025-11-19,Received,Skippy Skaid,19524,2450,Credit Card,false
+879,Stepha,Kernaghan,skernaghanoe@a8.net,785-255-0365,Acer,Acer Iconia A1-830,Troubleshooting,2026-03-19,2026-03-28,Received,Stepha Kernaghan,,2338,GCash,false
+880,Henderson,Strangman,hstrangmanof@thetimes.co.uk,765-110-1056,Benefon,Benefon Twin+,Environmental Damage,2025-09-24,2025-10-05,Waiting on Parts,Henderson Strangman,348,822,,true
+881,Redd,Hendrickson,rhendricksonog@cdc.gov,336-219-5289,Oppo,Oppo Reno4 SE,Diagnostic,2026-03-21,2026-03-27,Received,Redd Hendrickson,,2060,Cash,false
+882,Denice,Paddison,dpaddisonoh@nymag.com,387-642-7177,Lenovo,Lenovo A526,Maintenance,2026-01-12,2026-01-18,Diagnosing,Denice Paddison,7184,1740,Maya,true
+883,Cassey,Soggee,csoggeeoi@latimes.com,984-884-5312,HTC,HTC One XC,Hardware Failure,2025-10-10,2025-10-24,Repairing,Cassey Soggee,9275,1707,Maya,true
+884,Ludvig,Suff,lsuffoj@xinhuanet.com,160-911-0576,Qtek,Qtek 8080,Environmental Damage,2025-12-06,2025-12-19,Diagnosing,Ludvig Suff,18033,2472,Credit Card,true
+885,Mick,Echlin,mechlinok@mayoclinic.com,347-905-1934,BenQ-Siemens,BenQ-Siemens SL91,Diagnostic,2025-12-11,2025-12-12,Repairing,Mick Echlin,1514,2556,PayPal,true
+886,Biddie,Fronczak,bfronczakol@usgs.gov,742-106-4250,Samsung,Samsung S5500 Eco,Diagnostic,2025-10-14,2025-10-17,Diagnosing,,7554,796,Cash,true
+887,Orella,Petri,opetriom@nbcnews.com,463-518-5685,Gionee,Gionee Gpad G4,Troubleshooting,2025-08-21,2025-08-30,Repairing,Orella Petri,7090,876,,true
+888,Roby,Wickerson,rwickersonon@woothemes.com,891-515-9848,Siemens,Siemens CXT65,Hardware Failure,2026-02-05,2026-02-10,Ready for Pickup,Roby Wickerson,,946,,false
+889,Blithe,Dumpleton,bdumpletonoo@epa.gov,811-536-1064,Samsung,Samsung P220,Software Issue,2025-11-09,2025-11-22,Unrepairable,Blithe Dumpleton,,500,,false
+890,Bret,Babber,bbabberop@loc.gov,651-253-5195,LG,LG W10 Alpha,Software Issue,2025-07-29,2025-08-07,Unrepairable,,,500,,false
+891,Fanni,Scamp,fscampoq@wired.com,663-223-7366,Xiaomi,Xiaomi Redmi 8A Pro,Software Issue,2025-12-09,2025-12-13,Repairing,Fanni Scamp,11777,1416,GCash,false
+892,Kaitlyn,Rable,krableor@miitbeian.gov.cn,245-153-4981,Yezz,Yezz Andy 3G 2.8 YZ11,Maintenance,2026-02-12,2026-02-26,Repairing,Kaitlyn Rable,13486,1623,PayPal,false
+893,Joaquin,Keeley,jkeeleyos@plala.or.jp,163-632-3055,Tecno,Tecno Spark 6 Go,Troubleshooting,2025-06-05,2025-06-10,Received,Joaquin Keeley,19358,687,Cash,true
+894,Mady,Burnitt,mburnittot@ted.com,969-464-9484,Micromax,Micromax Canvas Xpress 2 E313,Hardware Failure,2025-07-22,2025-07-30,Repairing,Mady Burnitt,4054,2658,Cash,false
+895,Gunner,Trench,gtrenchou@netscape.com,807-962-1792,Philips,Philips V526,Maintenance,2025-10-09,2025-10-10,Repairing,Gunner Trench,7295,832,Cash,true
+896,Cathrin,Tims,ctimsov@washingtonpost.com,749-339-6648,Amoi,Amoi CMA8170,Diagnostic,2026-03-17,2026-03-27,Unrepairable,Cathrin Tims,,500,,false
+897,Alberto,Pittaway,apittawayow@angelfire.com,724-963-4973,Lenovo,Lenovo A185,Troubleshooting,2026-02-10,2026-02-12,Diagnosing,Alberto Pittaway,12686,2081,Debit Card,true
+898,Carrol,Lukash,clukashox@spiegel.de,738-948-6404,Motorola,Motorola W215,Troubleshooting,2025-07-09,2025-07-23,Received,Carrol Lukash,4884,961,Cash,false
+899,Aldus,Willgress,awillgressoy@scribd.com,209-628-8284,Celkon,Celkon C770N,Software Issue,2025-11-16,2025-11-28,Unrepairable,Aldus Willgress,,500,,true
+900,Millard,Aviss,mavissoz@europa.eu,132-272-5254,Huawei,Huawei Y9 (2018),Software Issue,2025-10-06,2025-10-07,Unrepairable,Millard Aviss,,500,,true
+901,Arabele,Bambrough,abambroughp0@purevolume.com,139-850-0163,Lava,Lava X3,Hardware Failure,2025-08-25,2025-09-04,Repairing,Arabele Bambrough,,2433,GCash,true
+902,Blair,Eagleston,beaglestonp1@blogs.com,405-621-7430,LG,LG KE990 Viewty,Maintenance,2025-08-02,2025-08-11,Received,Blair Eagleston,,1906,Debit Card,true
+903,Zebadiah,Mussett,zmussettp2@alexa.com,593-663-9467,Celkon,Celkon CT 7,Software Issue,2025-07-23,2025-08-02,Received,Zebadiah Mussett,,1057,PayPal,false
+904,Lyman,Larkkem,llarkkemp3@nyu.edu,502-921-4105,Sagem,Sagem Puma Phone,Hardware Failure,2025-08-08,2025-08-16,Repairing,Lyman Larkkem,766,2344,,true
+905,Ellary,Codron,ecodronp4@youtube.com,693-237-5310,Samsung,Samsung Galaxy S5 LTE-A G906S,Diagnostic,2025-05-04,2025-05-12,Ready for Pickup,,13251,1168,,true
+906,Kimberly,McKeney,kmckeneyp5@naver.com,365-876-1802,Motorola,Motorola MILESTONE 3 XT860,Maintenance,2025-10-23,2025-10-25,Received,Kimberly McKeney,17635,2284,,true
+907,Marybeth,Santon,msantonp6@spotify.com,227-816-5979,alcatel,alcatel Pop 2 (5),Maintenance,2025-12-19,2026-01-02,Received,Marybeth Santon,8033,674,,true
+908,Kimberley,Marley,kmarleyp7@comsenz.com,489-115-5822,Samsung,Samsung U700,Software Issue,2026-01-06,2026-01-19,Completed,Kimberley Marley,19013,1493,Debit Card,true
+909,Allyn,Widdows,awiddowsp8@ning.com,320-865-6102,alcatel,alcatel Pop 2 (5),Troubleshooting,2025-11-03,2025-11-13,Repairing,Allyn Widdows,12730,2536,Credit Card,true
+910,Daryl,Erridge,derridgep9@xinhuanet.com,713-376-7354,ZTE,ZTE Avail,Diagnostic,2026-02-01,2026-02-03,Waiting on Parts,Daryl Erridge,5184,1197,PayPal,false
+911,Jae,Scholer,jscholerpa@archive.org,894-530-7036,Samsung,Samsung A697 Sunburst,Maintenance,2026-03-27,2026-04-06,Completed,Jae Scholer,4600,2857,Cash,false
+912,Eleen,Darree,edarreepb@gnu.org,663-274-0164,Lava,Lava Iris 405+,Hardware Failure,2025-07-16,2025-07-23,Received,Eleen Darree,7708,1962,PayPal,true
+913,Hunfredo,Tomaszynski,htomaszynskipc@economist.com,597-585-1647,Sony,Sony Xperia Z4v,Diagnostic,2026-01-27,2026-02-09,Unrepairable,Hunfredo Tomaszynski,,500,,false
+914,Mitch,Jenteau,mjenteaupd@businessinsider.com,407-711-7363,Gionee,Gionee Pioneer P3S,Diagnostic,2026-02-17,2026-02-27,Unrepairable,Mitch Jenteau,,500,,false
+915,Jock,Rustan,jrustanpe@theguardian.com,143-617-6840,Allview,Allview Viva C703,Diagnostic,2026-02-08,2026-02-19,Repairing,Jock Rustan,14596,735,PayPal,false
+916,Ashby,Le Quesne,alepf@archive.org,889-601-2255,Karbonn,Karbonn Titanium S1 Plus,Software Issue,2026-03-10,2026-03-24,Diagnosing,Ashby Le Quesne,4930,1355,Cash,true
+917,Nonie,Mayoral,nmayoralpg@go.com,596-102-0960,Sony,Sony Ericsson T290,Software Issue,2025-09-16,2025-09-18,Received,,6342,2504,GCash,true
+918,Celesta,Minihan,cminihanph@sitemeter.com,168-150-9444,Cat,Cat S50,Maintenance,2025-12-18,2025-12-30,Unrepairable,Celesta Minihan,,500,,false
+919,Rutger,Lemme,rlemmepi@istockphoto.com,305-401-1551,LG,LG L1100,Troubleshooting,2025-12-01,2025-12-08,Ready for Pickup,Rutger Lemme,6150,617,Credit Card,true
+920,Christyna,Aberhart,caberhartpj@noaa.gov,377-123-5169,Samsung,Samsung Galaxy Note20 Ultra,Hardware Failure,2025-11-19,2025-11-21,Unrepairable,Christyna Aberhart,,500,,false
+921,Daveen,Tilbey,dtilbeypk@macromedia.com,185-998-4486,Amoi,Amoi A203,Diagnostic,2025-10-11,2025-10-17,Diagnosing,Daveen Tilbey,11304,1402,Debit Card,true
+922,Gabbie,de la Tremoille,gdepl@eventbrite.com,954-510-1678,Samsung,Samsung Galaxy S10,Hardware Failure,2026-03-27,2026-04-05,Diagnosing,Gabbie de la Tremoille,1977,958,Maya,false
+923,Abbie,Farrington,afarringtonpm@techcrunch.com,199-571-8521,verykool,verykool s4009 Crystal,Troubleshooting,2025-05-22,2025-05-26,Waiting on Parts,Abbie Farrington,5830,1114,,false
+924,Olive,Krzysztofiak,okrzysztofiakpn@cargocollective.com,271-434-8828,Maxon,Maxon MX-C180,Troubleshooting,2025-08-29,2025-08-31,Completed,,18913,1341,GCash,false
+925,Elsworth,Andrelli,eandrellipo@nydailynews.com,361-132-6140,Sony,Sony Xperia X,Diagnostic,2025-08-04,2025-08-06,Waiting on Parts,Elsworth Andrelli,14844,2564,Cash,false
+926,Marlin,Lynskey,mlynskeypp@skype.com,629-390-8642,Samsung,Samsung I8200 Galaxy S III mini VE,Diagnostic,2025-12-12,2025-12-19,Received,Marlin Lynskey,13370,932,Credit Card,false
+927,Harcourt,Di Pietro,hdipq@artisteer.com,177-502-4072,vivo,vivo Xplay3S,Software Issue,2025-07-11,2025-07-13,Completed,Harcourt Di Pietro,14395,2099,PayPal,false
+928,Paulita,MacLeod,pmacleodpr@accuweather.com,255-550-8388,Bird,Bird D636,Diagnostic,2025-12-31,2026-01-04,Unrepairable,Paulita MacLeod,,500,,false
+929,Nikos,Verrill,nverrillps@senate.gov,197-539-2872,Micromax,Micromax Canvas Amaze Q395,Diagnostic,2026-04-22,2026-04-30,Diagnosing,Nikos Verrill,,1965,GCash,false
+930,Keelia,Edmeads,kedmeadspt@go.com,925-740-1131,Ericsson,Ericsson S 868,Hardware Failure,2025-11-28,2025-12-03,Unrepairable,Keelia Edmeads,,500,,true
+931,Ethelind,Bottby,ebottbypu@a8.net,871-363-0111,Pantech,Pantech P4000,Troubleshooting,2026-04-13,2026-04-18,Completed,Ethelind Bottby,,2416,GCash,false
+932,Thatch,Laffling,tlafflingpv@arizona.edu,998-324-5568,Nokia,Nokia 150,Troubleshooting,2026-01-16,2026-01-29,Completed,Thatch Laffling,9999,2615,GCash,false
+933,Eb,Dunmore,edunmorepw@ihg.com,156-499-6182,BenQ-Siemens,BenQ-Siemens SL80,Diagnostic,2026-04-05,2026-04-13,Ready for Pickup,Eb Dunmore,14557,1297,Cash,true
+934,Tessi,Jopp,tjopppx@is.gd,631-518-2011,Celkon,Celkon C206,Maintenance,2026-03-09,2026-03-13,Waiting on Parts,Tessi Jopp,,500,Cash,true
+935,Othilia,D'Acth,odacthpy@google.fr,270-368-1110,Oppo,Oppo Reno A,Environmental Damage,2026-03-09,2026-03-12,Ready for Pickup,,1434,768,PayPal,false
+936,Willyt,Drennan,wdrennanpz@wix.com,693-506-4091,LeEco,LeEco Le Pro 3 AI Edition,Hardware Failure,2025-08-03,2025-08-06,Completed,Willyt Drennan,,913,Credit Card,true
+937,Adrea,Mellon,amellonq0@spotify.com,194-642-0978,Realme,Realme 5i,Hardware Failure,2025-07-24,2025-08-02,Unrepairable,Adrea Mellon,,500,,false
+938,Cecilia,Okill,cokillq1@google.ru,987-857-4575,Vodafone,Vodafone Smart Mini,Hardware Failure,2025-06-06,2025-06-19,Ready for Pickup,Cecilia Okill,3489,2028,PayPal,false
+939,Minerva,de Guise,mdeq2@theguardian.com,968-900-3318,alcatel,alcatel OT-292,Maintenance,2025-06-02,2025-06-06,Ready for Pickup,Minerva de Guise,7424,744,Credit Card,true
+940,Beau,Crannage,bcrannageq3@feedburner.com,495-441-2067,Archos,Archos 45c Platinum,Troubleshooting,2025-11-22,2025-12-03,Ready for Pickup,Beau Crannage,14690,1906,GCash,false
+941,Carolyne,Checchetelli,cchecchetelliq4@homestead.com,300-734-8576,Allview,Allview P9 Energy mini,Diagnostic,2025-10-19,2025-10-26,Repairing,Carolyne Checchetelli,12799,2428,PayPal,true
+942,Davy,Camm,dcammq5@wix.com,343-297-4537,ZTE,ZTE Grand S II S291,Troubleshooting,2025-11-24,2025-12-05,Received,Davy Camm,405,2460,PayPal,true
+943,Ferdinanda,Keppie,fkeppieq6@washingtonpost.com,622-249-9999,alcatel,alcatel OT-E100,Software Issue,2025-07-25,2025-08-02,Completed,Ferdinanda Keppie,7734,2748,Credit Card,true
+944,Colene,Begin,cbeginq7@constantcontact.com,812-359-3901,alcatel,alcatel OT-S626A,Diagnostic,2025-08-06,2025-08-10,Ready for Pickup,Colene Begin,17446,810,Credit Card,false
+945,Monroe,Seabourne,mseabourneq8@csmonitor.com,852-299-4225,Huawei,Huawei Watch 2 2018,Software Issue,2026-02-07,2026-02-14,Received,Monroe Seabourne,11341,754,Credit Card,false
+946,Ruthe,Light,rlightq9@vk.com,417-546-9388,Samsung,Samsung C3630,Troubleshooting,2026-02-06,2026-02-20,Completed,Ruthe Light,,2898,Debit Card,false
+947,Ario,Chaundy,achaundyqa@creativecommons.org,488-997-5749,Allview,Allview E2 Living,Hardware Failure,2026-03-16,2026-03-18,Repairing,Ario Chaundy,10120,2523,,false
+948,Gail,Matzke,gmatzkeqb@alibaba.com,531-756-5492,alcatel,alcatel Pixi 4 Plus Power,Hardware Failure,2025-12-03,2025-12-17,Completed,Gail Matzke,13850,1717,PayPal,true
+949,Winfield,Wilstead,wwilsteadqc@elpais.com,295-901-3786,Sony,Sony Ericsson R300 Radio,Maintenance,2025-12-17,2025-12-20,Completed,Winfield Wilstead,,1838,Maya,true
+950,Cosette,Gabby,cgabbyqd@arizona.edu,936-211-6888,Samsung,Samsung Galaxy Note 10.1 N8000,Environmental Damage,2025-09-23,2025-09-24,Received,Cosette Gabby,5110,1086,,false
+951,Noble,Mathou,nmathouqe@wiley.com,616-213-3503,Xiaomi,Xiaomi Mi Mix 3 5G,Hardware Failure,2025-05-22,2025-06-02,Diagnosing,Noble Mathou,2175,742,,true
+952,Bendick,Duplock,bduplockqf@mysql.com,377-782-5553,Motorola,Motorola A1000,Troubleshooting,2025-08-29,2025-09-04,Ready for Pickup,,12937,1441,,true
+953,Maxie,Esmead,mesmeadqg@lulu.com,227-237-5856,Vodafone,Vodafone 533,Maintenance,2025-12-09,2025-12-14,Unrepairable,Maxie Esmead,,500,,false
+954,Allayne,Gallaway,agallawayqh@forbes.com,804-936-0986,Toshiba,Toshiba G450,Hardware Failure,2025-08-25,2025-09-03,Received,,15000,2566,Credit Card,false
+955,Vassily,Kernock,vkernockqi@google.co.uk,497-427-7510,Spice,Spice M-5365 Boss Killer,Environmental Damage,2025-11-22,2025-11-27,Ready for Pickup,Vassily Kernock,8325,2789,PayPal,false
+956,Sarina,Britnell,sbritnellqj@nifty.com,675-874-1801,ZTE,ZTE Blade X,Environmental Damage,2026-02-14,2026-02-23,Diagnosing,Sarina Britnell,7227,1085,GCash,true
+957,Susanne,Dumbrill,sdumbrillqk@so-net.ne.jp,905-591-9859,verykool,verykool SL5550 Maverick LTE,Software Issue,2026-03-10,2026-03-24,Waiting on Parts,Susanne Dumbrill,,745,Credit Card,true
+958,Delila,Bakewell,dbakewellql@aol.com,224-105-4591,Spice,Spice M-5350,Maintenance,2025-11-09,2025-11-15,Completed,Delila Bakewell,6720,1590,,false
+959,Chelsey,Sidry,csidryqm@simplemachines.org,908-756-3288,Samsung,Samsung E950,Environmental Damage,2025-09-14,2025-09-15,Waiting on Parts,Chelsey Sidry,16794,2665,Maya,false
+960,Meghann,Golda,mgoldaqn@indiegogo.com,443-484-6516,Nokia,Nokia 9210 Communicator,Software Issue,2026-04-08,2026-04-10,Repairing,Meghann Golda,,2938,GCash,true
+961,Evonne,Lattin,elattinqo@nature.com,770-146-2169,BLU,BLU Life Mark,Environmental Damage,2025-08-16,2025-08-25,Received,,2116,561,Credit Card,true
+962,Rodd,Pincott,rpincottqp@mtv.com,383-847-1440,BLU,BLU Vivo XL3 Plus,Hardware Failure,2025-07-26,2025-08-08,Completed,Rodd Pincott,13000,2807,PayPal,true
+963,Wynne,Broadbent,wbroadbentqq@scribd.com,244-913-2800,Telit,Telit t420,Maintenance,2026-03-15,2026-03-20,Diagnosing,Wynne Broadbent,12259,2266,PayPal,true
+964,Turner,Syratt,tsyrattqr@miibeian.gov.cn,962-771-3306,Karbonn,Karbonn K65 Buzz,Diagnostic,2026-04-25,2026-05-04,Unrepairable,Turner Syratt,,500,,true
+965,Tally,Alenov,talenovqs@un.org,212-176-6021,Huawei,Huawei MediaPad 7 Lite,Maintenance,2025-10-09,2025-10-12,Ready for Pickup,Tally Alenov,9286,1305,,true
+966,Jacquetta,Hurch,jhurchqt@dailymotion.com,649-651-5474,Sony,Sony Xperia Z,Maintenance,2025-06-02,2025-06-11,Repairing,Jacquetta Hurch,5386,813,GCash,false
+967,Ginny,Bygreaves,gbygreavesqu@archive.org,666-235-2564,Xiaomi,Xiaomi Mi 4c,Troubleshooting,2026-01-16,2026-01-19,Ready for Pickup,Ginny Bygreaves,6661,1665,Cash,false
+968,Sissie,Hillett,shillettqv@dion.ne.jp,665-632-1069,Nokia,Nokia Lumia 710 T-Mobile,Troubleshooting,2025-12-06,2025-12-07,Ready for Pickup,Sissie Hillett,,2349,,true
+969,Abigale,Starkie,astarkieqw@istockphoto.com,840-545-8054,Nokia,Nokia C1 Plus,Diagnostic,2025-10-05,2025-10-08,Repairing,Abigale Starkie,1505,581,,false
+970,Kennan,Gristwood,kgristwoodqx@list-manage.com,760-619-8994,BLU,BLU Energy JR,Hardware Failure,2026-01-23,2026-01-30,Received,Kennan Gristwood,12114,2965,Cash,false
+971,Heda,Girard,hgirardqy@imageshack.us,729-496-9772,Samsung,Samsung U320 Haven,Hardware Failure,2025-07-13,2025-07-17,Received,Heda Girard,888,1402,Cash,false
+972,Angelique,Easen,aeasenqz@nasa.gov,925-801-7702,VK,VK Mobile VK4000,Hardware Failure,2025-09-12,2025-09-25,Ready for Pickup,Angelique Easen,10937,2185,Debit Card,false
+973,Colleen,Pessler,cpesslerr0@imgur.com,844-491-1062,Samsung,Samsung T459 Gravity,Maintenance,2025-10-01,2025-10-14,Completed,Colleen Pessler,4482,1378,GCash,false
+974,Mozelle,McDonald,mmcdonaldr1@cisco.com,285-631-3873,Pantech,Pantech Vega Racer 2 IM-A830L,Software Issue,2025-06-14,2025-06-24,Ready for Pickup,Mozelle McDonald,12068,2429,GCash,true
+975,Shannon,Mahody,smahodyr2@techcrunch.com,455-386-2714,BlackBerry,BlackBerry Z20,Environmental Damage,2025-05-22,2025-05-28,Received,Shannon Mahody,707,1048,,false
+976,Veronike,Josipovic,vjosipovicr3@t.co,342-159-1326,LG,LG W10 Alpha,Hardware Failure,2025-07-28,2025-08-01,Completed,Veronike Josipovic,3167,1543,,true
+977,Alvie,Feldheim,afeldheimr4@weibo.com,964-815-6573,BLU,BLU Advance 4.0 L,Maintenance,2026-01-13,2026-01-18,Completed,Alvie Feldheim,10122,1852,,true
+978,Carver,Sadd,csaddr5@ihg.com,624-644-2935,LG,LG Optimus S,Hardware Failure,2025-10-04,2025-10-11,Ready for Pickup,Carver Sadd,16568,2555,,false
+979,Ephraim,Skerratt,eskerrattr6@vk.com,555-801-1503,Microsoft,Microsoft Lumia 540 Dual SIM,Software Issue,2025-07-23,2025-08-05,Ready for Pickup,Ephraim Skerratt,14418,2197,Maya,false
+980,Tomlin,Loudiane,tloudianer7@dailymail.co.uk,712-365-5063,Honor,Honor 30 Pro,Environmental Damage,2026-02-17,2026-02-27,Ready for Pickup,Tomlin Loudiane,13373,2290,Cash,false
+981,Bone,Kilfeather,bkilfeatherr8@dedecms.com,437-371-9460,BlackBerry,BlackBerry DTEK60,Environmental Damage,2026-04-09,2026-04-23,Repairing,Bone Kilfeather,18995,812,Credit Card,false
+982,Grethel,Trobridge,gtrobridger9@macromedia.com,208-418-2940,Motorola,Motorola C116,Software Issue,2025-10-25,2025-11-04,Completed,Grethel Trobridge,2502,1658,,true
+983,Pat,Henmarsh,phenmarshra@independent.co.uk,373-623-4309,Qtek,Qtek 9100,Diagnostic,2025-07-19,2025-07-30,Diagnosing,Pat Henmarsh,13875,1333,GCash,true
+984,Kingsley,Canellas,kcanellasrb@cornell.edu,197-854-1098,Sony,Sony Ericsson K510,Hardware Failure,2025-05-12,2025-05-16,Received,Kingsley Canellas,6738,814,,true
+985,Orson,Botte,obotterc@joomla.org,925-546-9605,BLU,BLU Dash M2,Environmental Damage,2025-12-01,2025-12-09,Ready for Pickup,,13273,901,,false
+986,Rory,Camber,rcamberrd@geocities.jp,632-932-0341,Allview,Allview X3 Soul Lite,Hardware Failure,2025-08-22,2025-08-29,Completed,Rory Camber,3264,1141,PayPal,false
+987,Sheffie,Pook,spookre@ovh.net,146-557-6304,Kyocera,Kyocera E4600,Troubleshooting,2025-12-26,2026-01-02,Ready for Pickup,Sheffie Pook,6381,1882,PayPal,false
+988,Jaclin,Peiro,jpeirorf@usda.gov,653-813-8906,XOLO,XOLO Q900s,Maintenance,2025-09-19,2025-09-28,Diagnosing,,7877,2693,Cash,false
+989,Zacharia,Essame,zessamerg@jigsy.com,498-566-4953,ZTE,ZTE V887,Hardware Failure,2025-12-21,2025-12-27,Diagnosing,Zacharia Essame,13975,2021,Maya,true
+990,Issiah,Cattach,icattachrh@simplemachines.org,344-285-6610,VK,VK Mobile VK4000,Software Issue,2026-04-04,2026-04-08,Diagnosing,Issiah Cattach,,1647,Maya,true
+991,Sigismondo,Warbys,swarbysri@phoca.cz,847-364-1801,Motorola,Motorola XT928,Software Issue,2026-02-27,2026-03-12,Ready for Pickup,,14845,2930,,true
+992,Noam,Kermath,nkermathrj@webnode.com,701-134-4027,ZTE,ZTE E N72,Hardware Failure,2025-12-21,2026-01-01,Unrepairable,,,500,,false
+993,Chris,Beningfield,cbeningfieldrk@paypal.com,180-408-7780,Celkon,Celkon Campus Prime,Troubleshooting,2026-03-17,2026-03-24,Diagnosing,Chris Beningfield,10102,2117,Cash,false
+994,Kenyon,Arnoldi,karnoldirl@addtoany.com,704-339-2399,BenQ-Siemens,BenQ-Siemens CF61,Hardware Failure,2025-10-30,2025-11-10,Completed,Kenyon Arnoldi,12314,2390,Credit Card,false
+995,Conway,Westnedge,cwestnedgerm@edublogs.org,711-994-4983,Karbonn,Karbonn Titanium Mach Two S360,Maintenance,2026-04-24,2026-04-27,Waiting on Parts,Conway Westnedge,12236,1191,,false
+996,Tiebout,Harbach,tharbachrn@bravesites.com,817-573-8982,HTC,HTC One SV,Environmental Damage,2025-07-18,2025-07-20,Repairing,Tiebout Harbach,921,2448,Debit Card,false
+997,Kalle,Antonognoli,kantonognoliro@clickbank.net,308-575-7256,Sony,Sony Ericsson K510,Diagnostic,2025-05-04,2025-05-18,Ready for Pickup,Kalle Antonognoli,,2893,PayPal,true
+998,Robinette,Senner,rsennerrp@flickr.com,706-161-3532,Samsung,Samsung Gear 2,Maintenance,2025-12-26,2026-01-08,Diagnosing,Robinette Senner,10286,2336,Credit Card,false
+999,Prentiss,Cromett,pcromettrq@nydailynews.com,248-202-6603,Meizu,Meizu E2,Diagnostic,2025-12-11,2025-12-16,Waiting on Parts,Prentiss Cromett,,1838,PayPal,true
+1000,Cooper,Gaylord,cgaylordrr@unicef.org,229-578-1943,Celkon,Celkon AR50,Hardware Failure,2025-11-11,2025-11-25,Waiting on Parts,Cooper Gaylord,6294,1947,Debit Card,false
