@@ -1,0 +1,1001 @@
+ticket_id,device_brand,device_model,issue_category,intake_date,finish_date,repair_status,technician_name,parts_cost,labor_cost,payment_method,warranty_provided
+1,Celkon,Celkon C11,Software Issue,2026-01-05,,Diagnosing,Selene Clace,0.0,1072,,True
+2,Wiko,Wiko Lenny3 Max,Maintenance,2025-07-17,,Repairing,Tessa Lumbley,16213.0,657,,False
+3,Siemens,Siemens CL55,Diagnostic,2025-08-23,,Repairing,Walsh Bartolomeotti,8895.0,715,,False
+4,Lava,Lava Iris 350,Software Issue,2025-05-19,,Waiting on Parts,Randal O'Conor,0.0,1319,,True
+5,Huawei,Huawei Mulan,Diagnostic,2025-09-14,,Received,,16277.0,2639,,False
+6,Huawei,Huawei P20 lite,Software Issue,2026-01-05,,Waiting on Parts,Selene Clace,0.0,1186,,False
+7,Xiaomi,Xiaomi Redmi Note 4 (MediaTek),Diagnostic,2026-01-06,2026-01-18,Unrepairable,Chrissy Rudsdell,0.0,402,,False
+8,Celkon,Celkon C770,Software Issue,2026-02-21,,Waiting on Parts,Randal O'Conor,0.0,576,,False
+9,NEC,NEC N109,Troubleshooting,2025-12-15,,Diagnosing,Randal O'Conor,17147.0,2213,,False
+10,Yezz,Yezz Zenior YZ888,Maintenance,2026-02-03,2026-02-10,Completed,Katha Buttner,12202.0,2743,GCash,True
+11,Plum,Plum Optimax 11,Diagnostic,2026-02-09,,Repairing,Florance Cartmill,6103.0,1040,,True
+12,alcatel,alcatel OT-C700A,Troubleshooting,2025-10-30,,Diagnosing,Osbourne O'Connolly,6685.0,2203,,True
+13,WND,WND Wind DUO 2300,Diagnostic,2026-03-18,2026-03-19,Ready for Pickup,Tessy Blei,15753.0,1817,Maya,True
+14,Huawei,Huawei Watch Fit,Environmental Damage,2025-09-03,2025-09-16,Ready for Pickup,Roseanne Piddlesden,14175.0,2461,,True
+15,Benefon,Benefon TWIG Discovery Pro,Software Issue,2026-03-18,2026-03-29,Ready for Pickup,Dylan Cornwell,0.0,1252,Cash,True
+16,Motorola,Motorola C115,Software Issue,2026-02-17,,Repairing,Tessy Blei,0.0,2990,,True
+17,Honor,Honor 8S 2020,Troubleshooting,2025-12-08,,Waiting on Parts,Lorilyn Lofty,5705.0,2315,,True
+18,Lava,Lava Z61,Maintenance,2025-08-23,,Diagnosing,Roseanne Piddlesden,,2371,,False
+19,Motorola,Motorola MOTO XT882,Troubleshooting,2025-12-30,,Received,Roseanne Piddlesden,12834.0,1233,,False
+20,Philips,Philips 191,Hardware Failure,2026-01-06,,Diagnosing,Abran Scrimshire,,2721,,False
+21,Celkon,Celkon C44,Diagnostic,2025-07-21,2025-07-23,Completed,Rollin Wherry,4079.0,2321,,False
+22,Huawei,Huawei G6600 Passport,Environmental Damage,2025-11-02,,Waiting on Parts,Tedda Bewlie,4905.0,2915,,False
+23,Nokia,Nokia 6060,Environmental Damage,2025-05-10,2025-05-12,Completed,Walsh Bartolomeotti,1965.0,540,Debit Card,False
+24,ZTE,ZTE Blade II V880+,Troubleshooting,2026-01-29,,Repairing,Walsh Bartolomeotti,9752.0,987,,False
+25,Palm,Palm Centro,Maintenance,2026-04-29,2026-05-05,Unrepairable,Chrissy Rudsdell,0.0,735,,True
+26,Samsung,Samsung B500,Environmental Damage,2025-08-16,,Diagnosing,Roseanne Piddlesden,9435.0,1309,,False
+27,LG,LG KT520,Environmental Damage,2026-03-25,,Repairing,Tessa Lumbley,714.0,569,,True
+28,Realme,Realme C3,Maintenance,2026-03-20,,Repairing,Osbourne O'Connolly,12223.0,1510,,True
+29,Philips,Philips Ozeo,Diagnostic,2026-03-02,,Diagnosing,Jessi Trinder,17743.0,2216,,True
+30,LG,LG A100,Software Issue,2025-07-20,,Diagnosing,Chrissy Rudsdell,0.0,1124,,False
+31,Honor,Honor Play4 Pro,Diagnostic,2025-11-04,,Repairing,Selene Clace,,2565,,True
+32,Samsung,Samsung Droid Charge I510,Hardware Failure,2025-08-01,2025-08-10,Unrepairable,Opalina Jeannesson,0.0,648,,False
+33,Samsung,Samsung Galaxy S II LTE i727R,Troubleshooting,2026-01-17,,Repairing,Selene Clace,11361.0,1197,,True
+34,Realme,Realme 5i,Maintenance,2025-05-07,,Diagnosing,Juliana Cleminson,1697.0,1674,,False
+35,Coolpad,Coolpad Cool 2,Software Issue,2026-01-23,,Diagnosing,Katha Buttner,0.0,2953,,True
+36,i-mate,i-mate SPJAS,Diagnostic,2025-06-30,,Repairing,Idalia Coomer,9109.0,1116,,False
+37,Lava,Lava Iris Atom,Environmental Damage,2025-07-03,2025-07-13,Unrepairable,Juliana Cleminson,0.0,570,,False
+38,Nokia,Nokia 5235 Comes With Music,Troubleshooting,2025-12-27,,Repairing,Opalina Jeannesson,16977.0,1952,,False
+39,Chea,Chea 198,Troubleshooting,2025-05-20,2025-05-26,Ready for Pickup,Tessy Blei,18885.0,2274,PayPal,False
+40,alcatel,alcatel 1x,Troubleshooting,2026-03-06,,Diagnosing,Tessa Lumbley,3999.0,736,,True
+41,Motorola,Motorola W270,Software Issue,2025-08-14,2025-08-27,Completed,Walsh Bartolomeotti,0.0,1440,GCash,False
+42,Fairphone,Fairphone 3+,Diagnostic,2026-04-18,,Repairing,Selene Clace,12362.0,1952,,False
+43,Motorola,Motorola DROID X ME811,Troubleshooting,2025-05-11,2025-05-13,Ready for Pickup,Roseanne Piddlesden,4540.0,534,,True
+44,Acer,Acer Liquid Gallant Duo,Software Issue,2025-11-05,,Received,Florance Cartmill,0.0,1172,,False
+45,Xiaomi,Xiaomi Mi A2 (Mi 6X),Diagnostic,2026-01-30,2026-02-08,Ready for Pickup,Walsh Bartolomeotti,19595.0,2667,PayPal,False
+46,Infinix,Infinix Zero 8,Software Issue,2026-03-13,,Waiting on Parts,Osbourne O'Connolly,0.0,1444,,True
+47,Motorola,Motorola Moto Z Play,Maintenance,2025-08-21,2025-08-31,Unrepairable,Idalia Coomer,0.0,406,,False
+48,O2,O2 X4,Diagnostic,2025-09-14,,Diagnosing,Abran Scrimshire,2180.0,859,,True
+49,Motorola,Motorola StarTAC Rainbow,Hardware Failure,2026-01-19,,Repairing,Katha Buttner,11829.0,1151,,True
+50,Siemens,Siemens M35i,Troubleshooting,2025-10-21,,Received,Juliana Cleminson,11278.0,2846,,True
+51,NEC,NEC e101,Maintenance,2025-10-29,,Diagnosing,Florance Cartmill,6088.0,1059,,True
+52,verykool,verykool s5036 Apollo,Troubleshooting,2025-06-12,,Waiting on Parts,Katha Buttner,16451.0,971,,False
+53,Amoi,Amoi S6,Hardware Failure,2025-11-15,,Repairing,Tessy Blei,1222.0,951,,True
+54,LG,LG KB770,Software Issue,2025-06-30,,Diagnosing,Dylan Cornwell,0.0,1416,,True
+55,Sewon,Sewon SG-2320CD,Diagnostic,2026-03-03,2026-03-08,Unrepairable,Rollin Wherry,0.0,371,,True
+56,Samsung,Samsung E1260B,Troubleshooting,2025-12-23,,Repairing,Katha Buttner,1629.0,1046,,True
+57,Micromax,Micromax Canvas Unite 4,Environmental Damage,2026-01-14,,Received,,9544.0,1264,,False
+58,BLU,BLU Samba Elite,Maintenance,2025-12-22,,Waiting on Parts,Roseanne Piddlesden,3806.0,902,,True
+59,Sony,Sony Xperia go,Hardware Failure,2025-05-03,,Received,,5827.0,2423,,True
+60,Kyocera,Kyocera Brio,Diagnostic,2025-09-03,2025-09-10,Completed,Rollin Wherry,18129.0,2363,Cash,False
+61,Asus,Asus Transformer Pad TF300TG,Diagnostic,2025-05-20,2025-05-22,Ready for Pickup,Katha Buttner,9911.0,1365,Credit Card,True
+62,Spice,Spice Mi-422 Smartflo Pace,Environmental Damage,2025-09-12,2025-09-13,Unrepairable,Idalia Coomer,0.0,488,,False
+63,Infinix,Infinix Smart3 Plus,Hardware Failure,2025-07-04,,Received,Tedda Bewlie,15056.0,816,,False
+64,Allview,Allview V2 Viper X,Hardware Failure,2025-09-17,,Received,,,2304,,True
+65,verykool,verykool RS90,Environmental Damage,2025-08-04,,Waiting on Parts,Florance Cartmill,12622.0,684,,False
+66,Panasonic,Panasonic Eluga A3,Troubleshooting,2026-04-09,2026-04-11,Ready for Pickup,Idalia Coomer,,1132,Credit Card,False
+67,LG,LG T5100,Maintenance,2025-11-13,,Diagnosing,Florance Cartmill,8145.0,1995,,False
+68,LG,LG GX200,Troubleshooting,2026-01-23,,Received,Tedda Bewlie,5093.0,1366,,True
+69,Qtek,Qtek 1010,Troubleshooting,2026-04-05,,Waiting on Parts,Calhoun Taye,435.0,2330,,True
+70,Nokia,Nokia Lumia 900 AT&T,Troubleshooting,2026-01-22,,Waiting on Parts,Juliana Cleminson,2639.0,1544,,True
+71,Samsung,Samsung X450,Diagnostic,2026-03-18,2026-03-24,Unrepairable,Walsh Bartolomeotti,0.0,320,,False
+72,Lenovo,Lenovo A516,Troubleshooting,2026-04-23,,Waiting on Parts,Calhoun Taye,10541.0,2432,,False
+73,Xiaomi,Xiaomi Redmi 2A,Environmental Damage,2025-10-08,2025-10-10,Completed,Opalina Jeannesson,11172.0,2078,Debit Card,True
+74,Unnecto,Unnecto Drone X,Software Issue,2025-11-11,,Waiting on Parts,Walsh Bartolomeotti,0.0,826,,True
+75,HTC,HTC Desire S,Maintenance,2025-09-11,,Received,,7194.0,1511,,False
+76,alcatel,alcatel OT-806,Hardware Failure,2026-03-31,,Received,,9910.0,1273,,True
+77,Apple,Apple iPad Wi-Fi + 3G,Diagnostic,2026-01-30,,Received,,7775.0,2813,,True
+78,alcatel,alcatel 1s,Diagnostic,2026-03-18,,Diagnosing,Opalina Jeannesson,,2515,,True
+79,BLU,BLU Life One X,Software Issue,2026-04-18,,Repairing,Lorilyn Lofty,0.0,2575,,True
+80,Infinix,Infinix Hot 5 Lite,Maintenance,2026-01-10,,Repairing,Roseanne Piddlesden,,2105,,True
+81,BenQ-Siemens,BenQ-Siemens EF71,Environmental Damage,2025-10-27,,Waiting on Parts,Florance Cartmill,2458.0,1206,,False
+82,Nokia,Nokia 6131 NFC,Diagnostic,2025-08-16,,Waiting on Parts,Randal O'Conor,12257.0,1064,,True
+83,alcatel,alcatel OT-203,Software Issue,2026-04-02,,Waiting on Parts,Chrissy Rudsdell,0.0,785,,False
+84,Oppo,Oppo R11s Plus,Diagnostic,2026-03-04,,Repairing,Abran Scrimshire,1475.0,1390,,True
+85,Acer,Acer Iconia Tab A500,Software Issue,2026-02-24,,Received,,0.0,2146,,False
+86,Xiaomi,Xiaomi Redmi 5,Environmental Damage,2025-11-28,2025-12-04,Unrepairable,Osbourne O'Connolly,0.0,402,,False
+87,Samsung,Samsung Star Deluxe Duos S5292,Environmental Damage,2025-07-31,2025-08-05,Ready for Pickup,Osbourne O'Connolly,13885.0,2092,,False
+88,BlackBerry,BlackBerry 6720,Diagnostic,2025-05-29,,Waiting on Parts,Lorilyn Lofty,9433.0,2979,,False
+89,ZTE,ZTE nubia Z11 Max,Environmental Damage,2025-08-27,,Received,Jessi Trinder,837.0,2037,,True
+90,Lenovo,Lenovo S650,Diagnostic,2025-10-27,,Waiting on Parts,Rollin Wherry,14442.0,1368,,False
+91,Energizer,Energizer Power Max P16K Pro,Troubleshooting,2026-02-01,,Repairing,Selene Clace,6549.0,2247,,False
+92,LG,LG C900 Optimus 7Q ,Environmental Damage,2025-11-11,,Waiting on Parts,Opalina Jeannesson,4978.0,1350,,True
+93,Honor,Honor Play 3e,Diagnostic,2025-07-09,2025-07-11,Completed,Selene Clace,17274.0,1247,PayPal,False
+94,Motorola,Motorola StarTAC 130,Maintenance,2026-04-20,,Waiting on Parts,Opalina Jeannesson,725.0,1095,,False
+95,LG,LG U880,Diagnostic,2025-12-06,,Repairing,Florance Cartmill,8306.0,2124,,True
+96,Acer,Acer Liquid Z530,Hardware Failure,2026-04-01,,Received,Roseanne Piddlesden,16166.0,591,,False
+97,Eten,Eten glofiish M800,Maintenance,2025-09-05,2025-09-13,Unrepairable,Tessy Blei,0.0,421,,True
+98,Maxon,Maxon MX-6899,Maintenance,2025-07-28,2025-08-01,Ready for Pickup,Lorilyn Lofty,,1620,,False
+99,Nokia,Nokia E61,Maintenance,2026-04-13,,Diagnosing,Tedda Bewlie,,2607,,False
+100,ZTE,ZTE N290,Maintenance,2026-03-13,2026-03-14,Ready for Pickup,Jessi Trinder,13217.0,2251,,False
+101,Wiko,Wiko Lenny3,Software Issue,2026-03-22,,Repairing,Osbourne O'Connolly,0.0,2481,,True
+102,Huawei,Huawei MatePad 10.8,Maintenance,2025-10-17,,Diagnosing,Roseanne Piddlesden,13697.0,1395,,False
+103,ZTE,ZTE Grand S Flex,Troubleshooting,2025-10-31,,Received,,17474.0,2093,,True
+104,Apple,Apple iPad Pro 9.7 (2016),Hardware Failure,2025-08-28,2025-09-03,Ready for Pickup,Osbourne O'Connolly,15741.0,2077,Cash,False
+105,Nokia,Nokia 6060,Hardware Failure,2025-09-27,,Diagnosing,Lorilyn Lofty,19093.0,1566,,False
+106,Apple,Apple iPhone 8 Plus,Environmental Damage,2025-09-22,2025-09-28,Ready for Pickup,Osbourne O'Connolly,1727.0,1091,Maya,False
+107,Motorola,Motorola MILESTONE 2,Environmental Damage,2025-11-05,,Diagnosing,Jessi Trinder,3153.0,1013,,True
+108,Sendo,Sendo S360,Environmental Damage,2026-01-29,2026-02-09,Unrepairable,Walsh Bartolomeotti,0.0,766,,True
+109,Philips,Philips 350,Environmental Damage,2026-03-17,,Repairing,Idalia Coomer,14849.0,558,,True
+110,Spice,Spice Stellar 361 (Mi-361),Maintenance,2025-06-15,2025-06-20,Unrepairable,Osbourne O'Connolly,0.0,514,,True
+111,Samsung,Samsung C5220,Hardware Failure,2026-04-29,,Received,,16640.0,2657,,False
+112,Lenovo,Lenovo Vibe K5 Plus,Diagnostic,2025-09-26,2025-10-03,Ready for Pickup,Jessi Trinder,12547.0,1709,,True
+113,NEC,NEC N900,Troubleshooting,2026-03-25,2026-03-29,Unrepairable,Idalia Coomer,0.0,630,,False
+114,Celkon,Celkon C17,Environmental Damage,2025-05-15,,Received,Selene Clace,15940.0,2651,,True
+115,Apple,Apple iPad Air (2020),Hardware Failure,2025-05-16,,Received,,13509.0,2818,,False
+116,verykool,verykool T7445,Environmental Damage,2026-01-19,,Waiting on Parts,Walsh Bartolomeotti,4886.0,927,,False
+117,Amoi,Amoi A310,Maintenance,2025-08-12,,Waiting on Parts,Walsh Bartolomeotti,13749.0,678,,True
+118,Toshiba,Toshiba Excite 13 AT335,Software Issue,2026-03-08,,Repairing,Rollin Wherry,0.0,2067,,True
+119,Vertu,Vertu Ascent,Troubleshooting,2025-10-28,2025-11-05,Unrepairable,Calhoun Taye,0.0,758,,False
+120,BlackBerry,BlackBerry Passport,Maintenance,2025-07-03,2025-07-14,Ready for Pickup,Chrissy Rudsdell,15208.0,2147,Cash,False
+121,Sony,Sony CMD J70,Diagnostic,2026-01-04,,Repairing,Selene Clace,15560.0,1751,,True
+122,Nokia,Nokia 500,Maintenance,2025-08-10,2025-08-15,Ready for Pickup,Abran Scrimshire,13832.0,2820,GCash,False
+123,Vodafone,Vodafone 540,Environmental Damage,2025-07-16,,Waiting on Parts,Tessa Lumbley,7516.0,2961,,False
+124,Acer,Acer Iconia One 7 B1-730,Software Issue,2025-07-17,,Received,,0.0,1909,,False
+125,Karbonn,Karbonn S7 Titanium,Maintenance,2026-03-30,,Diagnosing,Jessi Trinder,982.0,2285,,False
+126,vivo,vivo iQOO 3 5G,Troubleshooting,2025-09-26,2025-10-06,Ready for Pickup,Selene Clace,13881.0,869,Debit Card,True
+127,Huawei,Huawei G7005,Hardware Failure,2025-09-14,,Diagnosing,Calhoun Taye,9867.0,1028,,True
+128,vivo,vivo Y20s,Diagnostic,2025-12-17,,Repairing,Walsh Bartolomeotti,1199.0,2014,,True
+129,Bird,Bird A130,Environmental Damage,2025-06-14,2025-06-24,Ready for Pickup,Randal O'Conor,,1453,Credit Card,True
+130,Huawei,Huawei Mate 40,Software Issue,2025-08-10,2025-08-12,Completed,Katha Buttner,0.0,547,Credit Card,True
+131,Samsung,Samsung E200 ECO,Maintenance,2025-08-26,2025-09-03,Completed,Calhoun Taye,16773.0,1794,,True
+132,Motorola,Motorola Moto 360 Sport (1st gen),Software Issue,2026-02-02,,Waiting on Parts,Selene Clace,0.0,954,,True
+133,Samsung,Samsung Rex 60 C3312R,Software Issue,2025-12-09,,Diagnosing,Chrissy Rudsdell,0.0,805,,True
+134,Panasonic,Panasonic VS7,Maintenance,2025-08-16,,Waiting on Parts,Tessy Blei,9437.0,756,,True
+135,Samsung,Samsung I8200 Galaxy S III mini VE,Diagnostic,2026-02-06,2026-02-14,Completed,Rollin Wherry,13488.0,2402,Cash,False
+136,alcatel,alcatel OT-E159,Environmental Damage,2025-12-13,,Received,Calhoun Taye,6379.0,550,,True
+137,Maxwest,Maxwest Nitro Phablet 71,Software Issue,2025-09-28,2025-10-09,Completed,Dylan Cornwell,0.0,1149,Maya,False
+138,Motorola,Motorola Moto E,Hardware Failure,2025-05-18,,Received,Roseanne Piddlesden,,856,,False
+139,Honor,Honor Watch ES,Software Issue,2025-08-27,,Repairing,Roseanne Piddlesden,0.0,2828,,False
+140,NIU,NIU Andy 5EI,Software Issue,2025-09-21,2025-09-28,Completed,Tessa Lumbley,0.0,2170,Cash,False
+141,Vodafone,Vodafone 716,Troubleshooting,2025-09-16,2025-09-20,Completed,Randal O'Conor,10497.0,1785,PayPal,False
+142,Sharp,Sharp 902,Hardware Failure,2026-03-06,,Diagnosing,Selene Clace,5016.0,597,,False
+143,Nokia,Nokia E50,Diagnostic,2026-01-09,,Diagnosing,Lorilyn Lofty,16391.0,1773,,True
+144,Lenovo,Lenovo A789,Maintenance,2026-03-22,,Waiting on Parts,Lorilyn Lofty,12212.0,2789,,True
+145,Samsung,Samsung T819,Troubleshooting,2025-12-07,,Waiting on Parts,Tessa Lumbley,19990.0,2151,,True
+146,verykool,verykool i129,Maintenance,2025-09-17,2025-09-27,Ready for Pickup,Calhoun Taye,18184.0,1907,Debit Card,False
+147,Samsung,Samsung Galaxy S5 Active,Environmental Damage,2025-04-30,2025-05-09,Unrepairable,Opalina Jeannesson,0.0,387,,True
+148,LG,LG U890,Software Issue,2025-06-26,,Repairing,Osbourne O'Connolly,0.0,863,,False
+149,ZTE,ZTE Blade A910,Maintenance,2025-05-19,2025-05-28,Completed,Selene Clace,15801.0,1663,Credit Card,False
+150,Micromax,Micromax Bolt D303,Hardware Failure,2025-05-15,,Received,,14451.0,1258,,False
+151,verykool,verykool s5526 Alpha,Environmental Damage,2025-06-10,2025-06-23,Completed,Florance Cartmill,4793.0,2839,Maya,True
+152,Lenovo,Lenovo A830,Maintenance,2025-11-24,,Diagnosing,Opalina Jeannesson,13121.0,713,,True
+153,Maxon,Maxon MX-C90,Diagnostic,2026-01-01,,Repairing,Jessi Trinder,11749.0,2901,,False
+154,verykool,verykool i610,Maintenance,2025-12-04,2025-12-08,Unrepairable,Lorilyn Lofty,0.0,672,,True
+155,Motorola,Motorola V191,Troubleshooting,2025-07-19,,Repairing,Chrissy Rudsdell,1614.0,2576,,True
+156,Micromax,Micromax A105 Canvas Entice,Maintenance,2025-11-25,,Received,,2685.0,2732,,False
+157,LG,LG KP215,Troubleshooting,2025-12-02,,Diagnosing,Roseanne Piddlesden,19944.0,1057,,True
+158,Nokia,Nokia 6220,Hardware Failure,2025-08-16,,Received,,10284.0,1043,,True
+159,Samsung,Samsung I9103 Galaxy R,Troubleshooting,2025-12-29,,Received,,14203.0,2145,,True
+160,vivo,vivo Xplay7,Hardware Failure,2026-04-22,,Diagnosing,Tessa Lumbley,11506.0,686,,False
+161,Nokia,Nokia 1101,Diagnostic,2025-12-29,,Received,,14241.0,2480,,False
+162,Amazon,Amazon Fire HD 8 Plus (2020),Diagnostic,2026-01-05,2026-01-08,Unrepairable,Abran Scrimshire,0.0,399,,True
+163,Maxwest,Maxwest Vice,Software Issue,2025-11-26,2025-11-30,Ready for Pickup,Tessa Lumbley,0.0,2474,,False
+164,Samsung,Samsung Galaxy Note20 Ultra,Hardware Failure,2025-05-03,2025-05-12,Completed,Roseanne Piddlesden,12121.0,1532,Credit Card,False
+165,Samsung,Samsung C260,Diagnostic,2026-03-31,2026-04-03,Ready for Pickup,Selene Clace,3835.0,851,Maya,True
+166,Samsung,Samsung Galaxy Nexus LTE L700,Environmental Damage,2026-03-15,2026-03-17,Ready for Pickup,Tessy Blei,13110.0,2519,PayPal,False
+167,Huawei,Huawei Y6s (2019),Software Issue,2025-05-30,,Received,,0.0,671,,True
+168,Sony,Sony Xperia E3 Dual,Environmental Damage,2025-07-09,,Received,,14131.0,2710,,True
+169,Realme,Realme 6i,Diagnostic,2026-02-14,,Received,Jessi Trinder,18100.0,1970,,False
+170,Samsung,Samsung R860 Caliber,Troubleshooting,2025-06-07,,Diagnosing,Abran Scrimshire,5017.0,760,,False
+171,Nokia,Nokia 106 (2018),Environmental Damage,2026-03-23,,Repairing,Abran Scrimshire,12996.0,1283,,False
+172,Sony,Sony Xperia E4 Dual,Hardware Failure,2025-08-27,,Repairing,Abran Scrimshire,6998.0,963,,True
+173,Wiko,Wiko Pulp Fab 4G,Troubleshooting,2025-11-11,2025-11-17,Ready for Pickup,Tessy Blei,709.0,2575,,True
+174,Samsung,Samsung Galaxy Reverb M950,Software Issue,2025-05-10,2025-05-24,Completed,Tessy Blei,0.0,2645,GCash,False
+175,alcatel,alcatel One Touch Tab 7,Environmental Damage,2026-01-23,,Waiting on Parts,Jessi Trinder,9134.0,1781,,True
+176,Pantech,Pantech Marauder,Software Issue,2025-06-09,,Received,,0.0,2739,,False
+177,Motorola,Motorola One Fusion+,Software Issue,2025-07-09,,Repairing,Lorilyn Lofty,0.0,1895,,True
+178,Huawei,Huawei Enjoy 20 Pro,Maintenance,2025-09-02,2025-09-11,Unrepairable,Chrissy Rudsdell,0.0,659,,True
+179,Motorola,Motorola MPx200,Environmental Damage,2025-07-15,2025-07-17,Completed,Tessy Blei,,723,Maya,True
+180,YU,YU Yureka Plus,Software Issue,2025-09-17,,Received,,0.0,2355,,True
+181,alcatel,alcatel Pop Up,Software Issue,2025-06-21,,Diagnosing,Dylan Cornwell,0.0,2128,,False
+182,Asus,Asus Zenfone 4 Max ZC554KL,Environmental Damage,2025-09-20,2025-09-30,Unrepairable,Katha Buttner,0.0,451,,False
+183,LG,LG KG270,Environmental Damage,2025-08-20,2025-08-24,Completed,Randal O'Conor,4726.0,1967,,False
+184,Lenovo,Lenovo K5 Note,Environmental Damage,2025-11-16,2025-11-19,Ready for Pickup,Abran Scrimshire,,1373,Maya,True
+185,Samsung,Samsung Galaxy Tab A 8.0 & S Pen (2015),Hardware Failure,2026-03-10,2026-03-24,Completed,Dylan Cornwell,2704.0,2182,Credit Card,False
+186,BLU,BLU G90,Hardware Failure,2025-09-18,,Received,Jessi Trinder,16321.0,2603,,True
+187,Philips,Philips T939,Hardware Failure,2025-05-28,2025-06-03,Ready for Pickup,Tessa Lumbley,2944.0,706,Cash,False
+188,Samsung,Samsung P7500 Galaxy Tab 10.1 3G,Software Issue,2026-01-08,,Repairing,Tessy Blei,0.0,723,,True
+189,TCL,TCL 10 TabMid,Diagnostic,2025-07-06,,Diagnosing,Dylan Cornwell,12927.0,1057,,True
+190,LG,LG KU990 Viewty,Environmental Damage,2025-07-02,,Diagnosing,Randal O'Conor,9040.0,2128,,False
+191,Micromax,Micromax A120 Canvas 2 Colors,Software Issue,2025-06-26,,Received,,0.0,959,,False
+192,Nokia,Nokia C1-02,Troubleshooting,2025-09-16,,Waiting on Parts,Tedda Bewlie,15689.0,2020,,False
+193,vivo,vivo Y51a,Diagnostic,2025-12-13,,Received,,18328.0,711,,False
+194,LG,LG Vu Plus,Hardware Failure,2025-12-06,2025-12-08,Ready for Pickup,Opalina Jeannesson,1259.0,2363,,False
+195,Celkon,Celkon C999,Environmental Damage,2025-09-17,2025-09-22,Completed,Dylan Cornwell,17390.0,534,GCash,True
+196,Orange,Orange Reyo,Hardware Failure,2026-04-05,,Received,,10937.0,2908,,True
+197,Gigabyte,Gigabyte GSmart i,Maintenance,2025-10-21,2025-10-24,Ready for Pickup,Osbourne O'Connolly,11275.0,2449,Credit Card,True
+198,Gionee,Gionee F103 Pro,Troubleshooting,2025-05-06,,Repairing,Tessa Lumbley,12722.0,2842,,False
+199,Micromax,Micromax A119 Canvas XL,Troubleshooting,2026-04-23,2026-05-03,Completed,Katha Buttner,,2950,,False
+200,Celkon,Celkon AR40,Troubleshooting,2026-04-27,,Diagnosing,Chrissy Rudsdell,5601.0,1440,,True
+201,Samsung,Samsung Galaxy Tab S7+,Diagnostic,2025-07-02,,Waiting on Parts,Osbourne O'Connolly,2644.0,1476,,False
+202,Energizer,Energizer Power Max P18K Pop,Diagnostic,2025-06-06,,Received,,2000.0,1486,,True
+203,vivo,vivo X7,Maintenance,2025-09-17,2025-09-30,Unrepairable,Tessa Lumbley,0.0,430,,True
+204,HTC,HTC One XC,Software Issue,2025-12-26,,Repairing,Selene Clace,0.0,2310,,True
+205,Sony,Sony Ericsson K800,Troubleshooting,2025-06-07,2025-06-14,Ready for Pickup,Tessa Lumbley,12150.0,1973,Maya,True
+206,BLU,BLU G9,Hardware Failure,2026-03-23,,Received,Opalina Jeannesson,8169.0,1636,,False
+207,Celkon,Celkon C67+,Maintenance,2025-07-18,,Repairing,Lorilyn Lofty,4217.0,2152,,False
+208,Sony,Sony Xperia Pro,Software Issue,2025-05-28,2025-05-31,Unrepairable,Florance Cartmill,0.0,449,,False
+209,Huawei,Huawei Ascend W1,Environmental Damage,2025-11-30,,Diagnosing,Selene Clace,2448.0,1288,,False
+210,Samsung,Samsung S501i,Diagnostic,2026-01-09,,Received,Juliana Cleminson,16072.0,2467,,False
+211,Asus,Asus Transformer Pad Infinity 700 LTE,Troubleshooting,2026-01-03,,Waiting on Parts,Florance Cartmill,,2358,,False
+212,HTC,HTC Windows Phone 8X CDMA,Diagnostic,2025-12-14,2025-12-21,Completed,Lorilyn Lofty,7477.0,2042,Cash,True
+213,LG,LG A350,Troubleshooting,2025-05-27,2025-06-10,Ready for Pickup,Randal O'Conor,13308.0,810,Debit Card,True
+214,Sony,Sony Ericsson W610,Maintenance,2025-07-27,,Diagnosing,Juliana Cleminson,13901.0,802,,False
+215,Celkon,Celkon A1,Environmental Damage,2025-09-19,2025-09-30,Unrepairable,Rollin Wherry,0.0,608,,False
+216,Samsung,Samsung F330,Diagnostic,2026-02-02,2026-02-11,Completed,Osbourne O'Connolly,11269.0,2441,Maya,False
+217,Sony,Sony Ericsson Z1010,Software Issue,2025-08-01,,Waiting on Parts,Selene Clace,0.0,2704,,True
+218,Siemens,Siemens M50,Hardware Failure,2026-03-27,,Received,,,1667,,True
+219,Sony,Sony Xperia M2 Aqua,Software Issue,2025-05-10,,Waiting on Parts,Tedda Bewlie,0.0,754,,False
+220,Plum,Plum Flipper (2018),Maintenance,2026-01-18,2026-01-29,Ready for Pickup,Tessa Lumbley,17946.0,2474,Debit Card,False
+221,O2,O2 XDA Guide,Troubleshooting,2025-09-12,2025-09-14,Ready for Pickup,Abran Scrimshire,4539.0,2366,GCash,False
+222,Honor,Honor 5c,Hardware Failure,2025-12-06,,Received,,12083.0,1155,,True
+223,Apple,Apple Watch Edition Series 5,Environmental Damage,2026-03-21,,Repairing,Lorilyn Lofty,18772.0,1960,,False
+224,Fairphone,Fairphone 3+,Environmental Damage,2026-03-10,2026-03-22,Completed,Tedda Bewlie,6757.0,2058,,True
+225,Samsung,Samsung Galaxy Xcover Pro,Diagnostic,2026-02-05,,Diagnosing,Roseanne Piddlesden,11467.0,1558,,False
+226,Sagem,Sagem my700X,Environmental Damage,2025-09-27,2025-10-11,Unrepairable,Jessi Trinder,0.0,557,,False
+227,Lenovo,Lenovo S560,Diagnostic,2025-12-25,2025-12-30,Ready for Pickup,Jessi Trinder,7026.0,2467,PayPal,False
+228,alcatel,alcatel OT-E259,Diagnostic,2025-09-01,2025-09-05,Ready for Pickup,Opalina Jeannesson,6255.0,726,PayPal,False
+229,LG,LG BL20 New Chocolate,Maintenance,2025-12-28,2026-01-08,Unrepairable,Opalina Jeannesson,0.0,643,,False
+230,Celkon,Celkon C619,Software Issue,2025-08-10,,Diagnosing,Osbourne O'Connolly,0.0,1840,,False
+231,Unnecto,Unnecto Drone XL,Environmental Damage,2026-02-09,2026-02-19,Ready for Pickup,Chrissy Rudsdell,5148.0,2095,Credit Card,False
+232,Huawei,Huawei MediaPad T3 7.0,Environmental Damage,2026-04-10,,Diagnosing,Tedda Bewlie,14107.0,2423,,False
+233,NIU,NIU Z10,Environmental Damage,2025-07-11,,Repairing,Tedda Bewlie,18378.0,2620,,True
+234,Lava,Lava Iris Atom X,Troubleshooting,2025-05-10,,Repairing,Osbourne O'Connolly,,879,,True
+235,verykool,verykool s401,Hardware Failure,2025-08-14,,Diagnosing,Tessa Lumbley,12680.0,2106,,True
+236,Micromax,Micromax Dual 5,Hardware Failure,2025-07-28,,Waiting on Parts,Lorilyn Lofty,5404.0,2268,,True
+237,Samsung,Samsung Galaxy A10e,Hardware Failure,2026-01-29,,Diagnosing,Tessa Lumbley,15280.0,1834,,False
+238,vivo,vivo Y5s,Maintenance,2026-01-13,2026-01-27,Unrepairable,Randal O'Conor,0.0,791,,True
+239,Archos,Archos 50 Helium 4G,Hardware Failure,2025-08-15,,Diagnosing,Abran Scrimshire,5621.0,2364,,True
+240,Nokia,Nokia Asha 303,Hardware Failure,2026-03-08,,Waiting on Parts,Florance Cartmill,18401.0,2210,,True
+241,Samsung,Samsung Galaxy Tab Pro 8.4 3G/LTE,Troubleshooting,2025-05-01,2025-05-10,Completed,Katha Buttner,2405.0,532,Credit Card,False
+242,Samsung,Samsung I6210,Software Issue,2025-10-02,,Diagnosing,Dylan Cornwell,0.0,1947,,False
+243,ZTE,ZTE Salute F350,Hardware Failure,2026-04-05,,Received,Florance Cartmill,,2922,,False
+244,Siemens,Siemens A70,Environmental Damage,2025-09-28,2025-10-01,Ready for Pickup,Tessa Lumbley,,932,,False
+245,i-mobile,i-mobile 320,Troubleshooting,2026-03-22,2026-03-31,Completed,Osbourne O'Connolly,5177.0,709,Maya,True
+246,Celkon,Celkon A99+,Hardware Failure,2025-11-19,,Received,,10225.0,1188,,True
+247,Motorola,Motorola MOTOKEY Mini EX109,Maintenance,2025-09-07,,Waiting on Parts,Osbourne O'Connolly,6877.0,2780,,True
+248,Google,Google Pixel 2,Software Issue,2026-04-04,,Repairing,Juliana Cleminson,0.0,2983,,False
+249,Cat,Cat B30,Software Issue,2025-05-16,,Waiting on Parts,Idalia Coomer,0.0,1649,,True
+250,Archos,Archos Diamond,Software Issue,2025-09-09,2025-09-21,Ready for Pickup,Juliana Cleminson,0.0,1105,,False
+251,LG,LG KG300,Troubleshooting,2026-03-11,,Waiting on Parts,Tessy Blei,3944.0,973,,True
+252,QMobile,QMobile Noir A8i,Environmental Damage,2025-05-26,,Diagnosing,Osbourne O'Connolly,4712.0,1452,,True
+253,LG,LG KM500,Troubleshooting,2026-04-28,2026-05-12,Completed,Tedda Bewlie,10087.0,1782,Maya,False
+254,Huawei,Huawei P9,Troubleshooting,2025-12-11,2025-12-22,Unrepairable,Opalina Jeannesson,0.0,713,,False
+255,Oppo,Oppo Neo 5s,Diagnostic,2026-04-05,,Repairing,Katha Buttner,1715.0,893,,False
+256,verykool,verykool s351,Environmental Damage,2025-11-16,,Diagnosing,Lorilyn Lofty,18689.0,2106,,True
+257,alcatel,alcatel Idol 2,Software Issue,2025-11-13,2025-11-17,Ready for Pickup,Katha Buttner,0.0,2839,GCash,True
+258,vivo,vivo Y69,Maintenance,2025-05-17,,Repairing,Lorilyn Lofty,11733.0,581,,True
+259,Eten,Eten glofiish X500+,Troubleshooting,2026-03-02,,Diagnosing,Idalia Coomer,10268.0,1472,,True
+260,Samsung,Samsung Ch@t 322,Environmental Damage,2025-07-27,,Repairing,Tedda Bewlie,17550.0,879,,True
+261,Kyocera,Kyocera TG 200,Hardware Failure,2025-11-18,2025-11-30,Unrepairable,Tessa Lumbley,0.0,593,,True
+262,Samsung,Samsung Galaxy S6 edge+ (USA),Software Issue,2026-02-25,2026-03-03,Ready for Pickup,Florance Cartmill,0.0,2563,Debit Card,False
+263,Celkon,Celkon A90,Hardware Failure,2025-07-23,,Received,,3929.0,1400,,False
+264,Samsung,Samsung Focus,Environmental Damage,2025-06-06,,Repairing,Osbourne O'Connolly,5327.0,2877,,True
+265,Allview,Allview P5 Quad,Maintenance,2025-07-17,2025-07-22,Completed,Abran Scrimshire,10125.0,1577,Debit Card,True
+266,Sony,Sony Ericsson Hazel,Environmental Damage,2025-12-22,2025-12-26,Completed,Lorilyn Lofty,18416.0,1828,Maya,False
+267,Allview,Allview V3 Viper,Diagnostic,2025-12-21,2025-12-22,Completed,Tedda Bewlie,2803.0,2334,Cash,False
+268,HTC,HTC One XC,Environmental Damage,2025-06-10,,Received,,17984.0,2727,,False
+269,Qtek,Qtek 9090,Environmental Damage,2025-08-23,2025-08-28,Ready for Pickup,Chrissy Rudsdell,3688.0,1891,Debit Card,True
+270,Vodafone,Vodafone Tab Prime 6,Troubleshooting,2025-07-28,,Diagnosing,Idalia Coomer,5479.0,2190,,True
+271,Samsung,Samsung Xcover 271,Environmental Damage,2026-02-17,,Received,,13780.0,2854,,True
+272,Samsung,Samsung C5510,Hardware Failure,2025-05-20,2025-05-24,Completed,Dylan Cornwell,16214.0,2335,GCash,True
+273,Panasonic,Panasonic Eluga Mark 2,Diagnostic,2026-02-28,2026-03-11,Unrepairable,Calhoun Taye,0.0,685,,True
+274,Nokia,Nokia N900,Software Issue,2026-03-28,,Waiting on Parts,Chrissy Rudsdell,0.0,1270,,True
+275,Honor,Honor 8 Pro,Troubleshooting,2025-11-03,,Diagnosing,Florance Cartmill,12319.0,2405,,True
+276,Nokia,Nokia 3210,Diagnostic,2025-07-20,,Diagnosing,Tessy Blei,,1024,,True
+277,Haier,Haier P7,Hardware Failure,2025-07-11,2025-07-25,Unrepairable,Lorilyn Lofty,0.0,491,,False
+278,alcatel,alcatel OT-E805,Diagnostic,2025-10-29,2025-10-30,Ready for Pickup,Walsh Bartolomeotti,5254.0,2375,Cash,False
+279,BenQ,BenQ T33,Environmental Damage,2026-02-01,,Diagnosing,Lorilyn Lofty,6023.0,1249,,True
+280,HTC,HTC Desire 310,Hardware Failure,2025-12-15,,Diagnosing,Jessi Trinder,9226.0,579,,False
+281,LG,LG K10 (2017),Hardware Failure,2025-05-25,,Repairing,Tedda Bewlie,5465.0,2867,,False
+282,Pantech,Pantech Vega Racer 2 IM-A830L,Maintenance,2026-04-16,2026-04-20,Ready for Pickup,Chrissy Rudsdell,7815.0,1165,Cash,False
+283,Tel.Me.,Tel.Me. T919i,Hardware Failure,2025-09-22,,Received,Katha Buttner,18267.0,1072,,False
+284,Qtek,Qtek 8500,Diagnostic,2026-01-30,,Repairing,Osbourne O'Connolly,12274.0,2717,,True
+285,Samsung,Samsung X540,Diagnostic,2025-06-29,,Waiting on Parts,Abran Scrimshire,9039.0,1026,,True
+286,Samsung,Samsung Ch@t 322 Wi-Fi,Environmental Damage,2026-02-16,,Diagnosing,Abran Scrimshire,1780.0,1183,,False
+287,LG,LG X3,Maintenance,2026-01-14,2026-01-23,Unrepairable,Roseanne Piddlesden,0.0,743,,False
+288,i-mate,i-mate JAMA,Diagnostic,2025-07-19,,Waiting on Parts,Idalia Coomer,1059.0,976,,True
+289,Vertu,Vertu Constellation Ayxta,Software Issue,2026-03-13,2026-03-14,Completed,Dylan Cornwell,0.0,2800,Debit Card,False
+290,BlackBerry,BlackBerry DTEK60,Maintenance,2025-12-30,,Received,,17968.0,817,,True
+291,HTC,HTC S710,Diagnostic,2025-07-09,,Diagnosing,Opalina Jeannesson,1546.0,2149,,True
+292,Philips,Philips Xenium 9@9k,Troubleshooting,2026-04-16,,Diagnosing,Jessi Trinder,12264.0,2071,,False
+293,Motorola,Motorola V186,Maintenance,2025-10-29,,Repairing,Abran Scrimshire,7398.0,2215,,False
+294,Huawei,Huawei T552,Maintenance,2026-03-01,,Waiting on Parts,Idalia Coomer,13060.0,645,,False
+295,BenQ-Siemens,BenQ-Siemens CL71,Troubleshooting,2025-06-23,,Waiting on Parts,Osbourne O'Connolly,3279.0,1952,,True
+296,Samsung,Samsung Q100,Diagnostic,2025-11-07,2025-11-17,Ready for Pickup,Lorilyn Lofty,2012.0,2174,Credit Card,False
+297,alcatel,alcatel One Touch T'Pop,Diagnostic,2026-02-01,,Repairing,Tessa Lumbley,12458.0,793,,True
+298,Spice,Spice M-5600 FLO TV,Software Issue,2025-10-31,,Repairing,Lorilyn Lofty,0.0,1295,,False
+299,Samsung,Samsung X520,Diagnostic,2025-11-12,,Received,Osbourne O'Connolly,5627.0,2251,,True
+300,Samsung,Samsung Galaxy J7 (2017),Diagnostic,2025-06-04,,Received,,,1898,,False
+301,Nokia,Nokia 222 Dual SIM,Maintenance,2025-11-20,,Waiting on Parts,Rollin Wherry,15381.0,2138,,False
+302,Realme,Realme X2 Pro,Hardware Failure,2025-06-02,,Repairing,Osbourne O'Connolly,7464.0,2879,,True
+303,Xiaomi,Xiaomi Redmi K30S,Maintenance,2026-03-01,2026-03-15,Unrepairable,Florance Cartmill,0.0,576,,False
+304,Panasonic,Panasonic G70,Maintenance,2026-03-12,,Waiting on Parts,Idalia Coomer,6165.0,2570,,True
+305,O2,O2 XDA Terra,Software Issue,2026-03-05,2026-03-11,Ready for Pickup,Juliana Cleminson,0.0,1055,Cash,True
+306,Unnecto,Unnecto Bolt,Hardware Failure,2025-10-17,,Diagnosing,Walsh Bartolomeotti,14835.0,564,,True
+307,Sony,Sony Ericsson Live with Walkman,Hardware Failure,2026-01-31,,Waiting on Parts,Tessy Blei,15065.0,1042,,False
+308,Nokia,Nokia E60,Maintenance,2025-08-31,2025-09-13,Completed,Rollin Wherry,14682.0,2748,,True
+309,Nokia,Nokia 6301,Troubleshooting,2025-11-20,2025-11-30,Completed,Tessy Blei,14507.0,2709,Credit Card,True
+310,alcatel,alcatel OT-S320,Maintenance,2026-04-21,,Repairing,Abran Scrimshire,18646.0,1797,,True
+311,Gigabyte,Gigabyte g-re (o),Software Issue,2025-07-01,,Diagnosing,Florance Cartmill,0.0,1598,,True
+312,Sewon,Sewon SRS-3300,Maintenance,2025-09-20,,Diagnosing,Lorilyn Lofty,3479.0,1152,,False
+313,BQ,BQ Aquaris U2 Lite,Software Issue,2025-08-22,,Diagnosing,Opalina Jeannesson,0.0,2009,,True
+314,Wiko,Wiko Tommy,Software Issue,2025-05-03,,Received,Randal O'Conor,0.0,788,,True
+315,Motorola,Motorola C230,Hardware Failure,2025-05-16,,Repairing,Tedda Bewlie,15246.0,2234,,True
+316,Samsung,Samsung Galaxy J3 (2017),Software Issue,2025-06-29,,Diagnosing,Selene Clace,0.0,1373,,True
+317,Allview,Allview P6 Pro,Software Issue,2025-05-26,,Waiting on Parts,Rollin Wherry,0.0,559,,True
+318,Nokia,Nokia 301,Maintenance,2025-08-11,,Repairing,Osbourne O'Connolly,222.0,1022,,True
+319,OnePlus,OnePlus One,Hardware Failure,2025-10-26,2025-11-08,Completed,Juliana Cleminson,11610.0,1440,Debit Card,False
+320,QMobile,QMobile Noir X35,Diagnostic,2026-03-20,,Diagnosing,Calhoun Taye,14611.0,505,,False
+321,QMobile,QMobile Linq X70,Software Issue,2026-03-17,,Waiting on Parts,Selene Clace,0.0,2421,,True
+322,Yezz,Yezz Andy 4E LTE,Troubleshooting,2026-01-11,,Waiting on Parts,Katha Buttner,7753.0,2354,,False
+323,Gionee,Gionee Elife E7 Mini,Hardware Failure,2025-05-05,,Diagnosing,Calhoun Taye,,1363,,True
+324,Oppo,Oppo A5s (AX5s),Diagnostic,2026-03-08,,Received,,10842.0,1898,,False
+325,vivo,vivo V17 Pro,Software Issue,2025-07-20,,Waiting on Parts,Lorilyn Lofty,0.0,1093,,True
+326,Wiko,Wiko Birdy,Environmental Damage,2025-07-13,2025-07-23,Completed,Florance Cartmill,18664.0,529,Debit Card,False
+327,Infinix,Infinix Zero 4,Troubleshooting,2025-07-24,,Diagnosing,Idalia Coomer,6815.0,1854,,False
+328,Gigabyte,Gigabyte Snoopy,Maintenance,2025-10-05,,Diagnosing,Tedda Bewlie,11426.0,2517,,True
+329,Huawei,Huawei MediaPad M6 10.8,Hardware Failure,2026-04-14,2026-04-20,Ready for Pickup,Idalia Coomer,,1964,Maya,True
+330,Realme,Realme X,Diagnostic,2025-05-02,2025-05-07,Ready for Pickup,Roseanne Piddlesden,13529.0,2354,Credit Card,False
+331,Plum,Plum Might Plus II,Troubleshooting,2026-04-28,,Repairing,Chrissy Rudsdell,11987.0,863,,True
+332,QMobile,QMobile Noir Z14,Maintenance,2025-06-02,2025-06-11,Completed,Walsh Bartolomeotti,7745.0,2038,GCash,False
+333,Motorola,Motorola Moto X5,Environmental Damage,2025-05-22,2025-05-27,Completed,Tessy Blei,8051.0,2397,Debit Card,False
+334,OnePlus,OnePlus 5,Environmental Damage,2025-05-08,,Received,Tessy Blei,16746.0,727,,False
+335,QMobile,QMobile Noir A15 3D,Troubleshooting,2025-07-24,2025-07-25,Unrepairable,Chrissy Rudsdell,0.0,460,,True
+336,Casio,Casio G'zOne CA-201L,Maintenance,2025-06-17,,Waiting on Parts,Abran Scrimshire,10707.0,972,,True
+337,Celkon,Celkon C357,Software Issue,2025-10-01,,Repairing,Tessa Lumbley,0.0,2530,,False
+338,vivo,vivo X9s Plus,Diagnostic,2025-07-16,,Received,,13284.0,1289,,False
+339,Realme,Realme 2 Pro,Troubleshooting,2025-10-02,2025-10-16,Completed,Dylan Cornwell,10742.0,2334,Credit Card,False
+340,Wiko,Wiko U Feel Lite,Troubleshooting,2025-05-28,2025-06-02,Unrepairable,Walsh Bartolomeotti,0.0,759,,False
+341,Motorola,Motorola Moto G (2nd gen),Troubleshooting,2025-10-08,2025-10-13,Unrepairable,Randal O'Conor,0.0,613,,False
+342,Motorola,Motorola Moto G5S,Hardware Failure,2025-10-04,2025-10-16,Unrepairable,Jessi Trinder,0.0,321,,False
+343,Gionee,Gionee Ctrl V5,Software Issue,2025-06-16,,Repairing,Lorilyn Lofty,0.0,893,,False
+344,Haier,Haier Z7100,Troubleshooting,2025-09-07,,Repairing,Florance Cartmill,19377.0,2931,,True
+345,LG,LG L80 Dual,Maintenance,2025-07-06,,Diagnosing,Roseanne Piddlesden,14310.0,2332,,False
+346,ZTE,ZTE Grand X Max+,Environmental Damage,2025-06-21,2025-06-23,Ready for Pickup,Roseanne Piddlesden,12487.0,2176,Cash,True
+347,Pantech,Pantech PG-1900,Environmental Damage,2025-05-17,,Diagnosing,Jessi Trinder,16482.0,605,,True
+348,Acer,Acer Liquid Zest Plus,Diagnostic,2026-01-02,2026-01-15,Unrepairable,Selene Clace,0.0,552,,True
+349,Xiaomi,Xiaomi Mi 6c,Environmental Damage,2026-01-13,,Waiting on Parts,Katha Buttner,1273.0,1386,,True
+350,Nokia,Nokia Asha 230,Diagnostic,2025-05-29,2025-06-09,Ready for Pickup,Dylan Cornwell,365.0,1417,Cash,True
+351,Sagem,Sagem my900C,Troubleshooting,2026-01-20,,Waiting on Parts,Calhoun Taye,,1886,,False
+352,Vodafone,Vodafone 840,Troubleshooting,2025-11-22,,Repairing,Tessa Lumbley,4489.0,1721,,False
+353,LG,LG L65 Dual D285,Diagnostic,2025-11-10,2025-11-21,Ready for Pickup,Walsh Bartolomeotti,6356.0,2601,Cash,False
+354,Samsung,Samsung i200,Maintenance,2025-09-09,,Diagnosing,Osbourne O'Connolly,8351.0,2538,,False
+355,QMobile,QMobile Noir M300,Software Issue,2025-06-11,,Received,Florance Cartmill,0.0,1887,,True
+356,vivo,vivo Y12,Diagnostic,2025-05-06,,Waiting on Parts,Tessa Lumbley,19530.0,1524,,True
+357,LG,LG L40 D160,Diagnostic,2026-01-02,2026-01-08,Completed,Tedda Bewlie,19577.0,1067,GCash,False
+358,Nokia,Nokia 103,Troubleshooting,2025-07-10,2025-07-24,Unrepairable,Calhoun Taye,0.0,535,,True
+359,Motorola,Motorola V60i,Troubleshooting,2025-07-12,,Diagnosing,Juliana Cleminson,,1754,,False
+360,T-Mobile,T-Mobile myTouch,Software Issue,2026-02-11,2026-02-21,Ready for Pickup,Rollin Wherry,0.0,1340,Maya,False
+361,Realme,Realme Q2i,Environmental Damage,2025-08-23,2025-08-25,Unrepairable,Chrissy Rudsdell,0.0,644,,False
+362,Nokia,Nokia N92,Software Issue,2026-01-04,,Diagnosing,Abran Scrimshire,0.0,1263,,False
+363,Samsung,Samsung Galaxy S II LTE i727R,Maintenance,2025-06-07,2025-06-15,Completed,Chrissy Rudsdell,19126.0,1602,Cash,True
+364,Emporia,Emporia Solid Plus,Software Issue,2025-08-01,,Diagnosing,Jessi Trinder,0.0,1429,,False
+365,Samsung,Samsung E105,Environmental Damage,2025-11-06,,Waiting on Parts,Opalina Jeannesson,10212.0,2118,,True
+366,Sony,Sony Ericsson Xperia Neo,Software Issue,2025-12-22,,Received,,0.0,2637,,True
+367,Motorola,Motorola d520,Software Issue,2025-06-29,,Diagnosing,Lorilyn Lofty,0.0,2935,,True
+368,Wiko,Wiko Lenny2,Hardware Failure,2025-08-08,2025-08-11,Completed,Lorilyn Lofty,1060.0,1430,Debit Card,True
+369,Palm,Palm Pre 2 CDMA,Environmental Damage,2025-06-25,2025-07-08,Unrepairable,Walsh Bartolomeotti,0.0,348,,True
+370,Nokia,Nokia 800 Tough,Troubleshooting,2026-04-15,2026-04-19,Unrepairable,Tessy Blei,0.0,774,,False
+371,Lava,Lava Iris 250,Hardware Failure,2025-05-20,2025-06-02,Ready for Pickup,Tedda Bewlie,19198.0,1334,PayPal,False
+372,Celkon,Celkon A63,Hardware Failure,2025-11-14,,Repairing,Florance Cartmill,17502.0,2220,,True
+373,Nokia,Nokia 108 Dual SIM,Diagnostic,2026-01-13,,Repairing,Calhoun Taye,3381.0,1119,,True
+374,Samsung,Samsung M8920,Hardware Failure,2025-12-24,,Repairing,Lorilyn Lofty,11052.0,2029,,False
+375,i-mobile,i-mobile TV 536,Maintenance,2025-07-05,,Repairing,Tedda Bewlie,8721.0,2008,,True
+376,Lenovo,Lenovo S650,Troubleshooting,2025-12-01,,Waiting on Parts,Selene Clace,10238.0,2755,,True
+377,vivo,vivo iQOO 5 5G,Software Issue,2026-01-10,2026-01-14,Ready for Pickup,Jessi Trinder,0.0,2483,,False
+378,Gionee,Gionee S12 Lite,Environmental Damage,2025-07-08,,Repairing,Osbourne O'Connolly,1728.0,1935,,False
+379,alcatel,alcatel OT-C701,Hardware Failure,2025-08-01,2025-08-12,Ready for Pickup,Roseanne Piddlesden,,2023,PayPal,True
+380,Motorola,Motorola PEBL VU20,Environmental Damage,2025-06-17,,Diagnosing,Tedda Bewlie,12752.0,535,,True
+381,Microsoft,Microsoft Lumia 950 XL Dual SIM,Software Issue,2026-03-16,2026-03-26,Completed,Chrissy Rudsdell,0.0,2048,PayPal,True
+382,Samsung,Samsung E1272,Software Issue,2025-11-17,,Diagnosing,Jessi Trinder,0.0,893,,True
+383,alcatel,alcatel One Touch Idol Ultra,Hardware Failure,2025-12-06,,Repairing,Idalia Coomer,16268.0,1683,,False
+384,alcatel,alcatel OT-668,Hardware Failure,2026-04-19,,Waiting on Parts,Jessi Trinder,16924.0,2735,,False
+385,Philips,Philips S880,Environmental Damage,2025-08-09,,Waiting on Parts,Walsh Bartolomeotti,13735.0,2527,,True
+386,Lenovo,Lenovo S580,Troubleshooting,2025-11-08,2025-11-10,Completed,Abran Scrimshire,19576.0,930,,True
+387,Nokia,Nokia 6800,Software Issue,2026-02-20,,Waiting on Parts,Idalia Coomer,0.0,1040,,True
+388,Samsung,Samsung Rex 90 S5292,Environmental Damage,2025-12-26,,Waiting on Parts,Tessa Lumbley,,825,,False
+389,LG,LG G7070,Software Issue,2025-06-03,,Received,,0.0,2183,,False
+390,LG,LG X style,Diagnostic,2025-07-24,,Waiting on Parts,Roseanne Piddlesden,14362.0,2207,,False
+391,Asus,Asus Zenfone 4 A450CG (2014),Troubleshooting,2025-08-13,2025-08-22,Unrepairable,Tedda Bewlie,0.0,358,,False
+392,Wiko,Wiko Tommy2 Plus,Environmental Damage,2026-04-26,2026-05-10,Completed,Tedda Bewlie,13867.0,2999,Debit Card,True
+393,vivo,vivo X50 5G,Software Issue,2025-07-13,,Waiting on Parts,Selene Clace,0.0,1938,,False
+394,BlackBerry,BlackBerry Curve 8520,Troubleshooting,2025-07-23,2025-07-29,Completed,Katha Buttner,5630.0,1516,Maya,True
+395,VK,VK Mobile VK3100,Environmental Damage,2025-05-28,2025-05-30,Completed,Lorilyn Lofty,10732.0,1588,Credit Card,True
+396,Samsung,Samsung C520,Diagnostic,2025-08-30,,Diagnosing,Jessi Trinder,13492.0,881,,True
+397,LG,LG G Pad X 8.0,Maintenance,2026-04-08,2026-04-22,Ready for Pickup,Rollin Wherry,6565.0,597,Credit Card,False
+398,Allview,Allview V1 Viper i4G,Maintenance,2026-01-30,,Diagnosing,Jessi Trinder,6841.0,1509,,False
+399,XOLO,XOLO LT900,Hardware Failure,2026-03-17,,Waiting on Parts,Katha Buttner,16993.0,2260,,True
+400,Micromax,Micromax Funbook Infinity P275,Troubleshooting,2026-02-24,,Waiting on Parts,Tessy Blei,3269.0,1874,,False
+401,Gionee,Gionee W909,Diagnostic,2025-07-10,,Diagnosing,Tessa Lumbley,13520.0,1075,,True
+402,alcatel,alcatel OT-292,Troubleshooting,2025-10-19,2025-10-26,Ready for Pickup,Rollin Wherry,18289.0,1416,,False
+403,Samsung,Samsung SCH-W699,Diagnostic,2025-09-27,2025-10-11,Ready for Pickup,Chrissy Rudsdell,6316.0,1444,Cash,True
+404,Emporia,Emporia Talk Comfort,Diagnostic,2026-01-08,,Waiting on Parts,Lorilyn Lofty,13221.0,741,,True
+405,Motorola,Motorola Accompli 009,Hardware Failure,2025-05-14,,Waiting on Parts,Jessi Trinder,,1414,,False
+406,Samsung,Samsung Gear S2,Environmental Damage,2025-05-01,2025-05-10,Unrepairable,Calhoun Taye,0.0,469,,False
+407,alcatel,alcatel 1v (2019),Troubleshooting,2025-07-03,,Received,Katha Buttner,1031.0,2400,,False
+408,Allview,Allview Viva C701,Diagnostic,2025-08-25,,Diagnosing,Tedda Bewlie,13358.0,1215,,True
+409,Lava,Lava Iris 504q+,Troubleshooting,2025-08-25,2025-08-28,Unrepairable,Tedda Bewlie,0.0,775,,False
+410,Honor,Honor View,Software Issue,2025-09-05,,Diagnosing,Tessy Blei,0.0,2649,,True
+411,Samsung,Samsung M600,Hardware Failure,2025-11-05,2025-11-14,Completed,Abran Scrimshire,3955.0,1568,,False
+412,Panasonic,Panasonic P66,Diagnostic,2025-05-16,2025-05-24,Unrepairable,Tessa Lumbley,0.0,487,,False
+413,Allview,Allview AX4 Nano Plus,Troubleshooting,2026-04-19,,Waiting on Parts,Roseanne Piddlesden,19108.0,2016,,True
+414,LG,LG Nitro HD,Maintenance,2026-04-13,,Diagnosing,Juliana Cleminson,7430.0,1326,,False
+415,Huawei,Huawei MediaPad M2 10.0,Environmental Damage,2025-07-25,,Waiting on Parts,Osbourne O'Connolly,4029.0,731,,False
+416,Huawei,Huawei nova 8 SE,Environmental Damage,2025-09-11,2025-09-18,Completed,Lorilyn Lofty,1131.0,2815,GCash,True
+417,Celkon,Celkon Campus Nova A352E,Software Issue,2025-11-15,,Repairing,Lorilyn Lofty,0.0,1449,,True
+418,Energizer,Energizer Energy E11,Troubleshooting,2026-03-15,2026-03-21,Completed,Chrissy Rudsdell,5571.0,2747,,True
+419,Panasonic,Panasonic A200,Hardware Failure,2025-10-04,2025-10-13,Ready for Pickup,Randal O'Conor,1982.0,1784,Debit Card,False
+420,i-mobile,i-mobile Hitz 232CG,Diagnostic,2025-11-28,2025-12-08,Unrepairable,Jessi Trinder,0.0,763,,False
+421,Micromax,Micromax X410,Maintenance,2025-09-05,2025-09-08,Ready for Pickup,Roseanne Piddlesden,18122.0,2009,,False
+422,Micromax,Micromax A114R Canvas Beat,Software Issue,2025-09-23,2025-09-26,Completed,Osbourne O'Connolly,0.0,2444,Debit Card,False
+423,Ericsson,Ericsson T29s,Environmental Damage,2025-09-23,,Repairing,Lorilyn Lofty,17289.0,1473,,False
+424,Haier,Haier M2000,Troubleshooting,2025-05-28,2025-06-06,Completed,Lorilyn Lofty,16274.0,2712,PayPal,False
+425,Sony,Sony Ericsson T68i,Troubleshooting,2025-10-15,,Waiting on Parts,Florance Cartmill,2702.0,1565,,False
+426,alcatel,alcatel Pop D1,Software Issue,2025-06-22,2025-07-05,Completed,Rollin Wherry,0.0,2543,PayPal,False
+427,Oppo,Oppo R7 Plus,Hardware Failure,2025-11-04,,Repairing,Randal O'Conor,10233.0,2362,,True
+428,verykool,verykool s5015 Spark II,Maintenance,2026-04-10,,Waiting on Parts,Roseanne Piddlesden,1063.0,2746,,False
+429,Samsung,Samsung B110,Hardware Failure,2026-04-21,2026-04-24,Completed,Calhoun Taye,8665.0,2847,Maya,True
+430,Acer,Acer Iconia Tab A701,Maintenance,2025-06-17,,Diagnosing,Roseanne Piddlesden,16888.0,599,,True
+431,Nokia,Nokia 9300i,Diagnostic,2025-11-11,,Received,Idalia Coomer,2457.0,2466,,False
+432,vivo,vivo Y31 (2015),Software Issue,2025-08-07,2025-08-21,Ready for Pickup,Tessy Blei,0.0,2865,Credit Card,False
+433,Samsung,Samsung Galaxy Tab A 8.0 (2018),Environmental Damage,2025-09-17,2025-09-20,Unrepairable,Chrissy Rudsdell,0.0,570,,True
+434,Huawei,Huawei Mate 20 X,Troubleshooting,2026-04-02,,Waiting on Parts,Juliana Cleminson,15261.0,1346,,False
+435,Motorola,Motorola FIRE XT,Diagnostic,2025-06-12,,Waiting on Parts,Osbourne O'Connolly,746.0,2840,,True
+436,alcatel,alcatel 2001,Diagnostic,2025-05-31,,Diagnosing,Abran Scrimshire,16813.0,1100,,False
+437,alcatel,alcatel HC 800,Environmental Damage,2026-04-05,,Received,Florance Cartmill,4119.0,2680,,False
+438,Sony,Sony Ericsson J120,Environmental Damage,2025-05-29,,Repairing,Rollin Wherry,3597.0,1862,,False
+439,Honor,Honor Pad 5 10.1,Diagnostic,2026-01-13,2026-01-19,Completed,Tessy Blei,4882.0,793,Debit Card,False
+440,Samsung,Samsung Galaxy Note10 5G,Software Issue,2025-05-03,2025-05-04,Unrepairable,Chrissy Rudsdell,0.0,489,,True
+441,Maxon,Maxon MX-C60,Troubleshooting,2026-02-15,2026-02-20,Ready for Pickup,Opalina Jeannesson,3816.0,2559,Cash,True
+442,Motorola,Motorola ROKR E8,Troubleshooting,2025-12-25,,Diagnosing,Selene Clace,13614.0,608,,False
+443,BlackBerry,BlackBerry 8800,Troubleshooting,2025-10-04,,Diagnosing,Katha Buttner,4834.0,2311,,False
+444,Philips,Philips 530,Troubleshooting,2025-06-12,2025-06-24,Completed,Juliana Cleminson,18824.0,1214,Credit Card,False
+445,Celkon,Celkon A402,Software Issue,2026-01-30,,Waiting on Parts,Calhoun Taye,0.0,651,,False
+446,Lenovo,Lenovo A269i,Troubleshooting,2026-01-02,,Received,,16293.0,1601,,True
+447,Huawei,Huawei Y9a,Software Issue,2025-10-27,2025-10-28,Ready for Pickup,Katha Buttner,0.0,1969,GCash,True
+448,alcatel,alcatel OT-255,Troubleshooting,2026-01-04,2026-01-16,Ready for Pickup,Katha Buttner,10553.0,1860,,True
+449,BLU,BLU Tattoo,Hardware Failure,2026-01-15,,Diagnosing,Rollin Wherry,7453.0,1207,,True
+450,LG,LG F2400,Troubleshooting,2026-01-19,,Diagnosing,Jessi Trinder,18781.0,1645,,False
+451,Plum,Plum Dazzle,Maintenance,2026-04-08,2026-04-11,Ready for Pickup,Opalina Jeannesson,11281.0,2286,,False
+452,verykool,verykool SL4500 Fusion,Troubleshooting,2026-02-24,2026-02-27,Unrepairable,Osbourne O'Connolly,0.0,745,,True
+453,Micromax,Micromax X560,Software Issue,2025-06-12,,Diagnosing,Abran Scrimshire,0.0,2856,,False
+454,Samsung,Samsung E1125,Hardware Failure,2025-10-19,2025-11-01,Unrepairable,Osbourne O'Connolly,0.0,474,,True
+455,Samsung,Samsung E2210B,Environmental Damage,2025-07-18,,Repairing,Tedda Bewlie,18260.0,1455,,True
+456,Sony,Sony Ericsson Jalou D&G edition,Troubleshooting,2025-05-20,,Diagnosing,Katha Buttner,11016.0,511,,True
+457,Gionee,Gionee S6s,Environmental Damage,2025-10-07,2025-10-11,Unrepairable,Juliana Cleminson,0.0,745,,False
+458,QMobile,QMobile Noir Z9,Software Issue,2026-04-07,2026-04-19,Ready for Pickup,Abran Scrimshire,0.0,2847,,True
+459,LG,LG G350,Environmental Damage,2025-05-05,2025-05-09,Unrepairable,Selene Clace,0.0,350,,True
+460,XOLO,XOLO Q500s IPS,Environmental Damage,2026-02-21,,Received,Jessi Trinder,8199.0,1247,,False
+461,Samsung,Samsung i770 Saga,Diagnostic,2025-09-09,,Received,,9387.0,2569,,False
+462,XOLO,XOLO Q700 Club,Hardware Failure,2025-08-25,,Diagnosing,Abran Scrimshire,16742.0,2380,,True
+463,Philips,Philips 892,Diagnostic,2025-06-11,,Received,Calhoun Taye,3218.0,2210,,True
+464,Motorola,Motorola Motosmart Me XT303,Environmental Damage,2026-01-21,,Waiting on Parts,Osbourne O'Connolly,,1601,,True
+465,LG,LG G3100,Diagnostic,2025-09-09,2025-09-17,Ready for Pickup,Opalina Jeannesson,16467.0,1717,Maya,False
+466,Eten,Eten glofiish M750,Hardware Failure,2025-06-15,2025-06-23,Completed,Abran Scrimshire,1554.0,2683,Maya,True
+467,Lenovo,Lenovo K12 (China),Maintenance,2025-09-08,2025-09-13,Unrepairable,Abran Scrimshire,0.0,663,,False
+468,Sagem,Sagem my421x,Maintenance,2025-09-23,2025-10-05,Unrepairable,Tessa Lumbley,0.0,354,,False
+469,ZTE,ZTE Blade X1 5G,Troubleshooting,2025-11-14,2025-11-28,Ready for Pickup,Tedda Bewlie,17435.0,2286,GCash,False
+470,Amoi,Amoi 2561,Environmental Damage,2026-01-24,,Received,,14250.0,2053,,False
+471,Celkon,Celkon C99,Environmental Damage,2025-08-17,,Received,,18701.0,2907,,True
+472,O2,O2 XDA Nova,Hardware Failure,2026-01-17,2026-01-18,Completed,Abran Scrimshire,6666.0,813,Maya,True
+473,Micromax,Micromax A60,Software Issue,2025-11-16,,Repairing,Katha Buttner,0.0,1067,,False
+474,Lava,Lava X38,Maintenance,2025-11-23,,Received,,11531.0,568,,True
+475,Samsung,Samsung E1210,Diagnostic,2025-11-25,2025-12-02,Unrepairable,Opalina Jeannesson,0.0,543,,True
+476,Philips,Philips Xenium X513,Diagnostic,2025-09-23,,Diagnosing,Chrissy Rudsdell,17527.0,2155,,True
+477,Samsung,Samsung Guru E1081T,Hardware Failure,2025-11-12,,Diagnosing,Roseanne Piddlesden,4963.0,2829,,False
+478,Prestigio,Prestigio MultiPad 4 Quantum 9.7 Colombia,Maintenance,2026-03-20,,Waiting on Parts,Opalina Jeannesson,8770.0,2302,,True
+479,Mitsubishi,Mitsubishi Trium Galaxy,Maintenance,2025-09-19,,Diagnosing,Selene Clace,16593.0,1234,,True
+480,Celkon,Celkon C7 Jumbo,Hardware Failure,2026-03-14,,Diagnosing,Idalia Coomer,6329.0,1312,,False
+481,Tecno,Tecno Camon 11,Maintenance,2025-10-01,2025-10-12,Unrepairable,Tessa Lumbley,0.0,619,,False
+482,LG,LG K10,Software Issue,2025-11-07,,Waiting on Parts,Chrissy Rudsdell,0.0,2606,,False
+483,vivo,vivo Y53i,Software Issue,2025-07-28,2025-08-07,Completed,Walsh Bartolomeotti,0.0,1238,GCash,False
+484,Nokia,Nokia 103,Software Issue,2026-04-14,,Repairing,Tedda Bewlie,0.0,1085,,True
+485,Maxon,Maxon MX-6814,Software Issue,2026-03-10,,Diagnosing,Jessi Trinder,0.0,863,,False
+486,LG,LG GS190,Software Issue,2025-07-07,2025-07-14,Unrepairable,Osbourne O'Connolly,0.0,430,,True
+487,Samsung,Samsung Galaxy S6 edge+,Maintenance,2025-08-12,2025-08-20,Unrepairable,Roseanne Piddlesden,0.0,784,,True
+488,Samsung,Samsung Galaxy A51 5G UW,Software Issue,2025-05-24,2025-05-30,Completed,Tessa Lumbley,0.0,2711,,True
+489,QMobile,QMobile Noir A950,Diagnostic,2025-05-27,,Diagnosing,Katha Buttner,6944.0,2849,,False
+490,Ulefone,Ulefone Armor 6S,Maintenance,2026-01-25,,Repairing,Tedda Bewlie,7786.0,1125,,True
+491,Philips,Philips Xenium 9@9g,Troubleshooting,2025-12-25,,Diagnosing,Selene Clace,9977.0,1581,,False
+492,HTC,HTC One XL,Troubleshooting,2025-06-19,2025-06-30,Ready for Pickup,Calhoun Taye,,1803,GCash,False
+493,Allview,Allview Allwatch V,Hardware Failure,2025-05-07,2025-05-15,Completed,Rollin Wherry,3307.0,1512,,True
+494,Nokia,Nokia E72,Maintenance,2026-02-28,,Waiting on Parts,Selene Clace,13549.0,2425,,False
+495,Amazon,Amazon Fire 7 (2017),Hardware Failure,2026-04-13,,Diagnosing,Idalia Coomer,14524.0,2322,,False
+496,Philips,Philips X526,Diagnostic,2025-06-21,2025-06-30,Ready for Pickup,Jessi Trinder,655.0,1843,Debit Card,False
+497,Motorola,Motorola DROID 2 Global,Hardware Failure,2025-08-01,,Diagnosing,Osbourne O'Connolly,6853.0,1151,,True
+498,BlackBerry,BlackBerry Curve 3G 9300,Diagnostic,2025-06-03,,Diagnosing,Randal O'Conor,13069.0,1303,,False
+499,Xiaomi,Xiaomi Redmi 2A,Diagnostic,2025-11-21,2025-12-05,Ready for Pickup,Randal O'Conor,6724.0,2517,Credit Card,False
+500,Infinix,Infinix Note 7 Lite,Diagnostic,2026-04-23,2026-05-04,Unrepairable,Juliana Cleminson,0.0,606,,True
+501,Huawei,Huawei Ascend Y221,Environmental Damage,2026-03-04,,Diagnosing,Walsh Bartolomeotti,12181.0,1812,,False
+502,LG,LG KS10,Troubleshooting,2026-03-26,2026-04-02,Unrepairable,Roseanne Piddlesden,0.0,434,,True
+503,Apple,Apple iPad 2 Wi-Fi + 3G,Diagnostic,2025-09-02,,Waiting on Parts,Opalina Jeannesson,13596.0,699,,False
+504,Spice,Spice QT-65,Hardware Failure,2026-02-19,2026-03-02,Completed,Rollin Wherry,11519.0,2518,Debit Card,True
+505,Samsung,Samsung V100,Software Issue,2025-12-20,2025-12-26,Completed,Roseanne Piddlesden,0.0,2434,Maya,False
+506,Tecno,Tecno Pop 1 Lite,Environmental Damage,2025-12-09,2025-12-23,Ready for Pickup,Abran Scrimshire,14641.0,848,Maya,True
+507,vivo,vivo V1 Max,Environmental Damage,2025-07-14,,Repairing,Dylan Cornwell,13134.0,2071,,False
+508,Celkon,Celkon A359,Hardware Failure,2025-10-12,,Repairing,Selene Clace,3327.0,2355,,True
+509,ZTE,ZTE Axon Lux,Software Issue,2026-03-30,2026-04-11,Completed,Idalia Coomer,0.0,543,Maya,True
+510,Apple,Apple iPad Pro 10.5 (2017),Diagnostic,2025-12-02,,Diagnosing,Calhoun Taye,5484.0,710,,False
+511,BLU,BLU Dash G,Software Issue,2026-04-12,,Received,,0.0,2983,,True
+512,Motorola,Motorola T725,Diagnostic,2025-05-02,2025-05-05,Completed,Rollin Wherry,14663.0,2699,GCash,False
+513,Energizer,Energizer Energy E220,Hardware Failure,2025-05-05,2025-05-16,Ready for Pickup,Opalina Jeannesson,10049.0,2097,Maya,True
+514,BlackBerry,BlackBerry KEY2,Hardware Failure,2025-10-02,,Received,,3320.0,1088,,False
+515,Samsung,Samsung S400i,Environmental Damage,2025-10-08,2025-10-16,Completed,Tessy Blei,16094.0,2053,GCash,False
+516,Lava,Lava A59,Diagnostic,2025-11-08,,Diagnosing,Jessi Trinder,4268.0,1940,,True
+517,LG,LG Velvet 5G,Hardware Failure,2025-12-01,2025-12-05,Unrepairable,Jessi Trinder,0.0,320,,True
+518,Nokia,Nokia C5 Endi,Hardware Failure,2025-05-15,,Diagnosing,Dylan Cornwell,10109.0,730,,False
+519,Emporia,Emporia Glam,Software Issue,2025-12-05,,Received,,0.0,981,,True
+520,Samsung,Samsung Galaxy Express 2,Maintenance,2025-11-15,,Waiting on Parts,Florance Cartmill,709.0,627,,True
+521,Kyocera,Kyocera E4600,Diagnostic,2025-11-07,,Received,,17042.0,766,,False
+522,Celkon,Celkon A10,Troubleshooting,2025-10-06,,Waiting on Parts,Calhoun Taye,13963.0,1082,,True
+523,alcatel,alcatel One Touch Scribe HD-LTE,Troubleshooting,2025-06-12,,Repairing,Lorilyn Lofty,15766.0,740,,True
+524,Dell,Dell Venue 7 8 GB,Troubleshooting,2026-02-17,,Repairing,Tessa Lumbley,17828.0,2668,,False
+525,Nokia,Nokia E62,Troubleshooting,2025-06-24,,Repairing,Abran Scrimshire,2269.0,1271,,False
+526,verykool,verykool i650,Troubleshooting,2026-03-19,2026-03-20,Unrepairable,Selene Clace,0.0,628,,False
+527,Motorola,Motorola WX306,Troubleshooting,2025-12-13,,Waiting on Parts,Calhoun Taye,9688.0,1003,,True
+528,Spice,Spice M-4262,Diagnostic,2025-11-08,2025-11-14,Ready for Pickup,Katha Buttner,7238.0,2680,Cash,True
+529,Philips,Philips 659,Software Issue,2026-04-21,2026-04-23,Ready for Pickup,Katha Buttner,0.0,982,PayPal,True
+530,Bird,Bird D706,Maintenance,2025-07-03,,Repairing,Dylan Cornwell,,1764,,True
+531,verykool,verykool i129,Environmental Damage,2026-03-10,2026-03-12,Completed,Chrissy Rudsdell,6085.0,1740,Credit Card,True
+532,QMobile,QMobile Noir LT700 Pro,Diagnostic,2026-01-11,,Diagnosing,Roseanne Piddlesden,13078.0,2204,,True
+533,HTC,HTC Desire HD,Troubleshooting,2025-08-31,,Repairing,Selene Clace,16504.0,1987,,False
+534,Icemobile,Icemobile Hurricane II,Diagnostic,2025-06-02,,Received,Rollin Wherry,19336.0,1436,,False
+535,Allview,Allview Viva H7 LTE,Software Issue,2025-10-04,,Repairing,Chrissy Rudsdell,0.0,1461,,True
+536,Motorola,Motorola V1000,Hardware Failure,2026-03-16,,Diagnosing,Selene Clace,2357.0,1816,,True
+537,Nokia,Nokia 6600 slide,Troubleshooting,2026-04-23,,Waiting on Parts,Osbourne O'Connolly,1687.0,1635,,False
+538,T-Mobile,T-Mobile Vairy Touch,Maintenance,2026-04-22,2026-04-27,Unrepairable,Calhoun Taye,0.0,466,,True
+539,Motorola,Motorola MT917,Maintenance,2025-10-29,,Diagnosing,Calhoun Taye,8406.0,2193,,True
+540,Bosch,Bosch World 718,Diagnostic,2025-07-05,,Repairing,Juliana Cleminson,4104.0,1045,,False
+541,Gigabyte,Gigabyte GSmart T4,Troubleshooting,2026-03-02,2026-03-11,Completed,Tessa Lumbley,11716.0,757,Maya,True
+542,Spice,Spice M-6868N FLO ME,Maintenance,2026-02-21,,Received,Florance Cartmill,7821.0,1387,,True
+543,Samsung,Samsung ZV30,Troubleshooting,2026-03-19,,Received,,5473.0,1208,,True
+544,Xiaomi,Xiaomi Mi 11 Lite,Diagnostic,2025-12-16,2025-12-26,Unrepairable,Selene Clace,0.0,573,,True
+545,Samsung,Samsung E1080T,Hardware Failure,2026-01-20,2026-02-02,Completed,Lorilyn Lofty,14745.0,1082,Cash,False
+546,Maxon,Maxon MX-7940,Software Issue,2025-12-22,,Waiting on Parts,Osbourne O'Connolly,0.0,2856,,True
+547,BenQ-Siemens,BenQ-Siemens SF71,Maintenance,2025-06-08,2025-06-21,Completed,Calhoun Taye,5014.0,2902,GCash,True
+548,Samsung,Samsung Galaxy J7 Pro,Environmental Damage,2026-03-24,2026-04-07,Unrepairable,Abran Scrimshire,0.0,687,,False
+549,Samsung,Samsung i300,Diagnostic,2025-12-17,,Diagnosing,Lorilyn Lofty,1472.0,912,,False
+550,Philips,Philips S616,Software Issue,2025-09-19,2025-10-02,Ready for Pickup,Dylan Cornwell,0.0,878,PayPal,False
+551,Gigabyte,Gigabyte GSmart Essence 4,Troubleshooting,2025-10-29,,Received,Dylan Cornwell,2261.0,542,,False
+552,verykool,verykool s5530 Maverick II,Environmental Damage,2025-08-08,,Diagnosing,Roseanne Piddlesden,15700.0,2215,,True
+553,Micromax,Micromax X560,Environmental Damage,2026-03-08,2026-03-19,Completed,Calhoun Taye,1920.0,2056,,True
+554,Sony,Sony Xperia H8541,Software Issue,2025-12-06,2025-12-18,Completed,Calhoun Taye,0.0,2658,Maya,True
+555,Lenovo,Lenovo Yoga Tablet 2 10.1,Environmental Damage,2026-03-17,2026-03-25,Unrepairable,Walsh Bartolomeotti,0.0,388,,True
+556,Allview,Allview A10 Plus,Hardware Failure,2025-06-02,2025-06-10,Unrepairable,Tedda Bewlie,0.0,615,,True
+557,Motorola,Motorola C123,Environmental Damage,2025-09-09,,Received,Randal O'Conor,14826.0,928,,True
+558,Lava,Lava A76,Maintenance,2025-07-14,2025-07-15,Completed,Jessi Trinder,11756.0,2767,Cash,False
+559,Sony,Sony Xperia C,Maintenance,2026-01-27,2026-02-09,Ready for Pickup,Katha Buttner,924.0,2733,Cash,False
+560,Samsung,Samsung SCH-B100,Maintenance,2025-10-04,,Received,,,1754,,False
+561,NEC,NEC N343i,Hardware Failure,2025-12-28,2026-01-10,Unrepairable,Chrissy Rudsdell,0.0,313,,False
+562,Wiko,Wiko Rainbow,Troubleshooting,2025-10-27,2025-11-10,Completed,Tessa Lumbley,10801.0,1245,Cash,False
+563,Asus,Asus Pegasus 2 Plus,Hardware Failure,2025-09-12,,Waiting on Parts,Juliana Cleminson,1281.0,2106,,True
+564,HP,HP iPAQ hw6915,Troubleshooting,2025-07-24,,Waiting on Parts,Walsh Bartolomeotti,9456.0,2685,,False
+565,Motorola,Motorola Moto G9 (India),Software Issue,2025-08-28,,Received,,0.0,2513,,False
+566,Nokia,Nokia Lumia 635,Maintenance,2025-04-30,,Diagnosing,Abran Scrimshire,14322.0,1803,,False
+567,alcatel,alcatel Pixi 3 (7) LTE,Environmental Damage,2025-07-08,,Received,,5090.0,1354,,False
+568,BLU,BLU Speed,Environmental Damage,2025-05-30,,Received,Walsh Bartolomeotti,533.0,2172,,True
+569,Infinix,Infinix Hot 5,Diagnostic,2026-02-13,,Repairing,Lorilyn Lofty,15844.0,2920,,True
+570,BLU,BLU Kick,Software Issue,2026-01-05,,Diagnosing,Osbourne O'Connolly,0.0,2231,,True
+571,Sony,Sony Xperia XZs,Diagnostic,2025-05-09,,Waiting on Parts,Tedda Bewlie,10202.0,942,,True
+572,OnePlus,OnePlus 8 Pro,Software Issue,2025-11-09,2025-11-14,Completed,Randal O'Conor,0.0,2998,Credit Card,False
+573,Apple,Apple iPhone XS,Troubleshooting,2025-06-24,2025-07-08,Unrepairable,Roseanne Piddlesden,0.0,541,,False
+574,Samsung,Samsung E700,Troubleshooting,2026-04-02,,Diagnosing,Rollin Wherry,2035.0,2948,,True
+575,Samsung,Samsung S3500,Troubleshooting,2025-08-12,,Repairing,Tedda Bewlie,4379.0,1573,,False
+576,Celkon,Celkon C5050,Diagnostic,2025-06-09,2025-06-23,Ready for Pickup,Florance Cartmill,10755.0,1771,PayPal,True
+577,alcatel,alcatel OT-222,Software Issue,2026-04-24,2026-04-27,Completed,Dylan Cornwell,0.0,1307,,True
+578,HP,HP iPAQ 514,Hardware Failure,2025-12-26,,Waiting on Parts,Roseanne Piddlesden,16583.0,1322,,False
+579,Maxwest,Maxwest Orbit X50,Software Issue,2025-08-01,,Diagnosing,Florance Cartmill,0.0,1661,,True
+580,Samsung,Samsung Galaxy Note 10.1 N8000,Software Issue,2025-05-12,2025-05-26,Unrepairable,Katha Buttner,0.0,564,,True
+581,vivo,vivo Y91 (Mediatek),Hardware Failure,2025-05-11,,Waiting on Parts,Florance Cartmill,,558,,False
+582,Google,Google Pixel 5,Hardware Failure,2026-01-22,2026-01-30,Unrepairable,Juliana Cleminson,0.0,645,,True
+583,Sony,Sony Ericsson K500,Diagnostic,2026-02-10,2026-02-17,Ready for Pickup,Jessi Trinder,12363.0,1439,GCash,True
+584,LG,LG C1100,Hardware Failure,2025-08-29,,Diagnosing,Opalina Jeannesson,369.0,2113,,True
+585,Innostream,Innostream INNO 36,Maintenance,2025-05-07,2025-05-16,Ready for Pickup,Katha Buttner,12883.0,1349,,True
+586,QMobile,QMobile Noir X800,Troubleshooting,2026-01-26,,Waiting on Parts,Abran Scrimshire,16927.0,1719,,True
+587,Samsung,Samsung Galaxy Tab Pro 8.4 3G/LTE,Environmental Damage,2025-11-02,,Repairing,Opalina Jeannesson,17687.0,1217,,False
+588,BLU,BLU Pure XR,Maintenance,2025-09-30,,Waiting on Parts,Lorilyn Lofty,4422.0,545,,True
+589,Siemens,Siemens Xelibri 5,Software Issue,2025-11-14,,Repairing,Tessa Lumbley,0.0,2975,,True
+590,Huawei,Huawei nova plus,Software Issue,2026-03-19,,Received,,0.0,1276,,False
+591,Vodafone,Vodafone 547,Maintenance,2026-03-20,2026-03-23,Ready for Pickup,Tedda Bewlie,8643.0,1305,GCash,False
+592,Huawei,Huawei MatePad Pro 10.8 (2019),Environmental Damage,2025-10-22,,Waiting on Parts,Calhoun Taye,7084.0,587,,False
+593,Huawei,Huawei Ascend Y330,Troubleshooting,2026-04-24,2026-05-02,Ready for Pickup,Idalia Coomer,,1960,PayPal,False
+594,Oppo,Oppo N1,Hardware Failure,2025-07-11,,Repairing,Osbourne O'Connolly,11694.0,2313,,False
+595,Asus,Asus Zenfone V V520KL,Maintenance,2025-08-26,,Waiting on Parts,Dylan Cornwell,3961.0,584,,False
+596,LG,LG Tribute,Software Issue,2025-10-07,,Received,,0.0,1881,,True
+597,Lenovo,Lenovo A850+,Maintenance,2026-01-24,,Diagnosing,Chrissy Rudsdell,10902.0,1809,,False
+598,Samsung,Samsung Galaxy A6s,Hardware Failure,2025-06-14,,Received,,7912.0,2356,,True
+599,Motorola,Motorola Moto G8 Power,Hardware Failure,2026-01-02,2026-01-08,Completed,Walsh Bartolomeotti,10890.0,1850,,False
+600,Palm,Palm Treo 500v,Troubleshooting,2025-09-13,,Repairing,Tessy Blei,16062.0,2309,,True
+601,Emporia,Emporia Eco,Troubleshooting,2026-04-12,2026-04-16,Ready for Pickup,Rollin Wherry,9417.0,2857,,False
+602,BLU,BLU G50 Mega,Maintenance,2026-01-23,2026-02-01,Ready for Pickup,Juliana Cleminson,1923.0,2079,,False
+603,Yezz,Yezz Andy 4.5EL LTE,Diagnostic,2026-04-03,2026-04-10,Ready for Pickup,Calhoun Taye,16724.0,2551,,False
+604,Honor,Honor Pad 5 10.1,Maintenance,2025-08-29,2025-09-03,Completed,Jessi Trinder,12680.0,1460,Credit Card,True
+605,Xiaomi,Xiaomi Mi A2 (Mi 6X),Maintenance,2025-09-06,,Diagnosing,Lorilyn Lofty,10918.0,1905,,False
+606,Wiko,Wiko Selfy 4G,Environmental Damage,2025-12-26,,Repairing,Lorilyn Lofty,8669.0,1824,,True
+607,Spice,Spice Stellar 600 (Mi-600),Diagnostic,2026-04-17,,Diagnosing,Juliana Cleminson,3325.0,904,,True
+608,Gigabyte,Gigabyte GSmart Alto A2,Software Issue,2025-11-15,2025-11-16,Unrepairable,Walsh Bartolomeotti,0.0,352,,False
+609,Gionee,Gionee Pioneer P4S,Hardware Failure,2025-10-11,2025-10-24,Completed,Abran Scrimshire,15082.0,1572,Maya,True
+610,Karbonn,Karbonn K52 Groovster,Diagnostic,2025-05-25,,Received,,5269.0,1984,,True
+611,HTC,HTC U11,Software Issue,2025-09-05,2025-09-16,Ready for Pickup,Abran Scrimshire,0.0,2777,Cash,False
+612,HTC,HTC Desire 12,Software Issue,2025-09-08,2025-09-15,Completed,Calhoun Taye,0.0,2903,GCash,False
+613,Apple,Apple iPad 10.2 (2020),Environmental Damage,2025-11-08,2025-11-19,Ready for Pickup,Lorilyn Lofty,8765.0,2495,PayPal,False
+614,Samsung,Samsung F400,Maintenance,2026-03-24,,Waiting on Parts,Tessy Blei,13971.0,581,,True
+615,VK,VK Mobile VK530,Diagnostic,2026-04-14,,Diagnosing,Opalina Jeannesson,9359.0,1971,,True
+616,Lenovo,Lenovo IdeaPad A1,Software Issue,2025-06-15,2025-06-26,Unrepairable,Osbourne O'Connolly,0.0,685,,False
+617,Nokia,Nokia 6350,Maintenance,2025-11-30,,Diagnosing,Lorilyn Lofty,5501.0,2705,,True
+618,Meizu,Meizu M1,Environmental Damage,2025-12-18,2025-12-29,Ready for Pickup,Tedda Bewlie,888.0,1814,,True
+619,BQ,BQ Aquaris X2 Pro,Software Issue,2026-01-13,,Diagnosing,Dylan Cornwell,0.0,2050,,False
+620,Realme,Realme 6S,Software Issue,2025-10-14,,Diagnosing,Abran Scrimshire,0.0,1972,,False
+621,Honor,Honor X10 5G,Software Issue,2025-11-28,,Diagnosing,Jessi Trinder,0.0,2941,,True
+622,BLU,BLU Studio J5,Troubleshooting,2026-04-13,2026-04-19,Completed,Jessi Trinder,,2582,,True
+623,LG,LG Optimus Vu II F200,Environmental Damage,2026-02-11,,Repairing,Dylan Cornwell,19842.0,506,,False
+624,alcatel,alcatel OT-E201,Hardware Failure,2026-03-15,2026-03-29,Unrepairable,Osbourne O'Connolly,0.0,639,,True
+625,Samsung,Samsung R260 Chrono,Software Issue,2025-07-09,,Waiting on Parts,Jessi Trinder,0.0,974,,True
+626,Spice,Spice Mi-506 Stellar Mettle Icon,Environmental Damage,2025-07-20,2025-07-28,Ready for Pickup,Jessi Trinder,12531.0,2020,GCash,True
+627,Lava,Lava X50 Plus,Troubleshooting,2025-10-12,2025-10-24,Completed,Rollin Wherry,5227.0,967,Credit Card,False
+628,HTC,HTC Flyer,Hardware Failure,2025-07-26,,Received,,14372.0,2163,,True
+629,Sony,Sony Xperia SP,Diagnostic,2025-05-05,,Repairing,Chrissy Rudsdell,19727.0,1084,,True
+630,Xiaomi,Xiaomi Redmi K20 Pro,Hardware Failure,2025-11-01,2025-11-03,Ready for Pickup,Abran Scrimshire,19702.0,1255,,False
+631,LG,LG G Pad 8.3 LTE,Environmental Damage,2025-08-31,,Received,,15113.0,1648,,False
+632,Sony,Sony Xperia ion HSPA,Diagnostic,2025-10-31,,Waiting on Parts,Opalina Jeannesson,18593.0,2922,,False
+633,Xiaomi,Xiaomi Poco X2,Diagnostic,2025-08-02,,Diagnosing,Idalia Coomer,4550.0,2865,,False
+634,Samsung,Samsung E1050,Hardware Failure,2025-05-13,,Waiting on Parts,Lorilyn Lofty,10331.0,2132,,True
+635,Samsung,Samsung Galaxy M01,Diagnostic,2026-01-30,2026-02-02,Unrepairable,Chrissy Rudsdell,0.0,391,,False
+636,Samsung,Samsung Gear S3 classic LTE,Software Issue,2026-01-26,2026-01-27,Ready for Pickup,Calhoun Taye,0.0,2507,GCash,True
+637,LG,LG KS10,Maintenance,2025-08-04,,Diagnosing,Calhoun Taye,3723.0,2207,,False
+638,XOLO,XOLO Q900T,Maintenance,2025-05-01,2025-05-08,Ready for Pickup,Katha Buttner,16656.0,2940,Credit Card,True
+639,verykool,verykool i133,Diagnostic,2025-08-14,2025-08-22,Ready for Pickup,Lorilyn Lofty,14475.0,2200,,False
+640,Motorola,Motorola PEBL U3,Software Issue,2025-12-06,2025-12-11,Unrepairable,Abran Scrimshire,0.0,666,,False
+641,Motorola,Motorola DROID 2 Global,Hardware Failure,2025-09-03,,Received,,,1875,,False
+642,Huawei,Huawei U8230,Diagnostic,2025-06-07,,Diagnosing,Tessy Blei,6298.0,1497,,True
+643,Nokia,Nokia C6,Hardware Failure,2025-05-06,,Diagnosing,Florance Cartmill,18813.0,2566,,True
+644,Motorola,Motorola Moto G 5G,Software Issue,2025-11-11,,Waiting on Parts,Selene Clace,0.0,1440,,True
+645,Spice,Spice Stellar 526 (Mi-526),Diagnostic,2026-02-17,2026-02-21,Unrepairable,Tessy Blei,0.0,743,,True
+646,Allview,Allview X4 Soul Infinity S,Troubleshooting,2026-01-19,2026-01-22,Completed,Osbourne O'Connolly,10932.0,2339,Cash,False
+647,Micromax,Micromax Canvas Pulse 4G E451,Diagnostic,2025-05-10,,Repairing,Juliana Cleminson,938.0,1623,,True
+648,Motorola,Motorola C116,Troubleshooting,2025-05-02,2025-05-03,Completed,Roseanne Piddlesden,1508.0,753,PayPal,False
+649,Amoi,Amoi V810,Maintenance,2025-09-11,2025-09-19,Completed,Lorilyn Lofty,3555.0,2950,GCash,True
+650,Yezz,Yezz Andy 3G 3.5 YZ1110,Environmental Damage,2025-09-15,2025-09-17,Completed,Roseanne Piddlesden,9304.0,2406,Debit Card,True
+651,Motorola,Motorola Moto G,Maintenance,2026-01-14,2026-01-20,Unrepairable,Jessi Trinder,0.0,754,,False
+652,Sony,Sony Ericsson T310,Diagnostic,2025-12-18,,Diagnosing,Abran Scrimshire,14100.0,1423,,False
+653,Apple,Apple Watch Edition 42mm (1st gen),Maintenance,2026-02-04,,Received,Tedda Bewlie,4577.0,2864,,False
+654,ZTE,ZTE Grand X4,Troubleshooting,2025-07-19,,Repairing,Walsh Bartolomeotti,,2018,,False
+655,verykool,verykool s353,Hardware Failure,2026-03-18,2026-03-24,Unrepairable,Walsh Bartolomeotti,0.0,727,,False
+656,Motorola,Motorola PRO,Software Issue,2026-01-08,2026-01-21,Unrepairable,Jessi Trinder,0.0,563,,True
+657,Allview,Allview AX4 Nano,Hardware Failure,2026-02-01,2026-02-07,Ready for Pickup,Idalia Coomer,,824,Credit Card,True
+658,Honor,Honor 6X,Diagnostic,2025-09-07,,Received,Tessy Blei,,1570,,False
+659,VK,VK Mobile VK800,Hardware Failure,2025-06-25,,Waiting on Parts,Randal O'Conor,16397.0,769,,True
+660,VK,VK Mobile VK300,Hardware Failure,2025-11-19,2025-11-30,Ready for Pickup,Chrissy Rudsdell,470.0,1422,Credit Card,True
+661,Motorola,Motorola Moto G 4G,Hardware Failure,2026-04-07,,Waiting on Parts,Selene Clace,3396.0,709,,True
+662,Unnecto,Unnecto Air 5.0,Environmental Damage,2026-03-04,,Received,,18756.0,1055,,True
+663,LG,LG G1610,Hardware Failure,2026-01-09,,Diagnosing,Tessy Blei,16693.0,2092,,False
+664,Dell,Dell Streak 7,Environmental Damage,2025-06-27,2025-07-01,Unrepairable,Dylan Cornwell,0.0,730,,True
+665,Samsung,Samsung Galaxy Tab E 9.6,Troubleshooting,2025-06-14,,Waiting on Parts,Juliana Cleminson,16035.0,2068,,True
+666,Samsung,Samsung Galaxy Tab A 10.1 (2019),Environmental Damage,2025-07-09,,Received,Tessy Blei,1591.0,1294,,True
+667,Nokia,Nokia 3250,Maintenance,2026-01-17,,Waiting on Parts,Juliana Cleminson,499.0,969,,False
+668,Vodafone,Vodafone 543,Diagnostic,2026-01-07,,Waiting on Parts,Walsh Bartolomeotti,3986.0,836,,False
+669,BLU,BLU Neo XT,Environmental Damage,2025-09-27,,Diagnosing,Chrissy Rudsdell,12156.0,2854,,False
+670,VK,VK Mobile VK2100,Diagnostic,2025-07-20,,Received,Tessy Blei,,1997,,False
+671,Archos,Archos 55 Graphite,Software Issue,2025-05-01,2025-05-13,Completed,Tessa Lumbley,0.0,2048,Cash,False
+672,Plum,Plum Optimax 8.0,Software Issue,2025-07-22,,Received,Dylan Cornwell,0.0,1046,,True
+673,Nokia,Nokia 8250,Software Issue,2026-02-10,,Received,,0.0,1636,,False
+674,Nokia,Nokia X2-01,Environmental Damage,2025-06-29,,Waiting on Parts,Walsh Bartolomeotti,4318.0,2563,,True
+675,Samsung,Samsung Galaxy Grand I9082,Environmental Damage,2025-10-09,,Received,,3578.0,1206,,True
+676,Samsung,Samsung M8920,Environmental Damage,2026-04-06,,Waiting on Parts,Chrissy Rudsdell,351.0,1352,,False
+677,BLU,BLU J6,Hardware Failure,2025-07-17,,Waiting on Parts,Abran Scrimshire,188.0,1153,,False
+678,LG,LG U8200,Troubleshooting,2025-12-07,2025-12-15,Completed,Jessi Trinder,6939.0,1098,Credit Card,True
+679,Huawei,Huawei Y9 (2019),Troubleshooting,2025-05-02,,Diagnosing,Katha Buttner,7449.0,1179,,True
+680,alcatel,alcatel Pixi 4 (6),Troubleshooting,2025-05-12,,Diagnosing,Rollin Wherry,1447.0,740,,False
+681,HP,HP iPAQ hw6915,Maintenance,2025-05-10,2025-05-18,Unrepairable,Abran Scrimshire,0.0,334,,True
+682,Nokia,Nokia 5000,Diagnostic,2025-11-28,2025-12-12,Completed,Rollin Wherry,7798.0,2174,Debit Card,True
+683,LG,LG G7 ThinQ,Diagnostic,2025-12-22,,Diagnosing,Abran Scrimshire,15182.0,1976,,True
+684,Sony,Sony Ericsson Z600,Troubleshooting,2025-05-23,,Received,,12187.0,2969,,True
+685,Nokia,Nokia N77,Hardware Failure,2025-06-19,,Repairing,Jessi Trinder,9400.0,1808,,True
+686,Cat,Cat B15 Q,Hardware Failure,2025-06-09,,Received,,16536.0,1288,,True
+687,BLU,BLU Energy Diamond,Maintenance,2025-08-09,,Waiting on Parts,Dylan Cornwell,11227.0,889,,True
+688,BLU,BLU Energy X Plus 2,Maintenance,2025-07-20,,Received,,11550.0,2345,,False
+689,Samsung,Samsung Galaxy Tab S 8.4,Diagnostic,2025-05-01,,Diagnosing,Calhoun Taye,4751.0,1053,,False
+690,Sony,Sony Xperia Z4 Compact,Environmental Damage,2025-12-25,2025-12-30,Ready for Pickup,Randal O'Conor,7376.0,2053,Credit Card,True
+691,Motorola,Motorola Defy Mini XT320,Maintenance,2025-11-02,,Waiting on Parts,Randal O'Conor,,941,,False
+692,Oppo,Oppo Neo 7,Maintenance,2025-08-27,,Repairing,Tedda Bewlie,14371.0,1897,,False
+693,Nokia,Nokia 3128,Software Issue,2025-06-30,,Waiting on Parts,Randal O'Conor,0.0,1469,,True
+694,Nokia,Nokia 6555,Maintenance,2025-07-15,2025-07-22,Unrepairable,Chrissy Rudsdell,0.0,505,,False
+695,alcatel,alcatel OT-E201,Software Issue,2025-07-13,,Diagnosing,Walsh Bartolomeotti,0.0,2618,,True
+696,Samsung,Samsung S8600 Wave 3,Hardware Failure,2026-03-31,,Received,,7918.0,643,,False
+697,LG,LG Optimus Net Dual,Hardware Failure,2025-10-31,2025-11-07,Completed,Randal O'Conor,,2139,PayPal,True
+698,Sony,Sony Xperia TX,Troubleshooting,2026-01-18,,Received,Tedda Bewlie,3506.0,806,,False
+699,Motorola,Motorola BACKFLIP,Diagnostic,2026-02-27,2026-03-09,Ready for Pickup,Florance Cartmill,10606.0,860,PayPal,True
+700,NIU,NIU Tek 4D2,Maintenance,2025-07-07,,Diagnosing,Katha Buttner,18154.0,1020,,True
+701,alcatel,alcatel 1L (2021),Hardware Failure,2025-09-23,,Waiting on Parts,Florance Cartmill,11416.0,2824,,False
+702,Chea,Chea 178,Software Issue,2026-02-17,2026-02-19,Completed,Katha Buttner,0.0,627,Cash,False
+703,Panasonic,Panasonic X68/X77,Maintenance,2026-01-13,2026-01-24,Ready for Pickup,Osbourne O'Connolly,7312.0,1038,Cash,True
+704,Micromax,Micromax Canvas Selfie 2 Q340,Diagnostic,2025-08-09,2025-08-12,Completed,Osbourne O'Connolly,16873.0,2392,PayPal,False
+705,Ericsson,Ericsson GF 768,Diagnostic,2026-03-01,,Received,,18065.0,1576,,True
+706,Gionee,Gionee K30 Pro,Troubleshooting,2025-12-25,2026-01-01,Unrepairable,Chrissy Rudsdell,0.0,380,,False
+707,Sharp,Sharp Aquos R2,Software Issue,2026-04-19,,Repairing,Chrissy Rudsdell,0.0,726,,True
+708,BLU,BLU Studio G LTE,Hardware Failure,2025-05-02,,Waiting on Parts,Jessi Trinder,,1038,,True
+709,Samsung,Samsung Ativ Tab P8510,Troubleshooting,2025-05-01,,Received,,1072.0,2916,,True
+710,Meizu,Meizu M3s,Hardware Failure,2025-10-27,,Diagnosing,Rollin Wherry,2100.0,1419,,False
+711,Spice,Spice Mi-491 Stellar Virtuoso Pro,Diagnostic,2025-05-17,,Diagnosing,Dylan Cornwell,,1804,,True
+712,Wiko,Wiko View Prime,Troubleshooting,2026-02-10,2026-02-20,Ready for Pickup,Lorilyn Lofty,5964.0,2384,Cash,True
+713,Maxwest,Maxwest Orbit 330G,Diagnostic,2025-11-07,2025-11-17,Ready for Pickup,Jessi Trinder,12899.0,1985,Cash,True
+714,Orange,Orange Sydney,Software Issue,2025-10-27,,Repairing,Opalina Jeannesson,0.0,1697,,False
+715,BLU,BLU Tattoo,Environmental Damage,2025-09-29,,Diagnosing,Roseanne Piddlesden,17806.0,2840,,True
+716,LG,LG Optimus 3D Max P720,Troubleshooting,2026-01-01,2026-01-15,Ready for Pickup,Idalia Coomer,9677.0,1793,Maya,True
+717,Samsung,Samsung Gear Sport,Troubleshooting,2025-05-31,2025-06-10,Completed,Tessy Blei,3095.0,1885,PayPal,False
+718,Siemens,Siemens S65,Environmental Damage,2026-03-20,2026-04-01,Completed,Abran Scrimshire,10580.0,2861,Cash,False
+719,Lenovo,Lenovo A316i,Troubleshooting,2026-02-21,2026-03-02,Ready for Pickup,Idalia Coomer,11586.0,2984,Credit Card,True
+720,Maxwest,Maxwest Orbit 3000,Diagnostic,2026-01-31,2026-02-14,Completed,Calhoun Taye,8145.0,2716,GCash,False
+721,Tecno,Tecno Camon X Pro,Troubleshooting,2025-07-08,2025-07-14,Completed,Opalina Jeannesson,11924.0,1331,Debit Card,False
+722,Samsung,Samsung Galaxy Xcover 4,Environmental Damage,2025-10-21,,Diagnosing,Walsh Bartolomeotti,2956.0,605,,False
+723,Allview,Allview X2 Xtreme,Maintenance,2025-12-04,,Diagnosing,Walsh Bartolomeotti,14599.0,2408,,True
+724,Sagem,Sagem MY V-65,Software Issue,2025-12-10,,Repairing,Randal O'Conor,0.0,2290,,False
+725,Ulefone,Ulefone Note 7,Troubleshooting,2025-09-22,,Repairing,Tedda Bewlie,10122.0,845,,False
+726,verykool,verykool i130,Troubleshooting,2025-11-30,2025-12-02,Unrepairable,Abran Scrimshire,0.0,719,,False
+727,ZTE,ZTE S213,Hardware Failure,2026-01-11,2026-01-13,Completed,Katha Buttner,15508.0,1257,Cash,False
+728,Plum,Plum Tingle,Hardware Failure,2026-04-05,2026-04-18,Unrepairable,Lorilyn Lofty,0.0,349,,True
+729,Huawei,Huawei Enjoy 20 Pro,Hardware Failure,2026-02-18,,Repairing,Florance Cartmill,19065.0,2785,,True
+730,Micromax,Micromax Canvas Evok Power Q4260,Hardware Failure,2025-08-27,,Repairing,Abran Scrimshire,11180.0,2280,,False
+731,Maxwest,Maxwest Astro 4.5,Troubleshooting,2025-06-20,2025-07-03,Ready for Pickup,Osbourne O'Connolly,10504.0,1507,PayPal,True
+732,HTC,HTC Ozone,Diagnostic,2025-08-31,,Repairing,Tessa Lumbley,8193.0,2214,,True
+733,Google,Google Pixel 4,Maintenance,2025-12-05,,Diagnosing,Walsh Bartolomeotti,17442.0,1731,,True
+734,Huawei,Huawei T158,Maintenance,2026-04-29,2026-05-01,Completed,Walsh Bartolomeotti,13814.0,2653,Maya,True
+735,Samsung,Samsung Galaxy A50s,Software Issue,2025-10-12,,Repairing,Idalia Coomer,0.0,2418,,False
+736,Coolpad,Coolpad Note 3 Lite,Hardware Failure,2026-03-08,,Received,Idalia Coomer,9675.0,637,,False
+737,Toshiba,Toshiba Thrive 7,Maintenance,2026-01-05,,Repairing,Tessy Blei,,1204,,False
+738,LG,LG Cookie WiFi T310i,Diagnostic,2025-12-26,,Waiting on Parts,Calhoun Taye,3009.0,1364,,False
+739,Philips,Philips 639,Environmental Damage,2025-12-16,,Waiting on Parts,Idalia Coomer,,2830,,True
+740,Samsung,Samsung T401G,Hardware Failure,2025-05-12,,Repairing,Chrissy Rudsdell,14899.0,2141,,False
+741,Celkon,Celkon A66,Troubleshooting,2026-03-17,2026-03-19,Unrepairable,Selene Clace,0.0,659,,False
+742,Samsung,Samsung E840,Environmental Damage,2025-07-26,,Received,Osbourne O'Connolly,,2845,,False
+743,Samsung,Samsung D730,Diagnostic,2025-08-16,2025-08-30,Ready for Pickup,Walsh Bartolomeotti,2961.0,2710,GCash,True
+744,Nokia,Nokia 9.3 PureView,Hardware Failure,2025-09-09,,Waiting on Parts,Idalia Coomer,18088.0,2817,,True
+745,Oppo,Oppo A52,Hardware Failure,2025-10-20,2025-10-30,Unrepairable,Randal O'Conor,0.0,687,,False
+746,Panasonic,Panasonic Eluga Power,Diagnostic,2025-05-31,,Repairing,Walsh Bartolomeotti,13217.0,2242,,False
+747,alcatel,alcatel 2000,Maintenance,2025-08-19,,Received,,15428.0,1753,,True
+748,Motorola,Motorola Moto G Dual SIM (3rd gen),Software Issue,2026-01-16,2026-01-17,Ready for Pickup,Juliana Cleminson,0.0,1584,,False
+749,Sony,Sony Ericsson K550im,Diagnostic,2026-01-31,2026-02-14,Ready for Pickup,Dylan Cornwell,874.0,1504,,False
+750,QMobile,QMobile Noir E2,Environmental Damage,2026-02-11,2026-02-14,Completed,Osbourne O'Connolly,11391.0,2954,PayPal,True
+751,BQ,BQ Aquaris X Pro,Diagnostic,2025-06-03,2025-06-10,Ready for Pickup,Chrissy Rudsdell,2538.0,1034,Cash,False
+752,Samsung,Samsung Propel Pro,Diagnostic,2026-04-27,,Received,Walsh Bartolomeotti,7427.0,1242,,True
+753,Apple,Apple iPad 2 Wi-Fi,Diagnostic,2026-02-15,2026-02-28,Unrepairable,Jessi Trinder,0.0,301,,True
+754,Samsung,Samsung Guru Dual 26,Maintenance,2025-10-31,,Waiting on Parts,Rollin Wherry,15875.0,959,,False
+755,Icemobile,Icemobile Tropical 3,Maintenance,2025-08-13,,Diagnosing,Selene Clace,4497.0,2132,,True
+756,Samsung,Samsung Z600,Troubleshooting,2025-10-18,,Repairing,Abran Scrimshire,3066.0,2345,,True
+757,Wiko,Wiko Pulp,Environmental Damage,2025-07-16,,Waiting on Parts,Selene Clace,,1663,,True
+758,Spice,Spice Mi-498 Dream Uno,Diagnostic,2025-12-22,2026-01-04,Completed,Roseanne Piddlesden,4434.0,671,Debit Card,False
+759,NEC,NEC e525,Hardware Failure,2025-08-17,,Diagnosing,Abran Scrimshire,9046.0,2348,,False
+760,Philips,Philips Azalis 268,Maintenance,2025-06-27,,Diagnosing,Calhoun Taye,,1425,,True
+761,Xiaomi,Xiaomi Redmi 10X Pro 5G,Environmental Damage,2026-01-11,,Received,Tessa Lumbley,11968.0,2583,,False
+762,Acer,Acer Iconia Tab A3-A20,Software Issue,2025-08-17,2025-08-30,Unrepairable,Katha Buttner,0.0,689,,True
+763,Motorola,Motorola Moto G 4G Dual SIM (2nd gen),Software Issue,2025-07-11,,Repairing,Rollin Wherry,0.0,1311,,False
+764,ZTE,ZTE Blade Force,Environmental Damage,2025-05-28,,Diagnosing,Osbourne O'Connolly,15545.0,999,,False
+765,Samsung,Samsung J630,Software Issue,2025-10-01,,Received,Opalina Jeannesson,0.0,962,,False
+766,QMobile,QMobile Noir X800,Software Issue,2025-09-02,,Waiting on Parts,Calhoun Taye,0.0,1104,,True
+767,Sharp,Sharp TM100,Environmental Damage,2025-10-30,,Waiting on Parts,Juliana Cleminson,17558.0,730,,False
+768,Ulefone,Ulefone Watch Pro,Diagnostic,2025-11-20,,Waiting on Parts,Walsh Bartolomeotti,17952.0,2666,,False
+769,Motorola,Motorola WX160,Diagnostic,2026-02-07,,Received,,,1115,,False
+770,Apple,Apple iPad 3 Wi-Fi,Maintenance,2026-02-09,,Diagnosing,Walsh Bartolomeotti,,1215,,False
+771,alcatel,alcatel OT-E159,Diagnostic,2025-09-01,,Diagnosing,Tessy Blei,15109.0,952,,True
+772,NEC,NEC N630,Diagnostic,2026-04-28,,Repairing,Walsh Bartolomeotti,8747.0,2190,,False
+773,Lenovo,Lenovo S60,Software Issue,2025-11-20,,Repairing,Florance Cartmill,0.0,2395,,False
+774,Sony,Sony Ericsson S700,Environmental Damage,2025-05-05,2025-05-09,Unrepairable,Florance Cartmill,0.0,353,,False
+775,ZTE,ZTE F107,Environmental Damage,2026-03-26,,Diagnosing,Abran Scrimshire,9969.0,2052,,False
+776,Samsung,Samsung P300,Environmental Damage,2025-10-31,,Waiting on Parts,Roseanne Piddlesden,14343.0,1393,,False
+777,Samsung,Samsung Galaxy S5 Duos,Software Issue,2026-04-16,2026-04-24,Completed,Chrissy Rudsdell,0.0,1401,,True
+778,ZTE,ZTE F912,Troubleshooting,2025-10-05,,Repairing,Rollin Wherry,13190.0,2313,,True
+779,alcatel,alcatel One Touch T10,Diagnostic,2026-01-09,2026-01-10,Unrepairable,Opalina Jeannesson,0.0,405,,True
+780,Micromax,Micromax Canvas Tab P666,Troubleshooting,2026-02-18,,Repairing,Jessi Trinder,7787.0,1478,,True
+781,Archos,Archos Diamond Alpha +,Hardware Failure,2026-04-12,,Repairing,Dylan Cornwell,,2463,,False
+782,Maxon,Maxon MX-7920,Diagnostic,2026-02-27,2026-03-07,Ready for Pickup,Tessa Lumbley,2703.0,538,Credit Card,False
+783,Wiko,Wiko Lenny3,Troubleshooting,2025-12-22,,Waiting on Parts,Tessy Blei,12298.0,1569,,False
+784,Celkon,Celkon C605,Hardware Failure,2025-06-30,,Diagnosing,Calhoun Taye,18235.0,690,,True
+785,Sony,Sony Ericsson Z610,Software Issue,2025-11-13,,Diagnosing,Dylan Cornwell,0.0,634,,True
+786,vivo,vivo NEX S,Hardware Failure,2026-03-22,,Waiting on Parts,Jessi Trinder,5157.0,795,,True
+787,Xiaomi,Xiaomi Mi 2S,Environmental Damage,2025-05-19,2025-05-25,Unrepairable,Lorilyn Lofty,0.0,559,,True
+788,Celkon,Celkon Campus Prime,Software Issue,2026-04-18,,Received,Dylan Cornwell,0.0,1837,,False
+789,Motorola,Motorola PEBL U3,Maintenance,2025-12-08,2025-12-11,Ready for Pickup,Dylan Cornwell,13116.0,2474,PayPal,False
+790,Sharp,Sharp AQUOS  941SH,Troubleshooting,2025-07-27,2025-08-09,Unrepairable,Tedda Bewlie,0.0,609,,False
+791,Lenovo,Lenovo A328,Software Issue,2026-02-07,,Diagnosing,Katha Buttner,0.0,2054,,True
+792,Allview,Allview P6 Stony,Maintenance,2026-02-26,,Waiting on Parts,Randal O'Conor,15745.0,1286,,False
+793,vivo,vivo S1 Prime,Diagnostic,2026-02-27,2026-03-02,Ready for Pickup,Opalina Jeannesson,9849.0,2617,PayPal,False
+794,Siemens,Siemens A70,Hardware Failure,2025-10-14,,Received,,5099.0,1016,,False
+795,Spice,Spice Mi-410,Software Issue,2025-09-13,2025-09-22,Unrepairable,Chrissy Rudsdell,0.0,776,,False
+796,alcatel,alcatel OT-308,Hardware Failure,2025-11-07,2025-11-21,Completed,Florance Cartmill,13009.0,654,PayPal,False
+797,Motorola,Motorola Moto Z3 Play,Troubleshooting,2025-12-28,,Diagnosing,Jessi Trinder,,1146,,False
+798,LG,LG KF300,Software Issue,2025-11-10,,Waiting on Parts,Katha Buttner,0.0,2141,,True
+799,Samsung,Samsung Galaxy Tab Active LTE,Hardware Failure,2025-07-31,,Repairing,Dylan Cornwell,16531.0,1556,,False
+800,Nokia,Nokia C5-05,Hardware Failure,2025-06-28,,Repairing,Tessy Blei,12555.0,2761,,True
+801,Lenovo,Lenovo Tab M8 (FHD),Maintenance,2025-12-13,,Diagnosing,Tessa Lumbley,7955.0,2917,,False
+802,ZTE,ZTE Grand X LTE T82,Troubleshooting,2025-06-17,2025-06-23,Ready for Pickup,Randal O'Conor,6652.0,2221,,True
+803,Nokia,Nokia 5610 XpressMusic,Environmental Damage,2025-11-19,2025-11-30,Completed,Katha Buttner,3918.0,517,Credit Card,True
+804,Huawei,Huawei MediaPad M5 lite,Troubleshooting,2026-03-08,2026-03-22,Unrepairable,Walsh Bartolomeotti,0.0,490,,True
+805,Allview,Allview Viva Q8,Diagnostic,2025-10-30,,Diagnosing,Dylan Cornwell,,655,,True
+806,Plum,Plum Hammer,Software Issue,2025-08-25,2025-08-31,Ready for Pickup,Abran Scrimshire,0.0,1366,,True
+807,Xiaomi,Xiaomi Mi Note 3,Hardware Failure,2025-10-11,2025-10-20,Unrepairable,Dylan Cornwell,0.0,701,,False
+808,LG,LG Axis,Hardware Failure,2025-06-09,2025-06-19,Unrepairable,Chrissy Rudsdell,0.0,517,,False
+809,Philips,Philips X623,Maintenance,2025-12-19,2026-01-02,Completed,Tessy Blei,,1190,,True
+810,Motorola,Motorola VE75,Environmental Damage,2025-09-28,,Waiting on Parts,Walsh Bartolomeotti,15337.0,881,,False
+811,Xiaomi,Xiaomi Redmi Note 9,Hardware Failure,2025-08-31,,Diagnosing,Randal O'Conor,,1824,,False
+812,Honor,Honor Note 8,Maintenance,2026-04-05,2026-04-09,Unrepairable,Florance Cartmill,0.0,343,,False
+813,Samsung,Samsung Galaxy S20+ 5G,Troubleshooting,2025-06-24,,Waiting on Parts,Chrissy Rudsdell,661.0,643,,False
+814,Modu,Modu Shiny jacket,Environmental Damage,2025-07-25,,Received,,19352.0,1024,,True
+815,Spice,Spice S-7000,Software Issue,2025-07-01,,Diagnosing,Roseanne Piddlesden,0.0,835,,True
+816,Vodafone,Vodafone 1231,Software Issue,2026-04-08,,Repairing,Jessi Trinder,0.0,2750,,True
+817,BlackBerry,BlackBerry Bold Touch 9930,Software Issue,2025-07-11,2025-07-19,Ready for Pickup,Dylan Cornwell,0.0,1437,PayPal,False
+818,Celkon,Celkon Campus Buddy A404,Environmental Damage,2025-12-04,,Waiting on Parts,Katha Buttner,2282.0,1204,,True
+819,Motorola,Motorola Moto G Stylus (2021),Hardware Failure,2025-06-11,2025-06-17,Completed,Chrissy Rudsdell,15594.0,2371,PayPal,True
+820,LG,LG Watch Style,Software Issue,2025-05-14,2025-05-17,Completed,Tessa Lumbley,0.0,2497,Debit Card,True
+821,Motorola,Motorola V66i,Software Issue,2025-11-27,,Repairing,Lorilyn Lofty,0.0,1769,,False
+822,HTC,HTC One M8s,Diagnostic,2025-11-05,,Received,,17780.0,1341,,True
+823,Wiko,Wiko View,Diagnostic,2026-02-11,2026-02-14,Unrepairable,Abran Scrimshire,0.0,461,,False
+824,Apple,Apple iPhone X,Environmental Damage,2025-12-30,2026-01-13,Completed,Roseanne Piddlesden,15874.0,2736,Credit Card,False
+825,Wiko,Wiko Highway Signs,Hardware Failure,2026-02-14,2026-02-23,Completed,Walsh Bartolomeotti,17043.0,799,Cash,True
+826,Toshiba,Toshiba TS921,Diagnostic,2025-11-15,,Diagnosing,Lorilyn Lofty,10187.0,2411,,True
+827,Motorola,Motorola Moto 360 42mm (2nd gen),Environmental Damage,2026-03-31,,Diagnosing,Idalia Coomer,14414.0,2018,,False
+828,Motorola,Motorola V191,Diagnostic,2025-11-12,2025-11-20,Completed,Dylan Cornwell,,1608,,True
+829,Samsung,Samsung M2710 Beat Twist,Hardware Failure,2025-12-21,,Diagnosing,Jessi Trinder,15437.0,2428,,True
+830,Panasonic,Panasonic T50,Software Issue,2025-07-24,2025-08-01,Completed,Randal O'Conor,0.0,984,GCash,True
+831,LG,LG Wine Smart,Software Issue,2025-05-21,,Waiting on Parts,Katha Buttner,0.0,1881,,False
+832,Micromax,Micromax A59 Bolt,Maintenance,2025-07-20,2025-07-31,Ready for Pickup,Calhoun Taye,6813.0,2270,GCash,True
+833,Xiaomi,Xiaomi Mi A3,Hardware Failure,2026-03-24,2026-04-05,Ready for Pickup,Randal O'Conor,7476.0,2027,GCash,True
+834,Sony,Sony Ericsson Z770,Environmental Damage,2026-02-21,2026-03-04,Unrepairable,Osbourne O'Connolly,0.0,501,,True
+835,Meizu,Meizu 15,Environmental Damage,2026-03-02,,Diagnosing,Lorilyn Lofty,14785.0,2848,,True
+836,Motorola,Motorola A835,Diagnostic,2025-06-16,,Diagnosing,Dylan Cornwell,8424.0,1332,,False
+837,Celkon,Celkon A118,Software Issue,2026-01-22,,Received,,0.0,1602,,True
+838,HP,HP 7 Plus,Environmental Damage,2026-02-17,,Repairing,Rollin Wherry,12953.0,1321,,True
+839,verykool,verykool i129,Environmental Damage,2026-03-03,,Received,,15058.0,1279,,False
+840,BLU,BLU Studio X8 HD,Diagnostic,2026-04-16,,Received,Rollin Wherry,8990.0,2503,,True
+841,ZTE,ZTE R228,Diagnostic,2026-02-12,,Received,Roseanne Piddlesden,9924.0,907,,False
+842,Philips,Philips T539,Maintenance,2025-06-16,,Received,,5390.0,1027,,True
+843,Samsung,Samsung Galaxy Note10+,Diagnostic,2025-07-13,,Diagnosing,Calhoun Taye,11578.0,1355,,False
+844,HTC,HTC Sensation XL,Maintenance,2026-03-31,,Repairing,Florance Cartmill,1884.0,2039,,True
+845,i-mobile,i-mobile Hitz 2206,Maintenance,2025-09-03,,Diagnosing,Tessy Blei,15394.0,699,,True
+846,Wiko,Wiko Upulse,Software Issue,2026-01-06,,Received,,0.0,798,,False
+847,Samsung,Samsung E215,Troubleshooting,2025-06-03,2025-06-07,Unrepairable,Lorilyn Lofty,0.0,745,,False
+848,QMobile,QMobile E990 Sirocco Edition,Maintenance,2026-02-20,2026-02-22,Completed,Jessi Trinder,15077.0,1901,GCash,False
+849,Sony,Sony Ericsson Yendo,Hardware Failure,2025-12-04,,Waiting on Parts,Opalina Jeannesson,18110.0,1755,,True
+850,Gionee,Gionee S10,Maintenance,2026-02-03,,Received,,8549.0,2665,,False
+851,Samsung,Samsung Z105,Hardware Failure,2026-02-24,2026-03-02,Ready for Pickup,Opalina Jeannesson,1215.0,1500,PayPal,True
+852,Micromax,Micromax A67 Bolt,Software Issue,2025-09-20,2025-09-27,Completed,Randal O'Conor,0.0,1158,Cash,False
+853,LG,LG KM380,Software Issue,2025-07-25,,Diagnosing,Walsh Bartolomeotti,0.0,2092,,True
+854,BLU,BLU J2,Software Issue,2025-11-24,,Diagnosing,Dylan Cornwell,0.0,2139,,True
+855,LG,LG U880,Hardware Failure,2025-06-10,2025-06-23,Unrepairable,Osbourne O'Connolly,0.0,783,,False
+856,Huawei,Huawei G6608,Troubleshooting,2025-09-28,2025-09-29,Ready for Pickup,Abran Scrimshire,19437.0,1178,Debit Card,True
+857,Nokia,Nokia 6650 fold,Troubleshooting,2026-03-29,,Repairing,Jessi Trinder,,2915,,True
+858,Samsung,Samsung M7500 Emporio Armani,Maintenance,2026-03-03,,Repairing,Roseanne Piddlesden,6880.0,2200,,True
+859,Siemens,Siemens ME75,Diagnostic,2025-09-13,,Diagnosing,Juliana Cleminson,9630.0,1600,,False
+860,Samsung,Samsung Galaxy Note10 Lite,Software Issue,2025-11-13,2025-11-14,Unrepairable,Idalia Coomer,0.0,569,,True
+861,Samsung,Samsung A637,Environmental Damage,2025-06-02,,Repairing,Randal O'Conor,8999.0,1575,,False
+862,LG,LG G Flex2,Hardware Failure,2025-11-17,,Received,,3407.0,2191,,True
+863,Nokia,Nokia 7373,Environmental Damage,2025-07-30,,Repairing,Tessy Blei,,2737,,False
+864,Panasonic,Panasonic GD90,Hardware Failure,2026-02-15,2026-02-22,Completed,Roseanne Piddlesden,134.0,1816,Credit Card,False
+865,Samsung,Samsung S720i,Environmental Damage,2025-10-27,,Received,Osbourne O'Connolly,3886.0,1829,,True
+866,Nokia,Nokia X2 Dual SIM,Environmental Damage,2025-07-01,2025-07-07,Completed,Osbourne O'Connolly,6429.0,2208,,True
+867,Apple,Apple iPhone SE,Environmental Damage,2025-07-24,,Repairing,Lorilyn Lofty,5396.0,2509,,True
+868,Nokia,Nokia E50,Environmental Damage,2025-09-19,2025-09-22,Ready for Pickup,Florance Cartmill,3269.0,1124,PayPal,False
+869,Samsung,Samsung :) Smiley,Hardware Failure,2025-11-04,2025-11-09,Ready for Pickup,Florance Cartmill,18733.0,1865,PayPal,True
+870,LG,LG GS190,Hardware Failure,2026-04-12,,Received,Randal O'Conor,3503.0,2977,,True
+871,Gionee,Gionee Pioneer P2,Maintenance,2025-07-15,,Received,Opalina Jeannesson,18394.0,826,,False
+872,Micromax,Micromax Q3,Hardware Failure,2026-04-29,,Diagnosing,Jessi Trinder,144.0,1778,,True
+873,verykool,verykool S815,Environmental Damage,2025-08-27,,Waiting on Parts,Idalia Coomer,4710.0,1963,,False
+874,Motorola,Motorola Moto G Dual SIM (2nd gen),Software Issue,2025-05-03,,Diagnosing,Osbourne O'Connolly,0.0,2653,,False
+875,Samsung,Samsung S7330,Troubleshooting,2025-05-18,2025-05-19,Completed,Jessi Trinder,327.0,1003,Debit Card,True
+876,Samsung,Samsung Galaxy Grand 2,Maintenance,2025-11-13,,Waiting on Parts,Jessi Trinder,9776.0,937,,False
+877,LG,LG GX300,Maintenance,2025-05-18,,Repairing,Chrissy Rudsdell,8903.0,1405,,False
+878,Asus,Asus Z801,Troubleshooting,2025-11-18,,Received,,19524.0,2450,,False
+879,Acer,Acer Iconia A1-830,Troubleshooting,2026-03-19,,Received,,,2338,,False
+880,Benefon,Benefon Twin+,Environmental Damage,2025-09-24,,Waiting on Parts,Calhoun Taye,348.0,822,,True
+881,Oppo,Oppo Reno4 SE,Diagnostic,2026-03-21,,Received,,,2060,,False
+882,Lenovo,Lenovo A526,Maintenance,2026-01-12,,Diagnosing,Juliana Cleminson,7184.0,1740,,True
+883,HTC,HTC One XC,Hardware Failure,2025-10-10,,Repairing,Florance Cartmill,9275.0,1707,,True
+884,Qtek,Qtek 8080,Environmental Damage,2025-12-06,,Diagnosing,Florance Cartmill,18033.0,2472,,True
+885,BenQ-Siemens,BenQ-Siemens SL91,Diagnostic,2025-12-11,,Repairing,Selene Clace,1514.0,2556,,True
+886,Samsung,Samsung S5500 Eco,Diagnostic,2025-10-14,,Diagnosing,Florance Cartmill,7554.0,796,,True
+887,Gionee,Gionee Gpad G4,Troubleshooting,2025-08-21,,Repairing,Idalia Coomer,7090.0,876,,True
+888,Siemens,Siemens CXT65,Hardware Failure,2026-02-05,2026-02-10,Ready for Pickup,Chrissy Rudsdell,,946,,False
+889,Samsung,Samsung P220,Software Issue,2025-11-09,2025-11-22,Unrepairable,Dylan Cornwell,0.0,650,,False
+890,LG,LG W10 Alpha,Software Issue,2025-07-29,2025-08-07,Unrepairable,Lorilyn Lofty,0.0,603,,False
+891,Xiaomi,Xiaomi Redmi 8A Pro,Software Issue,2025-12-09,,Repairing,Walsh Bartolomeotti,0.0,1416,,False
+892,Yezz,Yezz Andy 3G 2.8 YZ11,Maintenance,2026-02-12,,Repairing,Lorilyn Lofty,13486.0,1623,,False
+893,Tecno,Tecno Spark 6 Go,Troubleshooting,2025-06-05,,Received,Abran Scrimshire,19358.0,687,,True
+894,Micromax,Micromax Canvas Xpress 2 E313,Hardware Failure,2025-07-22,,Repairing,Lorilyn Lofty,4054.0,2658,,False
+895,Philips,Philips V526,Maintenance,2025-10-09,,Repairing,Walsh Bartolomeotti,7295.0,832,,True
+896,Amoi,Amoi CMA8170,Diagnostic,2026-03-17,2026-03-27,Unrepairable,Tessy Blei,0.0,570,,False
+897,Lenovo,Lenovo A185,Troubleshooting,2026-02-10,,Diagnosing,Idalia Coomer,12686.0,2081,,True
+898,Motorola,Motorola W215,Troubleshooting,2025-07-09,,Received,,4884.0,961,,False
+899,Celkon,Celkon C770N,Software Issue,2025-11-16,2025-11-28,Unrepairable,Florance Cartmill,0.0,755,,True
+900,Huawei,Huawei Y9 (2018),Software Issue,2025-10-06,2025-10-07,Unrepairable,Chrissy Rudsdell,0.0,761,,True
+901,Lava,Lava X3,Hardware Failure,2025-08-25,,Repairing,Selene Clace,,2433,,True
+902,LG,LG KE990 Viewty,Maintenance,2025-08-02,,Received,Chrissy Rudsdell,,1906,,True
+903,Celkon,Celkon CT 7,Software Issue,2025-07-23,,Received,Dylan Cornwell,0.0,1057,,False
+904,Sagem,Sagem Puma Phone,Hardware Failure,2025-08-08,,Repairing,Dylan Cornwell,766.0,2344,,True
+905,Samsung,Samsung Galaxy S5 LTE-A G906S,Diagnostic,2025-05-04,2025-05-12,Ready for Pickup,Osbourne O'Connolly,13251.0,1168,,True
+906,Motorola,Motorola MILESTONE 3 XT860,Maintenance,2025-10-23,,Received,Selene Clace,17635.0,2284,,True
+907,alcatel,alcatel Pop 2 (5),Maintenance,2025-12-19,,Received,,8033.0,674,,True
+908,Samsung,Samsung U700,Software Issue,2026-01-06,2026-01-19,Completed,Florance Cartmill,0.0,1493,Debit Card,True
+909,alcatel,alcatel Pop 2 (5),Troubleshooting,2025-11-03,,Repairing,Rollin Wherry,12730.0,2536,,True
+910,ZTE,ZTE Avail,Diagnostic,2026-02-01,,Waiting on Parts,Tessa Lumbley,5184.0,1197,,False
+911,Samsung,Samsung A697 Sunburst,Maintenance,2026-03-27,2026-04-06,Completed,Walsh Bartolomeotti,4600.0,2857,Cash,False
+912,Lava,Lava Iris 405+,Hardware Failure,2025-07-16,,Received,,7708.0,1962,,True
+913,Sony,Sony Xperia Z4v,Diagnostic,2026-01-27,2026-02-09,Unrepairable,Lorilyn Lofty,0.0,514,,False
+914,Gionee,Gionee Pioneer P3S,Diagnostic,2026-02-17,2026-02-27,Unrepairable,Tessa Lumbley,0.0,551,,False
+915,Allview,Allview Viva C703,Diagnostic,2026-02-08,,Repairing,Selene Clace,14596.0,735,,False
+916,Karbonn,Karbonn Titanium S1 Plus,Software Issue,2026-03-10,,Diagnosing,Katha Buttner,0.0,1355,,True
+917,Sony,Sony Ericsson T290,Software Issue,2025-09-16,,Received,,0.0,2504,,True
+918,Cat,Cat S50,Maintenance,2025-12-18,2025-12-30,Unrepairable,Lorilyn Lofty,0.0,489,,False
+919,LG,LG L1100,Troubleshooting,2025-12-01,2025-12-08,Ready for Pickup,Jessi Trinder,6150.0,617,Credit Card,True
+920,Samsung,Samsung Galaxy Note20 Ultra,Hardware Failure,2025-11-19,2025-11-21,Unrepairable,Lorilyn Lofty,0.0,595,,False
+921,Amoi,Amoi A203,Diagnostic,2025-10-11,,Diagnosing,Katha Buttner,11304.0,1402,,True
+922,Samsung,Samsung Galaxy S10,Hardware Failure,2026-03-27,,Diagnosing,Tessy Blei,1977.0,958,,False
+923,verykool,verykool s4009 Crystal,Troubleshooting,2025-05-22,,Waiting on Parts,Rollin Wherry,5830.0,1114,,False
+924,Maxon,Maxon MX-C180,Troubleshooting,2025-08-29,2025-08-31,Completed,Jessi Trinder,18913.0,1341,GCash,False
+925,Sony,Sony Xperia X,Diagnostic,2025-08-04,,Waiting on Parts,Rollin Wherry,14844.0,2564,,False
+926,Samsung,Samsung I8200 Galaxy S III mini VE,Diagnostic,2025-12-12,,Received,Lorilyn Lofty,13370.0,932,,False
+927,vivo,vivo Xplay3S,Software Issue,2025-07-11,2025-07-13,Completed,Dylan Cornwell,0.0,2099,PayPal,False
+928,Bird,Bird D636,Diagnostic,2025-12-31,2026-01-04,Unrepairable,Calhoun Taye,0.0,512,,False
+929,Micromax,Micromax Canvas Amaze Q395,Diagnostic,2026-04-22,,Diagnosing,Walsh Bartolomeotti,,1965,,False
+930,Ericsson,Ericsson S 868,Hardware Failure,2025-11-28,2025-12-03,Unrepairable,Katha Buttner,0.0,507,,True
+931,Pantech,Pantech P4000,Troubleshooting,2026-04-13,2026-04-18,Completed,Calhoun Taye,,2416,GCash,False
+932,Nokia,Nokia 150,Troubleshooting,2026-01-16,2026-01-29,Completed,Tessa Lumbley,9999.0,2615,GCash,False
+933,BenQ-Siemens,BenQ-Siemens SL80,Diagnostic,2026-04-05,2026-04-13,Ready for Pickup,Walsh Bartolomeotti,14557.0,1297,Cash,True
+934,Celkon,Celkon C206,Maintenance,2026-03-09,,Waiting on Parts,Florance Cartmill,,500,,True
+935,Oppo,Oppo Reno A,Environmental Damage,2026-03-09,2026-03-12,Ready for Pickup,Jessi Trinder,1434.0,768,PayPal,False
+936,LeEco,LeEco Le Pro 3 AI Edition,Hardware Failure,2025-08-03,2025-08-06,Completed,Walsh Bartolomeotti,,913,Credit Card,True
+937,Realme,Realme 5i,Hardware Failure,2025-07-24,2025-08-02,Unrepairable,Katha Buttner,0.0,536,,False
+938,Vodafone,Vodafone Smart Mini,Hardware Failure,2025-06-06,2025-06-19,Ready for Pickup,Roseanne Piddlesden,3489.0,2028,PayPal,False
+939,alcatel,alcatel OT-292,Maintenance,2025-06-02,2025-06-06,Ready for Pickup,Calhoun Taye,7424.0,744,Credit Card,True
+940,Archos,Archos 45c Platinum,Troubleshooting,2025-11-22,2025-12-03,Ready for Pickup,Tessy Blei,14690.0,1906,GCash,False
+941,Allview,Allview P9 Energy mini,Diagnostic,2025-10-19,,Repairing,Chrissy Rudsdell,12799.0,2428,,True
+942,ZTE,ZTE Grand S II S291,Troubleshooting,2025-11-24,,Received,,405.0,2460,,True
+943,alcatel,alcatel OT-E100,Software Issue,2025-07-25,2025-08-02,Completed,Katha Buttner,0.0,2748,Credit Card,True
+944,alcatel,alcatel OT-S626A,Diagnostic,2025-08-06,2025-08-10,Ready for Pickup,Katha Buttner,17446.0,810,Credit Card,False
+945,Huawei,Huawei Watch 2 2018,Software Issue,2026-02-07,,Received,Randal O'Conor,0.0,754,,False
+946,Samsung,Samsung C3630,Troubleshooting,2026-02-06,2026-02-20,Completed,Jessi Trinder,,2898,Debit Card,False
+947,Allview,Allview E2 Living,Hardware Failure,2026-03-16,,Repairing,Tessa Lumbley,10120.0,2523,,False
+948,alcatel,alcatel Pixi 4 Plus Power,Hardware Failure,2025-12-03,2025-12-17,Completed,Randal O'Conor,13850.0,1717,PayPal,True
+949,Sony,Sony Ericsson R300 Radio,Maintenance,2025-12-17,2025-12-20,Completed,Rollin Wherry,,1838,Maya,True
+950,Samsung,Samsung Galaxy Note 10.1 N8000,Environmental Damage,2025-09-23,,Received,Florance Cartmill,5110.0,1086,,False
+951,Xiaomi,Xiaomi Mi Mix 3 5G,Hardware Failure,2025-05-22,,Diagnosing,Dylan Cornwell,2175.0,742,,True
+952,Motorola,Motorola A1000,Troubleshooting,2025-08-29,2025-09-04,Ready for Pickup,Dylan Cornwell,12937.0,1441,,True
+953,Vodafone,Vodafone 533,Maintenance,2025-12-09,2025-12-14,Unrepairable,Florance Cartmill,0.0,637,,False
+954,Toshiba,Toshiba G450,Hardware Failure,2025-08-25,,Received,Walsh Bartolomeotti,15000.0,2566,,False
+955,Spice,Spice M-5365 Boss Killer,Environmental Damage,2025-11-22,2025-11-27,Ready for Pickup,Idalia Coomer,8325.0,2789,PayPal,False
+956,ZTE,ZTE Blade X,Environmental Damage,2026-02-14,,Diagnosing,Randal O'Conor,7227.0,1085,,True
+957,verykool,verykool SL5550 Maverick LTE,Software Issue,2026-03-10,,Waiting on Parts,Roseanne Piddlesden,0.0,745,,True
+958,Spice,Spice M-5350,Maintenance,2025-11-09,2025-11-15,Completed,Calhoun Taye,6720.0,1590,,False
+959,Samsung,Samsung E950,Environmental Damage,2025-09-14,,Waiting on Parts,Florance Cartmill,16794.0,2665,,False
+960,Nokia,Nokia 9210 Communicator,Software Issue,2026-04-08,,Repairing,Juliana Cleminson,0.0,2938,,True
+961,BLU,BLU Life Mark,Environmental Damage,2025-08-16,,Received,,2116.0,561,,True
+962,BLU,BLU Vivo XL3 Plus,Hardware Failure,2025-07-26,2025-08-08,Completed,Walsh Bartolomeotti,13000.0,2807,PayPal,True
+963,Telit,Telit t420,Maintenance,2026-03-15,,Diagnosing,Florance Cartmill,12259.0,2266,,True
+964,Karbonn,Karbonn K65 Buzz,Diagnostic,2026-04-25,2026-05-04,Unrepairable,Randal O'Conor,0.0,666,,True
+965,Huawei,Huawei MediaPad 7 Lite,Maintenance,2025-10-09,2025-10-12,Ready for Pickup,Roseanne Piddlesden,9286.0,1305,,True
+966,Sony,Sony Xperia Z,Maintenance,2025-06-02,,Repairing,Roseanne Piddlesden,5386.0,813,,False
+967,Xiaomi,Xiaomi Mi 4c,Troubleshooting,2026-01-16,2026-01-19,Ready for Pickup,Katha Buttner,6661.0,1665,Cash,False
+968,Nokia,Nokia Lumia 710 T-Mobile,Troubleshooting,2025-12-06,2025-12-07,Ready for Pickup,Tedda Bewlie,,2349,,True
+969,Nokia,Nokia C1 Plus,Diagnostic,2025-10-05,,Repairing,Katha Buttner,1505.0,581,,False
+970,BLU,BLU Energy JR,Hardware Failure,2026-01-23,,Received,Jessi Trinder,12114.0,2965,,False
+971,Samsung,Samsung U320 Haven,Hardware Failure,2025-07-13,,Received,Jessi Trinder,888.0,1402,,False
+972,VK,VK Mobile VK4000,Hardware Failure,2025-09-12,2025-09-25,Ready for Pickup,Florance Cartmill,10937.0,2185,Debit Card,False
+973,Samsung,Samsung T459 Gravity,Maintenance,2025-10-01,2025-10-14,Completed,Rollin Wherry,4482.0,1378,GCash,False
+974,Pantech,Pantech Vega Racer 2 IM-A830L,Software Issue,2025-06-14,2025-06-24,Ready for Pickup,Abran Scrimshire,0.0,2429,GCash,True
+975,BlackBerry,BlackBerry Z20,Environmental Damage,2025-05-22,,Received,,707.0,1048,,False
+976,LG,LG W10 Alpha,Hardware Failure,2025-07-28,2025-08-01,Completed,Chrissy Rudsdell,3167.0,1543,,True
+977,BLU,BLU Advance 4.0 L,Maintenance,2026-01-13,2026-01-18,Completed,Idalia Coomer,10122.0,1852,,True
+978,LG,LG Optimus S,Hardware Failure,2025-10-04,2025-10-11,Ready for Pickup,Florance Cartmill,16568.0,2555,,False
+979,Microsoft,Microsoft Lumia 540 Dual SIM,Software Issue,2025-07-23,2025-08-05,Ready for Pickup,Opalina Jeannesson,0.0,2197,Maya,False
+980,Honor,Honor 30 Pro,Environmental Damage,2026-02-17,2026-02-27,Ready for Pickup,Randal O'Conor,13373.0,2290,Cash,False
+981,BlackBerry,BlackBerry DTEK60,Environmental Damage,2026-04-09,,Repairing,Lorilyn Lofty,18995.0,812,,False
+982,Motorola,Motorola C116,Software Issue,2025-10-25,2025-11-04,Completed,Idalia Coomer,0.0,1658,,True
+983,Qtek,Qtek 9100,Diagnostic,2025-07-19,,Diagnosing,Jessi Trinder,13875.0,1333,,True
+984,Sony,Sony Ericsson K510,Hardware Failure,2025-05-12,,Received,Idalia Coomer,6738.0,814,,True
+985,BLU,BLU Dash M2,Environmental Damage,2025-12-01,2025-12-09,Ready for Pickup,Katha Buttner,13273.0,901,,False
+986,Allview,Allview X3 Soul Lite,Hardware Failure,2025-08-22,2025-08-29,Completed,Lorilyn Lofty,3264.0,1141,PayPal,False
+987,Kyocera,Kyocera E4600,Troubleshooting,2025-12-26,2026-01-02,Ready for Pickup,Chrissy Rudsdell,6381.0,1882,PayPal,False
+988,XOLO,XOLO Q900s,Maintenance,2025-09-19,,Diagnosing,Florance Cartmill,7877.0,2693,,False
+989,ZTE,ZTE V887,Hardware Failure,2025-12-21,,Diagnosing,Walsh Bartolomeotti,13975.0,2021,,True
+990,VK,VK Mobile VK4000,Software Issue,2026-04-04,,Diagnosing,Walsh Bartolomeotti,0.0,1647,,True
+991,Motorola,Motorola XT928,Software Issue,2026-02-27,2026-03-12,Ready for Pickup,Opalina Jeannesson,0.0,2930,,True
+992,ZTE,ZTE E N72,Hardware Failure,2025-12-21,2026-01-01,Unrepairable,Opalina Jeannesson,0.0,352,,False
+993,Celkon,Celkon Campus Prime,Troubleshooting,2026-03-17,,Diagnosing,Rollin Wherry,10102.0,2117,,False
+994,BenQ-Siemens,BenQ-Siemens CF61,Hardware Failure,2025-10-30,2025-11-10,Completed,Tessa Lumbley,12314.0,2390,Credit Card,False
+995,Karbonn,Karbonn Titanium Mach Two S360,Maintenance,2026-04-24,,Waiting on Parts,Opalina Jeannesson,12236.0,1191,,False
+996,HTC,HTC One SV,Environmental Damage,2025-07-18,,Repairing,Osbourne O'Connolly,921.0,2448,,False
+997,Sony,Sony Ericsson K510,Diagnostic,2025-05-04,2025-05-18,Ready for Pickup,Tessa Lumbley,,2893,PayPal,True
+998,Samsung,Samsung Gear 2,Maintenance,2025-12-26,,Diagnosing,Randal O'Conor,10286.0,2336,,False
+999,Meizu,Meizu E2,Diagnostic,2025-12-11,,Waiting on Parts,Dylan Cornwell,,1838,,True
+1000,Celkon,Celkon AR50,Hardware Failure,2025-11-11,,Waiting on Parts,Tessy Blei,6294.0,1947,,False
